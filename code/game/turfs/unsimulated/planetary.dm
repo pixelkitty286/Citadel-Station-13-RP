@@ -83,3 +83,9 @@
 	desc = "An eight-meter tall carbyne wall. For when the wildlife on your planet is mostly militant megacorps."
 	alpha = 0xFF
 	initial_gas_mix = ATMOSPHERE_ID_LYTHIOS43C
+
+/turf/unsimulated/wall/planetary/vharr
+	name = "facility wall"
+	desc = "An eight-meter tall carbyne wall. For when the wildlife on your planet is mostly militant megacorps."
+	alpha = 0xFF
+	initial_gas_mix = ATMOSPHERE_ID_VHARR

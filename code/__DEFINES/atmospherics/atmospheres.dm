@@ -12,6 +12,8 @@
 #define ATMOSPHERE_ID_VIRGO3B			/datum/atmosphere/planet/virgo3b
 /// Lythios4c (station) atmosphere ID
 #define ATMOSPHERE_ID_LYTHIOS43C		/datum/atmosphere/planet/lythios43c
+/// Lythios4c-NTB Prometheus (Station) atmosphere ID
+#define ATMOSPHERE_ID_VHARR			/datum/atmosphere/planet/vharr
 /// Class H World Atmos IDs
 #define ATMOSPHERE_ID_DESERT			/datum/atmosphere/planet/classh
 /// Gaia PlanetAtmos IDs
