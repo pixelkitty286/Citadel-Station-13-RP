@@ -91,3 +91,15 @@
 	edge_blending_priority = 0
 	initial_flooring = /singleton/flooring/snow/gravsnow
 	baseturfs = /turf/simulated/floor/outdoors/dirt
+
+//Extra snow stuff
+/turf/simulated/floor/plating/snow/plating
+	name = "frozen plating"
+	icon_state = "snowyplating"
+	icon = 'icons/turf/snow_new.dmi'
+	edge_blending_priority = 6
+
+/turf/simulated/floor/outdoors/snow/snow2
+	name = "light snow"
+	icon = 'icons/turf/snow_new.dmi'
+	icon_state = "snownew"
