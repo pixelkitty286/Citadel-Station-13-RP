@@ -2576,14 +2576,12 @@
 "ii" = (
 /obj/machinery/light/flamp/noshade,
 /turf/unsimulated/floor/steel{
-	icon = 'icons/turf/outdoors.dmi';
 	icon_state = "grass"
 	},
 /area/centcom/simulated/evac)
 "ij" = (
 /obj/structure/flora/ausbushes/brflowers,
 /turf/unsimulated/floor/steel{
-	icon = 'icons/turf/outdoors.dmi';
 	icon_state = "grass"
 	},
 /area/centcom/simulated/evac)
@@ -2717,27 +2715,23 @@
 "iM" = (
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/unsimulated/floor/steel{
-	icon = 'icons/turf/outdoors.dmi';
 	icon_state = "grass"
 	},
 /area/centcom/simulated/evac)
 "iN" = (
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/unsimulated/floor/steel{
-	icon = 'icons/turf/outdoors.dmi';
 	icon_state = "grass"
 	},
 /area/centcom/simulated/evac)
 "iO" = (
 /obj/structure/table/bench/wooden,
 /turf/unsimulated/floor/steel{
-	icon = 'icons/turf/outdoors.dmi';
 	icon_state = "grass"
 	},
 /area/centcom/simulated/evac)
 "iP" = (
 /turf/unsimulated/floor/steel{
-	icon = 'icons/turf/outdoors.dmi';
 	icon_state = "grass"
 	},
 /area/centcom/simulated/evac)
@@ -2753,7 +2747,6 @@
 /area/centcom/simulated/evac)
 "iS" = (
 /obj/structure/memorial{
-	icon = 'icons/obj/structures_vr.dmi';
 	icon_state = "memorial-l"
 	},
 /turf/unsimulated/floor/steel{
@@ -2778,7 +2771,6 @@
 /obj/structure/table/bench/wooden,
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/unsimulated/floor/steel{
-	icon = 'icons/turf/outdoors.dmi';
 	icon_state = "grass"
 	},
 /area/centcom/simulated/evac)
@@ -8419,7 +8411,7 @@
 /turf/unsimulated/floor/dark,
 /area/centcom/specops)
 "Kp" = (
-/obj/effect/overmap/visitable/ship/landable/specops,
+/obj/overmap/entity/visitable/ship/landable/specops,
 /obj/machinery/button/flasher{
 	id = "breach_flash";
 	pixel_y = 26
@@ -8721,7 +8713,7 @@
 /turf/unsimulated/floor/dark,
 /area/tdome/tdomeadmin)
 "MO" = (
-/obj/effect/overmap/visitable/sector/centcom,
+/obj/overmap/entity/visitable/sector/centcom,
 /turf/space,
 /area/space)
 "MR" = (
@@ -8801,7 +8793,6 @@
 /area/centcom/command)
 "NZ" = (
 /obj/structure/memorial{
-	icon = 'icons/obj/structures_vr.dmi';
 	icon_state = "memorial-r"
 	},
 /turf/unsimulated/floor/steel{
@@ -9602,7 +9593,7 @@
 /turf/simulated/shuttle/wall/voidcraft,
 /area/shuttle/specops/engine)
 "Xm" = (
-/turf/unsimulated/map/edge,
+/turf/overmap/edge,
 /area/overmap)
 "Xo" = (
 /turf/simulated/shuttle/wall/voidcraft/hard_corner,
@@ -10002,7 +9993,7 @@
 /turf/simulated/floor/plating,
 /area/centcom/specops)
 "ZY" = (
-/turf/unsimulated/map,
+/turf/overmap,
 /area/overmap)
 
 (1,1,1) = {"
