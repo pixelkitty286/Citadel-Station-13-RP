@@ -49,11 +49,15 @@
 /area/vharr/surfacebase/outside/outside1
 	icon_state = "outside1"
 
+//East plains
+/area/vharr/surfacebase/outside/east
+	icon_state = "green"
+
 /area/crew_quarters/meeting
 	name = "\improper Public Conference"
 	icon_state = "courtroom"
 
-//TODO: YOU DON'T NEED THAT MANY ZONES FOR ONE LEVEL!!!
+//TODO: reorganize all of this
 //Outdoors main
 /area/vharr/surfacebase/outside/grounds
 	name = "\The outpost grounds"
@@ -64,7 +68,6 @@
 /area/vharr/surfacebase/outside/grounds/exterior/lake
 	name = "The Ice Lake"
 
-// This will change soon...
 /area/vharr/surfacebase/outside/grounds/exterior/explore1
 	name = "Abandoned building"
 

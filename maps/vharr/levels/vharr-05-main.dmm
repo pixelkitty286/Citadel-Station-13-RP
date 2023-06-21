@@ -17,17 +17,17 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "aaf" = (
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "aag" = (
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aah" = (
 /obj/structure/railing{
 	icon_state = "railing0";
 	dir = 4
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aai" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -54,7 +54,7 @@
 /obj/structure/railing{
 	dir = 8
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aan" = (
 /turf/simulated/wall,
@@ -77,11 +77,11 @@
 /area/vharr/outdoors/exterior)
 "aas" = (
 /obj/structure/fence/door,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "aat" = (
 /obj/structure/fence/corner,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "aau" = (
 /obj/structure/lattice,
@@ -97,7 +97,7 @@
 /area/storage/auxillary)
 "aax" = (
 /obj/structure/fence,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aay" = (
 /obj/structure/largecrate,
@@ -206,11 +206,11 @@
 /area/vharr/outdoors/grounds)
 "aaN" = (
 /obj/machinery/trailblazer/red,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aaO" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aaP" = (
 /obj/effect/shuttle_landmark/premade/skipjack/station_ne,
@@ -336,7 +336,7 @@
 /obj/structure/fence/door{
 	dir = 4
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aaY" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -393,7 +393,7 @@
 /area/vharr/outdoors/grounds)
 "abf" = (
 /obj/structure/flora/bush,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "abg" = (
 /obj/structure/grille,
@@ -431,7 +431,7 @@
 /area/vharr/outdoors/grounds)
 "abl" = (
 /mob/living/simple_mob/animal/passive/gaslamp/snow,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "abm" = (
 /turf/simulated/wall,
@@ -483,7 +483,7 @@
 /area/hallway/secondary/exit)
 "abp" = (
 /obj/vharr_away_spawner/vharr,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "abq" = (
 /turf/unsimulated/wall/planetary/vharr,
@@ -611,7 +611,7 @@
 /obj/effect/landmark{
 	name = "carpspawn"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "abA" = (
 /obj/machinery/door/airlock/external{
@@ -787,7 +787,7 @@
 /area/vharr/outdoors/exterior)
 "abQ" = (
 /obj/effect/shuttle_landmark/premade/mercenary/station_n,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "abR" = (
 /obj/machinery/door/airlock/external{
@@ -1511,23 +1511,23 @@
 /obj/structure/transit_tube{
 	icon_state = "D-SE"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "adn" = (
 /obj/structure/transit_tube{
 	icon_state = "E-SW"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "ado" = (
 /obj/structure/transit_tube{
 	icon_state = "E-W-Pass"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "adp" = (
 /obj/structure/transit_tube,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "adq" = (
 /obj/effect/wingrille_spawn/reinforced,
@@ -1668,13 +1668,13 @@
 /obj/structure/transit_tube{
 	icon_state = "NE-SW"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "adJ" = (
 /obj/structure/transit_tube{
 	icon_state = "D-NW"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "adK" = (
 /obj/machinery/camera/network/civilian{
@@ -2543,7 +2543,7 @@
 /area/hallway/secondary/exit_link)
 "aff" = (
 /obj/structure/railing,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "afg" = (
 /obj/structure/railing{
@@ -2551,7 +2551,7 @@
 	dir = 4
 	},
 /obj/structure/railing,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "afh" = (
 /obj/effect/floor_decal/industrial/warning/dust{
@@ -2800,13 +2800,13 @@
 /obj/structure/transit_tube{
 	dir = 7
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "afK" = (
 /obj/structure/transit_tube{
 	icon_state = "W-NE"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "afL" = (
 /obj/effect/floor_decal/industrial/warning/dust{
@@ -3240,7 +3240,7 @@
 /obj/structure/railing{
 	dir = 8
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "agT" = (
 /obj/effect/wingrille_spawn/reinforced,
@@ -4152,7 +4152,7 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aiP" = (
 /obj/effect/overlay/snow/floor,
@@ -4166,7 +4166,7 @@
 /obj/structure/sign/warning/hot_exhaust{
 	pixel_y = 32
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aiR" = (
 /obj/effect/floor_decal/snow/floor/edges,
@@ -4813,7 +4813,7 @@
 /area/chapel/monastery/brew)
 "aka" = (
 /obj/structure/flora/tree/dead,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "akb" = (
 /turf/simulated/wall,
@@ -8347,7 +8347,7 @@
 /obj/structure/railing{
 	dir = 1
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aqz" = (
 /obj/structure/cable/heavyduty{
@@ -8386,7 +8386,7 @@
 /turf/simulated/floor/tiled/red,
 /area/security/outpost)
 "aqD" = (
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "aqE" = (
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -8952,7 +8952,7 @@
 	dir = 1
 	},
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds/power)
 "arw" = (
 /obj/structure/cable/heavyduty{
@@ -9013,7 +9013,7 @@
 /area/security/outpost)
 "arD" = (
 /obj/structure/lattice,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "arE" = (
 /obj/machinery/power/solar{
@@ -9517,7 +9517,7 @@
 /area/engineering/hallway)
 "asx" = (
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds/power)
 "asy" = (
 /obj/structure/cable/heavyduty{
@@ -11090,7 +11090,7 @@
 "avh" = (
 /obj/structure/railing,
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds/power)
 "avi" = (
 /obj/structure/cable/heavyduty{
@@ -11256,7 +11256,7 @@
 /obj/effect/landmark{
 	name = "carpspawn"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "avx" = (
 /obj/structure/cable{
@@ -11717,14 +11717,14 @@
 /obj/structure/railing{
 	dir = 8
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds/power)
 "awn" = (
 /obj/structure/catwalk,
 /obj/structure/railing{
 	dir = 4
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds/power)
 "awo" = (
 /obj/structure/table/standard,
@@ -15776,11 +15776,11 @@
 "aDv" = (
 /obj/structure/grille,
 /obj/structure/lattice,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "aDw" = (
 /obj/effect/decal/cleanable/dirt,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aDx" = (
 /obj/structure/ladder/updown,
@@ -16254,7 +16254,7 @@
 "aEt" = (
 /obj/structure/grille/broken,
 /obj/structure/lattice,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "aEu" = (
 /obj/structure/sign/securearea,
@@ -18205,7 +18205,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aIp" = (
 /obj/structure/displaycase,
@@ -19099,7 +19099,7 @@
 /turf/simulated/wall,
 /area/maintenance/bridge)
 "aKl" = (
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "aKm" = (
 /obj/effect/decal/cleanable/dirt,
@@ -19546,7 +19546,7 @@
 /area/construction/solars)
 "aKZ" = (
 /obj/machinery/trailblazer/blue,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aLa" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
@@ -23951,7 +23951,7 @@
 "aTy" = (
 /obj/structure/lattice,
 /obj/structure/grille,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "aTz" = (
 /obj/item/stool/padded,
@@ -25282,7 +25282,7 @@
 /area/security/warden)
 "aVP" = (
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aVQ" = (
 /obj/effect/floor_decal/corner/red{
@@ -30601,7 +30601,7 @@
 /area/vharr/outdoors/exterior/explore1)
 "beK" = (
 /obj/structure/grille,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "beL" = (
 /obj/structure/cable/green{
@@ -31527,7 +31527,7 @@
 /turf/simulated/floor/tiled,
 /area/hallway/primary/central_one)
 "bgf" = (
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds/power)
 "bgg" = (
 /obj/structure/grille,
@@ -32095,19 +32095,19 @@
 /area/quartermaster/warehouse)
 "bhj" = (
 /obj/effect/floor_decal/corner_steel_grid,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bhk" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 10
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bhl" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 8
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bhm" = (
 /obj/structure/railing{
@@ -32763,7 +32763,7 @@
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 9
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "biw" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -38388,7 +38388,7 @@
 /area/vharr/outdoors/exterior)
 "bsy" = (
 /obj/machinery/trailblazer/yellow,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bsz" = (
 /obj/structure/grille,
@@ -41317,7 +41317,7 @@
 "bxt" = (
 /obj/structure/lattice,
 /obj/structure/grille/broken,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "bxu" = (
 /obj/structure/lattice,
@@ -42066,7 +42066,7 @@
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 6
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "byI" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
@@ -42961,19 +42961,19 @@
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 4
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bAi" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 5
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bAj" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 1
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bAk" = (
 /obj/machinery/door/firedoor/glass,
@@ -43728,14 +43728,14 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bBr" = (
 /obj/structure/disposalpipe/segment{
 	dir = 2;
 	icon_state = "pipe-c"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bBs" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -44376,7 +44376,7 @@
 	dir = 1
 	},
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bCG" = (
 /obj/structure/disposalpipe/segment,
@@ -44385,7 +44385,7 @@
 	dir = 1
 	},
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bCH" = (
 /turf/simulated/wall/titanium,
@@ -45078,13 +45078,13 @@
 "bDX" = (
 /obj/structure/railing,
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bDY" = (
 /obj/structure/disposalpipe/segment,
 /obj/structure/railing,
 /obj/structure/catwalk,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bDZ" = (
 /turf/simulated/floor/plating,
@@ -45629,7 +45629,7 @@
 	dir = 1;
 	icon_state = "pipe-c"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bFg" = (
 /obj/structure/cable/yellow{
@@ -45637,7 +45637,7 @@
 	icon_state = "0-2"
 	},
 /obj/structure/cable/yellow,
-/obj/machinery/power/generator/oldteg{
+/obj/machinery/power/generator{
 	anchored = 1;
 	dir = 4
 	},
@@ -49049,7 +49049,7 @@
 /obj/effect/floor_decal/snow/floor/edges2{
 	dir = 8
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bKl" = (
 /obj/machinery/light{
@@ -53531,7 +53531,7 @@
 "bSv" = (
 /obj/structure/lattice,
 /obj/structure/grille,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bSw" = (
 /obj/structure/lattice,
@@ -53539,7 +53539,7 @@
 /obj/effect/landmark{
 	name = "carpspawn"
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bSx" = (
 /turf/simulated/wall,
@@ -54032,7 +54032,7 @@
 /obj/structure/fence{
 	dir = 4
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bTs" = (
 /obj/structure/grille,
@@ -54083,14 +54083,14 @@
 /area/vharr/outdoors/grounds/traderpad)
 "bTw" = (
 /obj/structure/fence/door,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bTx" = (
 /obj/structure/fence/corner{
 	dir = 4
 	},
 /obj/structure/fence/corner,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bTy" = (
 /turf/simulated/wall/r_wall,
@@ -54683,7 +54683,7 @@
 /area/crew_quarters/locker/locker_toilet)
 "bUA" = (
 /obj/structure/snowman/borg,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bUB" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden{
@@ -57134,7 +57134,7 @@
 /area/engineering/engine_room)
 "bZo" = (
 /obj/structure/cable/yellow,
-/obj/machinery/power/generator/oldteg{
+/obj/machinery/power/generator{
 	anchored = 1;
 	dir = 4
 	},
@@ -57728,7 +57728,7 @@
 /area/teleporter)
 "cat" = (
 /obj/structure/snowman,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "cau" = (
 /obj/effect/floor_decal/corner_oldtile/purple{
@@ -58239,7 +58239,7 @@
 /area/medical/patient_wing)
 "cbn" = (
 /obj/structure/lattice,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "cbo" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -58578,7 +58578,7 @@
 "cbV" = (
 /obj/structure/lattice,
 /obj/structure/grille/broken,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "cbW" = (
 /obj/effect/floor_decal/corner_oldtile/purple{
@@ -59099,7 +59099,7 @@
 /area/vharr/outdoors/grounds)
 "ccS" = (
 /obj/structure/flora/tree/pine,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "ccT" = (
 /obj/structure/grille,
@@ -59506,7 +59506,7 @@
 /area/shuttle/residential)
 "cdJ" = (
 /obj/structure/snowman/spider,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "cdK" = (
 /obj/machinery/power/smes/buildable/point_of_interest,
@@ -59558,7 +59558,7 @@
 /area/vharr/outdoors/exterior)
 "cdQ" = (
 /obj/effect/landmark/event_spawn/dronepod_landing,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "cdR" = (
 /obj/machinery/vending/wallmed1{
@@ -59603,7 +59603,7 @@
 /area/shuttle/excursion)
 "cdW" = (
 /obj/effect/landmark/event_spawn/dronepod_landing,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cdX" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -59927,7 +59927,7 @@
 /area/exploration/excursion_dock)
 "cey" = (
 /obj/structure/showcase/sign,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "cez" = (
 /obj/structure/disposalpipe/segment,
@@ -60103,37 +60103,37 @@
 /area/vharr/outdoors/grounds/entrance)
 "ceY" = (
 /obj/structure/flora/tree/dead,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "ceZ" = (
 /obj/structure/flora/tree/winter,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfa" = (
 /obj/vharr_away_spawner/wilds,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfb" = (
 /obj/structure/flora/tree/pine,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfc" = (
 /turf/simulated/floor/plating,
 /area/vharr/outdoors/grounds/entrance)
 "cfd" = (
 /obj/structure/flora/tree/winter1,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfe" = (
 /obj/structure/showcase/sign,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cff" = (
 /turf/simulated/wall/r_wall,
 /area/vharr/outpost/exploration_shed)
 "cfg" = (
 /obj/structure/bonfire,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfh" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -60149,7 +60149,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/vharr/outpost/exploration_shed)
 "cfj" = (
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfk" = (
 /turf/simulated/floor/outdoors/snow/vharr,
@@ -60317,7 +60317,7 @@
 /area/vharr/outdoors/exterior)
 "cfI" = (
 /obj/effect/landmark/event_spawn/dronepod_landing,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfJ" = (
 /obj/effect/floor_decal/snow/floor/edges{
@@ -60338,7 +60338,7 @@
 /area/vharr/outdoors/exterior/lake)
 "cfM" = (
 /obj/vharr_away_spawner/wilds,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfN" = (
 /obj/effect/floor_decal/snow/floor/edges,
@@ -60355,7 +60355,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/explore3)
 "cfR" = (
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/explore3)
 "cfS" = (
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -60906,7 +60906,7 @@
 /obj/structure/railing{
 	dir = 1
 	},
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "chf" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
@@ -63309,7 +63309,7 @@
 /area/security/vacantoffice)
 "ugG" = (
 /obj/effect/shuttle_landmark/automatic,
-/turf/simulated/floor/outdoors/snow/snow2/vharr,
+/turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "wLk" = (
 /obj/structure/cable/heavyduty{
