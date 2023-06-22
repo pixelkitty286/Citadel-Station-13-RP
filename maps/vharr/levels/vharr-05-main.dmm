@@ -30,7 +30,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aai" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
@@ -45,7 +45,7 @@
 /area/vharr/outdoors/grounds)
 "aal" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -339,26 +339,26 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aaY" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "aaZ" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "aba" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -376,19 +376,19 @@
 /turf/simulated/wall,
 /area/vharr/outdoors/grounds)
 "abd" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "abe" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "abf" = (
@@ -418,15 +418,15 @@
 /turf/simulated/shuttle/wall,
 /area/shuttle/residential)
 "abj" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "abk" = (
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "abl" = (
@@ -1127,10 +1127,10 @@
 /turf/simulated/wall,
 /area/chapel/monastery)
 "acv" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "acw" = (
@@ -1319,7 +1319,7 @@
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/exit)
 "acU" = (
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -3108,7 +3108,7 @@
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
 	dir = 8
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -4156,10 +4156,10 @@
 /area/vharr/outdoors/grounds)
 "aiP" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aiQ" = (
@@ -4169,18 +4169,18 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "aiR" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aiS" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -4208,7 +4208,7 @@
 	dir = 9
 	},
 /obj/effect/floor_decal/rust,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	pixel_y = 30
 	},
 /turf/simulated/floor/tiled/techmaint,
@@ -4494,8 +4494,8 @@
 /turf/simulated/floor/wood,
 /area/chapel/monastery)
 "ajn" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/structure/railing{
@@ -4504,7 +4504,7 @@
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "ajo" = (
-/obj/effect/floor_decal/snow/floor/surround{
+/obj/effect/overlay/snow/floor/surround_new{
 	dir = 1
 	},
 /obj/effect/floor_decal/industrial/warning/dust/corner,
@@ -4512,7 +4512,7 @@
 /area/vharr/outdoors/grounds)
 "ajp" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -4614,8 +4614,8 @@
 /turf/simulated/wall,
 /area/chapel/monastery/brew)
 "ajB" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -4733,11 +4733,11 @@
 /obj/machinery/light/small{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/surround,
+/obj/effect/overlay/snow/floor/surround_new,
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	dir = 4
 	},
@@ -7356,7 +7356,7 @@
 /obj/effect/floor_decal/corner/white{
 	dir = 8
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -7944,8 +7944,8 @@
 	dir = 1
 	},
 /obj/structure/railing,
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers{
@@ -8359,10 +8359,10 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers,
@@ -11233,21 +11233,21 @@
 	icon_state = "warningcorner_dust";
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/surround{
+/obj/effect/overlay/snow/floor/surround_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "avu" = (
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "avv" = (
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -11767,7 +11767,7 @@
 /obj/machinery/light,
 /obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -11820,11 +11820,11 @@
 	icon_state = "warningcorner_dust";
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/surround,
+/obj/effect/overlay/snow/floor/surround_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aww" = (
@@ -12200,10 +12200,10 @@
 	dir = 8
 	},
 /obj/structure/catwalk,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers{
 	dir = 4
 	},
@@ -12217,10 +12217,10 @@
 	icon_state = "4-8"
 	},
 /obj/structure/catwalk,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers{
 	dir = 4
 	},
@@ -12237,10 +12237,10 @@
 	dir = 4
 	},
 /obj/structure/catwalk,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers{
 	dir = 4
 	},
@@ -12278,9 +12278,9 @@
 /turf/simulated/floor/plating,
 /area/security/outpost)
 "axg" = (
-/obj/effect/floor_decal/snow/floor/edges3,
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/grav_edges,
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -12805,10 +12805,10 @@
 /obj/structure/cable/heavyduty{
 	icon_state = "1-4"
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers{
 	dir = 5
 	},
@@ -12822,8 +12822,8 @@
 	dir = 1
 	},
 /obj/structure/railing,
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/machinery/atmospherics/pipe/manifold/visible/scrubbers,
@@ -13340,10 +13340,10 @@
 	dir = 8
 	},
 /obj/structure/catwalk,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers{
 	dir = 4
 	},
@@ -13794,7 +13794,7 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -15252,7 +15252,7 @@
 	dir = 8
 	},
 /obj/structure/closet/crate/bin,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -17205,10 +17205,10 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/construction/solars)
 "aGk" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/structure/railing{
@@ -17630,7 +17630,7 @@
 /turf/simulated/floor/wood,
 /area/crew_quarters/captain)
 "aHa" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/structure/railing{
@@ -17639,7 +17639,7 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aHb" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -17657,19 +17657,19 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/construction/solars)
 "aHd" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aHe" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aHf" = (
@@ -18008,7 +18008,7 @@
 /turf/simulated/wall,
 /area/vharr/outdoors/grounds)
 "aHS" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/structure/railing{
@@ -18380,10 +18380,10 @@
 	dir = 8
 	},
 /obj/structure/catwalk,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds/power)
 "aIH" = (
@@ -18392,10 +18392,10 @@
 	icon_state = "4-8"
 	},
 /obj/structure/catwalk,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds/power)
 "aII" = (
@@ -18407,10 +18407,10 @@
 	dir = 4
 	},
 /obj/structure/catwalk,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds/power)
 "aIJ" = (
@@ -18735,7 +18735,7 @@
 /obj/effect/floor_decal/corner/pink/full{
 	dir = 8
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -19137,7 +19137,7 @@
 /obj/machinery/camera/network/engineering{
 	dir = 1
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -19181,10 +19181,10 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -19516,25 +19516,25 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/construction/solars)
 "aKV" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "aKW" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "aKX" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -19906,7 +19906,7 @@
 /turf/simulated/wall,
 /area/vharr/outdoors/exterior/explore1)
 "aLL" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
@@ -19928,13 +19928,13 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "aLQ" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aLR" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -20281,16 +20281,16 @@
 /turf/simulated/floor/plating,
 /area/vharr/outdoors/exterior/explore1)
 "aMG" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aMH" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -21821,7 +21821,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -22185,7 +22185,7 @@
 /turf/simulated/wall,
 /area/vharr/outdoors/exterior/explore1)
 "aQf" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -22350,7 +22350,7 @@
 	icon_state = "1-8"
 	},
 /obj/structure/reagent_dispensers/water_cooler/full,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -22815,21 +22815,21 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aRh" = (
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "aRi" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "aRj" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/structure/railing{
 	dir = 8
 	},
@@ -23350,7 +23350,7 @@
 /turf/simulated/wall,
 /area/maintenance/bridge)
 "aSm" = (
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/structure/railing{
 	dir = 2;
 	flags = null
@@ -24970,7 +24970,7 @@
 /obj/effect/floor_decal/corner/blue{
 	dir = 6
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -25050,7 +25050,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -25087,10 +25087,10 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "aVz" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "aVA" = (
@@ -27654,10 +27654,10 @@
 /obj/structure/railing{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -27666,7 +27666,7 @@
 /obj/structure/railing{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -28429,10 +28429,10 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -28460,7 +28460,7 @@
 /obj/structure/railing{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -32113,7 +32113,7 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -32454,7 +32454,7 @@
 /area/security/airlock)
 "bhN" = (
 /obj/structure/disposalpipe/segment,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -32528,7 +32528,7 @@
 /obj/effect/floor_decal/corner/blue{
 	dir = 5
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	pixel_y = 30
 	},
 /turf/simulated/floor/tiled,
@@ -32600,7 +32600,7 @@
 /obj/machinery/alarm{
 	pixel_y = 25
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -32724,7 +32724,7 @@
 /turf/simulated/floor/tiled/steel_grid,
 /area/quartermaster/warehouse)
 "biq" = (
-/obj/effect/floor_decal/snow/floor/edges3,
+/obj/effect/overlay/snow/floor/grav_edges,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "bir" = (
@@ -32766,13 +32766,13 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "biw" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior/explore1)
 "bix" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -32943,7 +32943,7 @@
 /area/security/hallway)
 "biP" = (
 /obj/effect/floor_decal/corner/grey/diagonal,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -32985,7 +32985,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/security/security_equiptment_storage)
 "biT" = (
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -33342,7 +33342,7 @@
 /obj/effect/floor_decal/corner/mauve/border{
 	dir = 5
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -33674,7 +33674,7 @@
 /obj/structure/closet/secure_closet/cargotech,
 /obj/item/stamp/cargo,
 /obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/cargo,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	pixel_y = 30
 	},
 /turf/simulated/floor/tiled,
@@ -34471,10 +34471,10 @@
 /turf/simulated/floor/tiled,
 /area/quartermaster/storage)
 "bln" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -35188,15 +35188,15 @@
 /obj/structure/railing{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "bmH" = (
 /obj/structure/railing,
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "bmI" = (
@@ -37210,8 +37210,8 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -37643,7 +37643,7 @@
 	pixel_x = -25;
 	pixel_y = 0
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -38565,7 +38565,7 @@
 	dir = 4;
 	icon_state = "pipe-c"
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -39092,7 +39092,7 @@
 /turf/simulated/shuttle/floor/white,
 /area/shuttle/residential)
 "btM" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -39120,10 +39120,10 @@
 /obj/structure/cable/heavyduty{
 	icon_state = "1-4"
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds/power)
 "btP" = (
@@ -39134,8 +39134,8 @@
 	dir = 1
 	},
 /obj/structure/railing,
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -39144,7 +39144,7 @@
 /obj/structure/bed/chair/comfy/black{
 	dir = 4
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -39167,7 +39167,7 @@
 	dir = 8
 	},
 /obj/effect/floor_decal/corner_oldtile/purple,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -39181,7 +39181,7 @@
 	dir = 1
 	},
 /obj/structure/railing,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -39252,7 +39252,7 @@
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 8
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -39355,7 +39355,7 @@
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/bar)
 "buo" = (
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -39794,7 +39794,7 @@
 /turf/simulated/floor/tiled,
 /area/quartermaster/storage)
 "buV" = (
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -39844,7 +39844,7 @@
 	dir = 4;
 	icon_state = "corner_white_full"
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -40087,7 +40087,7 @@
 /area/crew_quarters/heads/chief)
 "bvs" = (
 /obj/structure/disposalpipe/segment,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -40131,7 +40131,7 @@
 /turf/simulated/wall/r_wall,
 /area/engineering/foyer)
 "bvy" = (
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -40139,7 +40139,7 @@
 /area/hallway/primary/starboard)
 "bvz" = (
 /obj/effect/floor_decal/industrial/warning,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -40150,7 +40150,7 @@
 /obj/effect/floor_decal/corner/orange{
 	dir = 6
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -40169,7 +40169,7 @@
 	icon_state = "intact-scrubbers";
 	dir = 4
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -40181,7 +40181,7 @@
 /obj/effect/floor_decal/corner/white{
 	dir = 4
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -40197,7 +40197,7 @@
 	dir = 6
 	},
 /obj/effect/floor_decal/rust,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -40209,7 +40209,7 @@
 	dir = 8
 	},
 /obj/effect/floor_decal/industrial/warning/dust,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -40220,7 +40220,7 @@
 	dir = 4;
 	id = "QMLoad"
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -40321,7 +40321,7 @@
 /obj/item/clothing/shoes/boots/winter/engineering,
 /obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/engineering,
 /obj/item/gps/engineering,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -40534,7 +40534,7 @@
 /obj/structure/handrail{
 	dir = 1
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 4;
 	pixel_x = -30
 	},
@@ -40810,7 +40810,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "bww" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -40995,7 +40995,7 @@
 /turf/simulated/floor/tiled,
 /area/crew_quarters/heads/chief)
 "bwN" = (
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -41309,7 +41309,7 @@
 /turf/simulated/wall,
 /area/quartermaster/storage)
 "bxs" = (
-/obj/effect/floor_decal/snow/floor/surround{
+/obj/effect/overlay/snow/floor/surround_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -42130,10 +42130,10 @@
 /turf/simulated/floor/reinforced,
 /area/shuttle/excursion)
 "byP" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "byQ" = (
@@ -42683,7 +42683,7 @@
 /obj/effect/floor_decal/corner/yellow{
 	dir = 8
 	},
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 1;
 	pixel_y = -30
 	},
@@ -43322,7 +43322,7 @@
 	},
 /obj/effect/floor_decal/corner/yellow/diagonal,
 /obj/item/halogen_counter,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -43738,10 +43738,10 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bBs" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "bBt" = (
@@ -45349,7 +45349,7 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	dir = 8;
 	pixel_x = 30
 	},
@@ -45621,7 +45621,7 @@
 /turf/simulated/floor/plating,
 /area/quartermaster/miningwing)
 "bFe" = (
-/obj/effect/floor_decal/snow/floor/edges3,
+/obj/effect/overlay/snow/floor/grav_edges,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "bFf" = (
@@ -46939,7 +46939,7 @@
 "bGT" = (
 /obj/structure/table/reinforced,
 /obj/random/toolbox,
-/obj/item/geiger,
+/obj/item/geiger_counter,
 /obj/effect/floor_decal/corner/yellow{
 	dir = 8
 	},
@@ -47556,10 +47556,10 @@
 	icon_state = "warningcorner_dust";
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -49046,7 +49046,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "bKk" = (
-/obj/effect/floor_decal/snow/floor/edges2{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
@@ -49439,8 +49439,8 @@
 /turf/simulated/floor/tiled/steel,
 /area/engineering/engine_airlock)
 "bKV" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -50693,10 +50693,10 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -52865,7 +52865,7 @@
 /area/shuttle/excursion)
 "bRk" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -55414,17 +55414,17 @@
 /area/shuttle/excursion)
 "bWc" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds/traderpad)
 "bWd" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -56923,10 +56923,10 @@
 /area/crew_quarters/locker)
 "bYS" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -58242,7 +58242,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/grounds)
 "cbo" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
@@ -58254,7 +58254,7 @@
 /area/vharr/outdoors/grounds)
 "cbq" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating,
@@ -59087,11 +59087,11 @@
 /turf/simulated/floor/tiled,
 /area/security/checkpoint)
 "ccR" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/surround,
+/obj/effect/overlay/snow/floor/surround_new,
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	dir = 4
 	},
@@ -59606,7 +59606,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cdX" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/effect/landmark/event_spawn/dronepod_landing,
@@ -59641,14 +59641,14 @@
 /area/shuttle/excursion)
 "cdZ" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating,
 /area/vharr/outdoors/grounds)
 "cea" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating,
@@ -59661,11 +59661,11 @@
 	icon_state = "warningcorner_dust";
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/surround,
+/obj/effect/overlay/snow/floor/surround_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "cec" = (
@@ -59935,10 +59935,10 @@
 /area/medical/surgery2)
 "ceA" = (
 /obj/effect/overlay/snow/floor,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges3{
+/obj/effect/overlay/snow/floor/grav_edges{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -60136,10 +60136,10 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfh" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
@@ -60155,96 +60155,96 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfl" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior)
 "cfm" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior)
 "cfn" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfo" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfp" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfq" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfr" = (
-/obj/effect/floor_decal/snow/floor/edges3,
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/grav_edges,
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfs" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cft" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfu" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfv" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfw" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/ice,
@@ -60253,40 +60253,40 @@
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfy" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfz" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "cfA" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfB" = (
-/obj/effect/floor_decal/snow/floor/surround{
+/obj/effect/overlay/snow/floor/surround_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfC" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/ice,
@@ -60300,10 +60300,10 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfF" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfG" = (
@@ -60320,10 +60320,10 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfJ" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfK" = (
@@ -60331,7 +60331,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior)
 "cfL" = (
-/obj/effect/floor_decal/snow/floor/surround{
+/obj/effect/overlay/snow/floor/surround_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/ice,
@@ -60341,7 +60341,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/outdoors/exterior/lake)
 "cfN" = (
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfO" = (
@@ -60364,13 +60364,13 @@
 /turf/unsimulated/wall/planetary/vharr,
 /area/space)
 "cfU" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
 /area/vharr/outdoors/exterior/lake)
 "cfV" = (
@@ -60424,7 +60424,7 @@
 /obj/structure/bed,
 /obj/structure/medical_stand,
 /obj/structure/curtain/open/privacy,
-/obj/item/geiger/wall{
+/obj/item/geiger_counter/wall{
 	pixel_y = 30
 	},
 /turf/simulated/floor/tiled/techmaint,
@@ -60876,10 +60876,10 @@
 /turf/simulated/floor/tiled,
 /area/security/checkpoint)
 "chb" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /obj/structure/railing{
@@ -60888,10 +60888,10 @@
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "chc" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /obj/structure/railing{
 	dir = 8
 	},
@@ -60914,8 +60914,8 @@
 /turf/simulated/floor/tiled/techfloor/grid,
 /area/shuttle/excursion)
 "chg" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/structure/railing,
@@ -62355,20 +62355,20 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/patient_wing)
 "cjX" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "cjY" = (
-/obj/effect/floor_decal/snow/floor/edges,
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new,
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/surround,
+/obj/effect/overlay/snow/floor/surround_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "cjZ" = (
@@ -62955,10 +62955,10 @@
 /obj/structure/railing{
 	dir = 4
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -62980,10 +62980,10 @@
 /obj/structure/cable/heavyduty{
 	icon_state = "1-4"
 	},
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/outdoors/grounds)
 "clb" = (
@@ -63191,10 +63191,10 @@
 /turf/simulated/floor/tiled/dark,
 /area/crew_quarters/heads/hos)
 "mjH" = (
-/obj/effect/floor_decal/snow/floor/edges{
+/obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
-/obj/effect/floor_decal/snow/floor/edges,
+/obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
 /area/vharr/outdoors/grounds)
 "mBp" = (
