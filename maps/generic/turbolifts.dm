@@ -1,3 +1,4 @@
+//NTS Atlas Turbo lifts
 /obj/turbolift_map_holder/rift
 	name = "Atlas Lift"
 	depth = 5
@@ -76,7 +77,25 @@
 		/area/turbolift/t_ship/level4
 		)
 
+//Work in progress place holder
+/*
+//NTB Prometheus
+/obj/turbolift_map_holder/vharr
+	name = "Prometheus Lift"
+	depth = 5
+	lift_size_x = 2 //Addative to source tile. A 3x3 lift would be '2x2' here because we need to not include the source tile.
+	lift_size_y = 2
+	icon = 'icons/obj/turbolift_preview_3x3.dmi'
+	wall_type = null // Don't make walls
 
+	areas_to_use = list(
+		/area/turbolift/runder/level2,
+		/area/turbolift/runder/level1,
+		/area/turbolift/rsurface/level1,
+		/area/turbolift/rsurface/level2,
+		/area/turbolift/rsurface/level3
+		)
+*/
 /obj/turbolift_map_holder/tether
 	name = "Tether Climber"
 	depth = 6

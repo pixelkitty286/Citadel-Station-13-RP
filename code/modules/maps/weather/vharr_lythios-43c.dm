@@ -1,3 +1,4 @@
+//This file handels NTB Prometheus weather's since it is located in a diffrent location than NTS Atlas
 /datum/atmosphere/planet/vharr
 	base_gases = list(
 	/datum/gas/nitrogen = 0.66,
@@ -14,13 +15,10 @@ var/datum/planet/vharr/planet_vharr = null
 /datum/time/vharr
 	seconds_in_day = 3 HOURS
 
-//TODO: Change this we're not on YW
-//NTB Prometheus weather
 /datum/planet/vharr
 	name = "Lythios-43c"
 	desc = "A Icey-frozen tundra, this planet has an atmosphere mainly comprised of frigid oxygen, with trace \
-	amounts of both carbon dioxide and nitrogen. Originally being a lumber colony, recent findings show copious amounts of Phoron deep under the surface, \
-	the Phoron is very desirable by many corporations, including NanoTrasen."
+	amounts of both carbon dioxide and nitrogen. Originally owned by the People's Republic of Ahdomai but was sold to NanoTrasen in 2563"
 	current_time = new /datum/time/vharr()
 	planetary_wall_type = /turf/unsimulated/wall/planetary/vharr
 

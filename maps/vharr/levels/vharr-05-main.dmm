@@ -2204,7 +2204,7 @@
 /area/vharr/outdoors/grounds)
 "aeH" = (
 /obj/structure/table/woodentable,
-/obj/machinery/chemical_dispenser/bar_soft/full,
+/obj/machinery/chemical_dispenser/catering/bar_soft,
 /turf/simulated/floor/wood,
 /area/vharr/outdoors/grounds)
 "aeI" = (
@@ -2719,7 +2719,7 @@
 /obj/effect/floor_decal/corner/white{
 	dir = 8
 	},
-/obj/structure/noticeboard/airlock{
+/obj/structure/noticeboard{
 	pixel_y = -30
 	},
 /turf/simulated/floor/tiled,
@@ -2865,31 +2865,31 @@
 /turf/simulated/floor/tiled/yellow,
 /area/chapel/monastery/kitchen)
 "afS" = (
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "afT" = (
 /obj/structure/flora/ausbushes/palebush,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "afU" = (
 /obj/machinery/light{
 	dir = 1
 	},
 /obj/structure/table/bench/wooden,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "afV" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "afW" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "afX" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
 /obj/item/seeds/random,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "afY" = (
 /obj/structure/bed/pod,
@@ -2907,19 +2907,19 @@
 /obj/effect/floor_decal/spline/plain{
 	dir = 9
 	},
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "agb" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 1
 	},
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "agc" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 5
 	},
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "agd" = (
 /obj/structure/flora/pottedplant/large,
@@ -3080,22 +3080,22 @@
 /area/chapel/monastery)
 "agw" = (
 /obj/structure/flora/ausbushes/reedbush,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "agx" = (
 /obj/structure/flora/tree/jungle,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "agy" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
 /obj/item/seeds/random,
 /obj/item/seeds/lavenderseed,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "agz" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
 /obj/item/seeds/lavenderseed,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "agA" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -3131,17 +3131,17 @@
 /obj/effect/floor_decal/spline/plain{
 	dir = 8
 	},
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "agG" = (
 /obj/structure/bonfire/permanent,
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "agH" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 4
 	},
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "agI" = (
 /obj/structure/bed/chair,
@@ -3174,7 +3174,7 @@
 "agL" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/item/clothing/shoes/boots/winter,
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/exit)
@@ -3316,19 +3316,19 @@
 	icon_state = "tube1";
 	pixel_x = 0
 	},
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ahd" = (
 /obj/structure/flora/ausbushes/fernybush,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ahe" = (
 /obj/structure/flora/ausbushes/leafybush,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ahf" = (
 /obj/structure/flora/ausbushes/lavendergrass,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ahg" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
@@ -3346,7 +3346,7 @@
 	pixel_x = 21;
 	pixel_y = 0
 	},
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ahh" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -3368,17 +3368,17 @@
 /obj/effect/floor_decal/spline/plain{
 	dir = 10
 	},
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "ahl" = (
 /obj/effect/floor_decal/spline/plain,
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "ahm" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 6
 	},
-/turf/simulated/floor/beach/sand/desert,
+/turf/simulated/floor/outdoors/beach/sand/desert/indoors,
 /area/vharr/outdoors/grounds)
 "ahn" = (
 /obj/effect/floor_decal/industrial/warning/dust{
@@ -3431,7 +3431,7 @@
 "ahs" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/item/clothing/shoes/boots/winter,
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /turf/simulated/floor/tiled,
@@ -3601,11 +3601,11 @@
 /area/chapel/monastery)
 "ahG" = (
 /obj/structure/flora/ausbushes/brflowers,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ahH" = (
 /obj/structure/sink/puddle,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ahI" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply{
@@ -3803,12 +3803,12 @@
 	icon_state = "tube1";
 	pixel_x = 0
 	},
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aig" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
 /obj/item/seeds/wheatseed,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aih" = (
 /obj/structure/flora/ausbushes/ywflowers,
@@ -3817,7 +3817,7 @@
 	icon_state = "tube1";
 	pixel_x = 0
 	},
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aii" = (
 /obj/machinery/alarm{
@@ -3923,7 +3923,7 @@
 	},
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/effect/floor_decal/corner/blue{
 	dir = 1
 	},
@@ -3934,7 +3934,7 @@
 	dir = 8
 	},
 /obj/item/clothing/shoes/boots/winter,
-/obj/structure/noticeboard/airlock{
+/obj/structure/noticeboard{
 	pixel_x = -30
 	},
 /turf/simulated/floor/tiled,
@@ -4117,23 +4117,23 @@
 "aiH" = (
 /obj/machinery/portable_atmospherics/hydroponics/soil,
 /obj/item/seeds/harebell,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aiI" = (
 /obj/structure/flora/ausbushes/sparsegrass,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aiJ" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aiK" = (
 /obj/structure/flora/ausbushes/sunnybush,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aiL" = (
 /obj/structure/flora/ausbushes/fullgrass,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "aiM" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply{
@@ -4248,7 +4248,7 @@
 "aiX" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/effect/floor_decal/corner/blue{
 	dir = 1
 	},
@@ -4473,14 +4473,14 @@
 "ajk" = (
 /obj/machinery/light,
 /obj/structure/table/bench/wooden,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ajl" = (
 /obj/structure/table/woodentable,
 /obj/item/material/minihoe,
 /obj/item/analyzer/plant_analyzer,
 /obj/item/analyzer/plant_analyzer,
-/turf/simulated/floor/grass2,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/chapel/monastery)
 "ajm" = (
 /obj/structure/curtain/bed,
@@ -4904,7 +4904,7 @@
 "akk" = (
 /obj/structure/closet/wardrobe/monastary,
 /obj/item/clothing/shoes/boots/winter,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /turf/simulated/floor/wood,
 /area/chapel/monastery/recreation)
 "akl" = (
@@ -5487,7 +5487,7 @@
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 4
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /turf/simulated/floor/wood,
 /area/chapel/monastery/recreation)
 "alp" = (
@@ -6823,7 +6823,7 @@
 /obj/effect/floor_decal/corner/purple{
 	dir = 6
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/item/clothing/shoes/boots/winter,
 /obj/machinery/light/small{
 	dir = 4
@@ -7451,7 +7451,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/medbay)
 "apc" = (
-/turf/simulated/shuttle/wall/voidcraft/hard_corner/blue,
+/turf/simulated/shuttle/wall/voidcraft/hard_corner,
 /area/vharr/elevator/medbay)
 "apd" = (
 /turf/simulated/shuttle/wall/voidcraft/blue,
@@ -11616,7 +11616,7 @@
 /obj/effect/floor_decal/corner/purple{
 	dir = 10
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/item/clothing/shoes/boots/winter,
 /turf/simulated/floor/tiled,
 /area/janitor)
@@ -11765,7 +11765,7 @@
 	},
 /obj/structure/table/rack/shelf,
 /obj/machinery/light,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
 /obj/item/geiger_counter/wall{
 	dir = 1;
@@ -11778,7 +11778,7 @@
 	dir = 1
 	},
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
 /turf/simulated/floor/tiled/red,
 /area/security/outpost)
@@ -12541,7 +12541,7 @@
 /turf/simulated/wall,
 /area/medical/reception)
 "axG" = (
-/obj/structure/noticeboard/medical,
+/obj/structure/noticeboard,
 /turf/simulated/wall,
 /area/medical/patient_c)
 "axH" = (
@@ -13647,7 +13647,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/sleeper)
 "azB" = (
-/obj/machinery/chemical_dispenser/bar_soft/full{
+/obj/machinery/chemical_dispenser/catering/bar_soft{
 	pixel_y = 32
 	},
 /obj/structure/table/reinforced,
@@ -15738,7 +15738,7 @@
 "aDr" = (
 /obj/structure/table/woodentable,
 /obj/item/book/manual/security_space_law,
-/obj/item/taperecorder,
+/obj/item/tape_recorder,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/manifold/hidden/supply{
 	dir = 8
@@ -16078,7 +16078,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/ward)
 "aDZ" = (
-/obj/machinery/door/airlock/highsecurity/red,
+/obj/machinery/door/airlock/highsecurity,
 /turf/simulated/floor/tiled/dark,
 /area/bridge_hallway)
 "aEa" = (
@@ -16321,7 +16321,7 @@
 	req_access = list(5)
 	},
 /obj/item/suit_cooling_unit,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/medical,
+/obj/item/clothing/suit/storage/snowsuit/medical,
 /obj/structure/window/reinforced{
 	dir = 1
 	},
@@ -17606,7 +17606,7 @@
 /area/crew_quarters/captain)
 "aGX" = (
 /obj/structure/closet/secure_closet/captains,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/command,
+/obj/item/clothing/suit/storage/snowsuit/command,
 /obj/item/clothing/shoes/boots/winter/command{
 	name = "colony director's snow boots"
 	},
@@ -17710,7 +17710,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/lawoffice)
 "aHk" = (
-/obj/item/taperecorder{
+/obj/item/tape_recorder{
 	pixel_x = -4;
 	pixel_y = 2
 	},
@@ -17723,7 +17723,7 @@
 /obj/item/storage/secure/briefcase,
 /obj/structure/closet,
 /obj/item/storage/secure/briefcase,
-/obj/item/taperecorder{
+/obj/item/tape_recorder{
 	pixel_x = -4;
 	pixel_y = 2
 	},
@@ -18831,7 +18831,7 @@
 	pixel_x = -4;
 	pixel_y = 8
 	},
-/obj/item/taperecorder{
+/obj/item/tape_recorder{
 	pixel_y = 0
 	},
 /obj/item/megaphone,
@@ -19080,7 +19080,7 @@
 /area/crew_quarters/heads/hop)
 "aKi" = (
 /obj/structure/closet/secure_closet/hop2,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/command,
+/obj/item/clothing/suit/storage/snowsuit/command,
 /turf/simulated/floor/wood,
 /area/crew_quarters/heads/hop)
 "aKj" = (
@@ -19252,7 +19252,7 @@
 	pixel_x = -4;
 	pixel_y = 8
 	},
-/obj/item/taperecorder{
+/obj/item/tape_recorder{
 	pixel_y = 0
 	},
 /turf/simulated/floor/tiled/dark,
@@ -19772,7 +19772,7 @@
 	dir = 8
 	},
 /obj/item/flag,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aLw" = (
 /obj/structure/disposalpipe/segment{
@@ -20122,7 +20122,7 @@
 	dir = 8
 	},
 /obj/structure/flora/ausbushes/lavendergrass,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aMm" = (
 /obj/structure/grille,
@@ -20513,7 +20513,7 @@
 	dir = 8
 	},
 /obj/structure/flora/ausbushes/ywflowers,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aNe" = (
 /obj/structure/grille,
@@ -20857,7 +20857,7 @@
 /obj/effect/floor_decal/spline/fancy/wood{
 	dir = 8
 	},
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aNO" = (
 /obj/machinery/computer/security{
@@ -21957,7 +21957,7 @@
 	},
 /obj/structure/flora/ausbushes/sunnybush,
 /obj/machinery/door/firedoor/glass/hidden,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aPM" = (
 /obj/structure/table/reinforced,
@@ -22001,9 +22001,9 @@
 /turf/simulated/floor/tiled/dark,
 /area/bridge)
 "aPQ" = (
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/command,
+/obj/item/clothing/suit/storage/snowsuit/command,
 /obj/structure/table/rack,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/command,
+/obj/item/clothing/suit/storage/snowsuit/command,
 /obj/item/clothing/shoes/boots/winter/climbing,
 /obj/item/clothing/shoes/boots/winter/climbing,
 /obj/item/gps/command,
@@ -22015,7 +22015,7 @@
 /area/bridge)
 "aPS" = (
 /obj/structure/table/woodentable,
-/obj/machinery/chemical_dispenser/bar_soft/full,
+/obj/machinery/chemical_dispenser/catering/bar_soft,
 /turf/simulated/floor/wood,
 /area/bridge/meeting_room)
 "aPT" = (
@@ -23105,7 +23105,7 @@
 	dir = 8
 	},
 /obj/structure/flora/ausbushes/brflowers,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aRL" = (
 /obj/structure/grille,
@@ -23742,11 +23742,11 @@
 	icon_state = "spline_fancy";
 	dir = 10
 	},
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aTb" = (
 /obj/structure/flora/ausbushes/ppflowers,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aTc" = (
 /obj/structure/table/reinforced,
@@ -24232,11 +24232,11 @@
 	dir = 10
 	},
 /obj/structure/flora/ausbushes/pointybush,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aTZ" = (
 /obj/structure/flora/ausbushes/ywflowers,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aUa" = (
 /obj/structure/grille,
@@ -24538,7 +24538,7 @@
 /turf/simulated/floor/wood,
 /area/security/breakroom)
 "aUx" = (
-/obj/machinery/door/airlock/highsecurity/red{
+/obj/machinery/door/airlock/highsecurity{
 	name = "Red Tactical Armory";
 	req_one_access = list(2)
 	},
@@ -24879,26 +24879,26 @@
 	dir = 10
 	},
 /obj/structure/flora/ausbushes/brflowers,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aVc" = (
 /obj/effect/floor_decal/spline/fancy/wood,
 /obj/structure/flora/ausbushes/lavendergrass,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aVd" = (
 /obj/effect/floor_decal/spline/fancy/wood,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aVe" = (
 /obj/effect/floor_decal/spline/fancy/wood,
 /obj/structure/flora/ausbushes/brflowers,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aVf" = (
 /obj/effect/floor_decal/spline/fancy/wood,
 /obj/item/flag,
-/turf/simulated/floor/grass,
+/turf/simulated/floor/outdoors/grass/heavy/interior,
 /area/hallway/primary/central_one)
 "aVg" = (
 /obj/structure/sign/department/bridge,
@@ -26407,7 +26407,7 @@
 /turf/simulated/floor/tiled,
 /area/teleporter)
 "aXG" = (
-/obj/machinery/teleport/station,
+/obj/machinery/tele_projector,
 /turf/simulated/floor/tiled/dark,
 /area/teleporter)
 "aXH" = (
@@ -26939,7 +26939,7 @@
 /turf/simulated/floor/tiled,
 /area/teleporter)
 "aYH" = (
-/obj/machinery/teleport/hub,
+/obj/machinery/tele_pad,
 /turf/simulated/floor/tiled/dark,
 /area/teleporter)
 "aYI" = (
@@ -28947,11 +28947,11 @@
 	dir = 1;
 	pixel_y = -22
 	},
-/obj/item/tape_roll{
+/obj/item/duct_tape_roll{
 	pixel_x = 4;
 	pixel_y = 4
 	},
-/obj/item/tape_roll,
+/obj/item/duct_tape_roll,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
@@ -28976,8 +28976,8 @@
 /obj/structure/table/standard,
 /obj/item/stack/cable_coil/random,
 /obj/item/stack/cable_coil/random,
-/obj/item/taperecorder,
-/obj/item/taperecorder,
+/obj/item/tape_recorder,
+/obj/item/tape_recorder,
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 8
 	},
@@ -30199,7 +30199,7 @@
 /area/security/detectives_office)
 "bdO" = (
 /obj/structure/table/woodentable,
-/obj/item/taperecorder{
+/obj/item/tape_recorder{
 	pixel_x = -4;
 	pixel_y = 2
 	},
@@ -32159,9 +32159,9 @@
 /area/security/airlock)
 "bhq" = (
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
 /obj/item/gps/security,
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
@@ -33419,7 +33419,7 @@
 /obj/effect/floor_decal/industrial/warning{
 	dir = 1
 	},
-/obj/machinery/pros_fabricator,
+/obj/machinery/mecha_part_fabricator/pros,
 /obj/machinery/light{
 	dir = 1
 	},
@@ -33673,7 +33673,7 @@
 "bjT" = (
 /obj/structure/closet/secure_closet/cargotech,
 /obj/item/stamp/cargo,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/cargo,
+/obj/item/clothing/suit/storage/snowsuit/cargo,
 /obj/item/geiger_counter/wall{
 	pixel_y = 30
 	},
@@ -33687,7 +33687,7 @@
 	frequency = 1441;
 	pixel_y = 22
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/cargo,
+/obj/item/clothing/suit/storage/snowsuit/cargo,
 /obj/item/clothing/shoes/boots/winter/supply{
 	name = "cargo snow boots"
 	},
@@ -34118,9 +34118,9 @@
 /area/hallway/primary/aft)
 "bkB" = (
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
 /obj/item/gps/security,
 /turf/simulated/floor/tiled/steel,
@@ -34131,7 +34131,7 @@
 	d2 = 4;
 	icon_state = "1-4"
 	},
-/obj/structure/noticeboard/airlock{
+/obj/structure/noticeboard{
 	pixel_y = -30
 	},
 /obj/effect/floor_decal/rust,
@@ -34148,9 +34148,9 @@
 /area/security/airlock)
 "bkE" = (
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
 /obj/item/gps/security,
 /obj/structure/cable/green{
@@ -34165,9 +34165,9 @@
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
 	dir = 8
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/security,
+/obj/item/clothing/suit/storage/snowsuit/security,
 /obj/item/clothing/shoes/boots/winter/security,
 /obj/item/gps/security,
 /turf/simulated/floor/tiled,
@@ -35660,7 +35660,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/rnd/lab)
 "bnx" = (
-/obj/structure/noticeboard{
+/obj/machinery/tele_pad{
 	pixel_y = 27
 	},
 /obj/machinery/door/firedoor/border_only,
@@ -36012,7 +36012,7 @@
 	},
 /obj/structure/table/standard,
 /obj/item/flashlight/lamp,
-/obj/item/taperecorder,
+/obj/item/tape_recorder,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
@@ -36420,7 +36420,7 @@
 /area/quartermaster/office)
 "boT" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
-/obj/vehicle/train/engine,
+/obj/vehicle_old/train/engine,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled,
 /area/quartermaster/storage)
@@ -36973,8 +36973,8 @@
 /area/rnd/lab)
 "bpN" = (
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
@@ -37040,14 +37040,14 @@
 /area/assembly/robotics)
 "bpT" = (
 /obj/structure/closet/wardrobe/robotics_black,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
 /turf/simulated/floor/tiled/steel_dirty,
 /area/assembly/robotics)
 "bpU" = (
 /obj/structure/closet/wardrobe/robotics_black,
 /obj/effect/floor_decal/rust,
 /obj/random/maintenance/research,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
 /turf/simulated/floor/tiled/steel_dirty,
 /area/assembly/robotics)
 "bpV" = (
@@ -37153,7 +37153,7 @@
 /area/quartermaster/office)
 "bqh" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
-/obj/vehicle/train/trolley,
+/obj/vehicle_old/train/trolley,
 /turf/simulated/floor/tiled,
 /area/quartermaster/storage)
 "bqi" = (
@@ -37632,7 +37632,7 @@
 /area/hallway/primary/central_one)
 "brf" = (
 /obj/structure/table/standard,
-/obj/item/tape_roll,
+/obj/item/duct_tape_roll,
 /obj/item/storage/firstaid/regular{
 	pixel_x = 6;
 	pixel_y = -5
@@ -37684,7 +37684,7 @@
 /area/quartermaster/office)
 "brk" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
-/obj/vehicle/train/trolley,
+/obj/vehicle_old/train/trolley,
 /obj/machinery/light{
 	dir = 8
 	},
@@ -38186,7 +38186,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/assembly/robotics)
 "bse" = (
-/obj/item/taperecorder{
+/obj/item/tape_recorder{
 	pixel_y = 0
 	},
 /obj/item/megaphone,
@@ -38303,7 +38303,7 @@
 /area/quartermaster)
 "bso" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
-/obj/vehicle/train/trolley,
+/obj/vehicle_old/train/trolley,
 /obj/structure/extinguisher_cabinet{
 	pixel_x = -27
 	},
@@ -38599,7 +38599,7 @@
 /obj/effect/floor_decal/corner/yellow{
 	dir = 6
 	},
-/obj/vehicle/train/trolley,
+/obj/vehicle_old/train/trolley,
 /turf/simulated/floor/tiled/steel_grid,
 /area/engineering/workshop)
 "bsO" = (
@@ -39300,7 +39300,7 @@
 /obj/effect/floor_decal/corner/yellow{
 	dir = 6
 	},
-/obj/vehicle/train/trolley,
+/obj/vehicle_old/train/trolley,
 /obj/machinery/camera/network/engineering{
 	c_tag = "Atmospherics Hallway";
 	dir = 8
@@ -39811,7 +39811,7 @@
 /area/vharr/outdoors/grounds)
 "buY" = (
 /obj/structure/table/standard,
-/obj/item/taperecorder{
+/obj/item/tape_recorder{
 	pixel_x = -3
 	},
 /obj/item/paicard{
@@ -39926,7 +39926,7 @@
 /obj/effect/floor_decal/corner/yellow{
 	dir = 4
 	},
-/obj/vehicle/train/trolley,
+/obj/vehicle_old/train/trolley,
 /turf/simulated/floor/tiled/steel_grid,
 /area/engineering/workshop)
 "bvi" = (
@@ -40115,11 +40115,11 @@
 /turf/simulated/floor/tiled/dark,
 /area/security/evidence_storage)
 "bvv" = (
-/obj/vehicle/train/security/trolley/cargo,
+/obj/vehicle_old/train/security/trolley/cargo,
 /turf/simulated/floor/tiled/dark,
 /area/security/evidence_storage)
 "bvw" = (
-/obj/vehicle/train/security/engine,
+/obj/vehicle_old/train/security/engine,
 /obj/machinery/alarm{
 	dir = 1;
 	icon_state = "alarm0";
@@ -40312,14 +40312,14 @@
 /area/rnd/research)
 "bvN" = (
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/engineering,
+/obj/item/clothing/suit/storage/snowsuit/engineering,
 /obj/effect/floor_decal/corner/yellow/full{
 	icon_state = "corner_white_full";
 	dir = 8
 	},
 /obj/item/clothing/shoes/boots/winter/engineering,
 /obj/item/clothing/shoes/boots/winter/engineering,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/engineering,
+/obj/item/clothing/suit/storage/snowsuit/engineering,
 /obj/item/gps/engineering,
 /obj/item/geiger_counter/wall{
 	dir = 4;
@@ -40873,7 +40873,7 @@
 /obj/effect/floor_decal/corner/blue{
 	dir = 4
 	},
-/obj/vehicle/train/engine,
+/obj/vehicle_old/train/engine,
 /turf/simulated/floor/tiled/steel_grid,
 /area/engineering/workshop)
 "bwE" = (
@@ -41892,7 +41892,7 @@
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 8
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/item/clothing/shoes/boots/winter,
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /turf/simulated/floor/tiled,
@@ -43007,7 +43007,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/structure/noticeboard/airlock{
+/obj/structure/noticeboard{
 	pixel_x = 30
 	},
 /turf/simulated/floor/tiled/dark,
@@ -43819,13 +43819,13 @@
 	dir = 1
 	},
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/engineering,
+/obj/item/clothing/suit/storage/snowsuit/engineering,
 /obj/effect/floor_decal/corner/yellow{
 	dir = 5
 	},
 /obj/item/clothing/shoes/boots/winter/engineering,
 /obj/item/clothing/shoes/boots/winter/engineering,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/engineering,
+/obj/item/clothing/suit/storage/snowsuit/engineering,
 /obj/item/gps/engineering,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
@@ -44330,7 +44330,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/cargo,
+/obj/item/clothing/suit/storage/snowsuit/cargo,
 /obj/item/clothing/shoes/boots/winter/mining,
 /obj/item/gps/mining,
 /turf/simulated/floor/tiled,
@@ -44340,14 +44340,14 @@
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
 	dir = 8
 	},
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/cargo,
+/obj/item/clothing/suit/storage/snowsuit/cargo,
 /obj/item/clothing/shoes/boots/winter/mining,
 /obj/item/gps/mining,
 /turf/simulated/floor/tiled,
 /area/quartermaster/miningwing)
 "bCC" = (
 /obj/structure/table/rack,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/cargo,
+/obj/item/clothing/suit/storage/snowsuit/cargo,
 /obj/item/clothing/shoes/boots/winter/mining,
 /obj/item/gps/mining,
 /turf/simulated/floor/tiled,
@@ -45312,7 +45312,7 @@
 "bEy" = (
 /obj/structure/table/reinforced,
 /obj/item/clipboard,
-/obj/item/tape_roll,
+/obj/item/duct_tape_roll,
 /obj/structure/window/reinforced{
 	dir = 4
 	},
@@ -45517,7 +45517,7 @@
 /turf/simulated/floor/plating,
 /area/vharr/elevator/scicargo)
 "bER" = (
-/turf/simulated/shuttle/wall/voidcraft/hard_corner/blue,
+/turf/simulated/shuttle/wall/voidcraft/hard_corner,
 /area/vharr/elevator/scicargo)
 "bES" = (
 /turf/simulated/shuttle/wall/voidcraft/blue,
@@ -48795,7 +48795,7 @@
 	pixel_x = 24
 	},
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/engineering,
+/obj/item/clothing/suit/storage/snowsuit/engineering,
 /turf/simulated/floor/tiled,
 /area/engineering/engine_airlock)
 "bJL" = (
@@ -50547,7 +50547,7 @@
 "bMZ" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /turf/simulated/floor/tiled,
 /area/vharr/outdoors/grounds/traderpad)
 "bNa" = (
@@ -51247,7 +51247,7 @@
 /area/exploration/meeting)
 "bOj" = (
 /obj/structure/table/woodentable,
-/obj/item/taperecorder,
+/obj/item/tape_recorder,
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 8
 	},
@@ -53030,7 +53030,7 @@
 /area/crew_quarters/locker)
 "bRD" = (
 /obj/structure/table/standard,
-/obj/item/tape_roll,
+/obj/item/duct_tape_roll,
 /turf/simulated/floor/tiled,
 /area/crew_quarters/locker)
 "bRE" = (
@@ -54708,7 +54708,7 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/structure/disposalpipe/segment,
-/obj/structure/noticeboard/airlock{
+/obj/structure/noticeboard{
 	pixel_x = -30
 	},
 /turf/simulated/floor/tiled/monotile,
@@ -54719,12 +54719,12 @@
 /area/exploration/pathfinder_office)
 "bUF" = (
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /obj/item/material/knife/machete/hatchet/iceaxe,
-/obj/structure/noticeboard/exploration{
+/obj/structure/noticeboard{
 	pixel_y = 30
 	},
 /turf/simulated/floor/tiled,
@@ -55280,8 +55280,8 @@
 /area/exploration/excursion_dock)
 "bVM" = (
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
+/obj/item/clothing/suit/storage/snowsuit/science,
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /turf/simulated/floor/tiled,
 /area/exploration/excursion_dock)
@@ -56883,16 +56883,16 @@
 	},
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/item/clothing/shoes/boots/winter/climbing,
 /turf/simulated/floor/tiled,
 /area/crew_quarters/locker)
 "bYP" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
-/obj/item/clothing/suit/storage/hooded/wintercoat/snowsuit,
+/obj/item/clothing/suit/storage/snowsuit,
 /obj/item/clothing/shoes/boots/winter/climbing,
-/obj/structure/noticeboard/airlock{
+/obj/structure/noticeboard{
 	pixel_y = -30
 	},
 /turf/simulated/floor/tiled,
@@ -58584,7 +58584,7 @@
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 8
 	},
-/obj/structure/noticeboard/nanite{
+/obj/structure/noticeboard{
 	pixel_x = -32
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
