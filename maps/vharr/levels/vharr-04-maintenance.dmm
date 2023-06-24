@@ -10147,7 +10147,7 @@
 /turf/simulated/floor,
 /area/maintenance/starboard)
 "avN" = (
-/obj/machinery/atmospherics/valve{
+/obj/machinery/holopad{
 	dir = 4
 	},
 /turf/simulated/floor,
@@ -30023,7 +30023,7 @@
 /turf/simulated/floor,
 /area/maintenance/dormitory)
 "blk" = (
-/obj/machinery/atmospherics/valve{
+/obj/machinery/holopad{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/spiderling_remains,
@@ -34215,7 +34215,7 @@
 "btO" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/machinery/atmospherics/valve/digital/open{
+/obj/machinery/holopad/digital/open{
 	dir = 4;
 	name = "Mixed Air Inlet Valve"
 	},
@@ -34931,7 +34931,7 @@
 "bvr" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/machinery/atmospherics/valve/digital/open{
+/obj/machinery/holopad/digital/open{
 	dir = 4;
 	name = "Mixed Air Outlet Valve"
 	},
@@ -36269,7 +36269,7 @@
 "byi" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/machinery/atmospherics/valve/digital/open{
+/obj/machinery/holopad/digital/open{
 	dir = 4;
 	name = "Oxygen Outlet Valve"
 	},
@@ -36570,7 +36570,7 @@
 /turf/simulated/floor/tiled,
 /area/engineering/atmos)
 "byS" = (
-/obj/machinery/atmospherics/valve/digital,
+/obj/machinery/holopad/digital,
 /turf/simulated/floor/tiled,
 /area/engineering/atmos)
 "byT" = (
@@ -37058,7 +37058,7 @@
 /area/engineering/atmos)
 "bzZ" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/machinery/atmospherics/valve/digital/open{
+/obj/machinery/holopad/digital/open{
 	dir = 4;
 	name = "Nitrogen Outlet Valve"
 	},
@@ -40228,7 +40228,7 @@
 /area/engineering/hallway_lower)
 "cJF" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/machinery/atmospherics/valve/digital,
+/obj/machinery/holopad/digital,
 /turf/simulated/floor,
 /area/security/prison)
 "ddA" = (

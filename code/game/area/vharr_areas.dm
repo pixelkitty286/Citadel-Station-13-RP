@@ -45,7 +45,7 @@
 	is_outside = OUTSIDE_YES
 	sound_env = MOUNTAINS
 
-//future areas
+//New outside
 /area/vharr/surfacebase/outside/outside1
 	icon_state = "outside1"
 
@@ -53,12 +53,26 @@
 /area/vharr/surfacebase/outside/east
 	icon_state = "green"
 
+//Trade Pad/Shop
+/area/rift/trade_shop
+	name = "\improper Trade Shop"
+	icon_state = "green"
+
+/area/rift/trade_shop/landing_pad
+	name = "\improper Trade Shop Landing Pad"
+
+/area/rift/trade_shop/loading
+	name = "\improper Trade Shop Loading Corridor"
+
+/area/rift/trade_shop/debugger
+	name = "\improper Trade Shop Debugger"
+
 /area/crew_quarters/meeting
 	name = "\improper Public Conference"
 	icon_state = "courtroom"
 
 //TODO: reorganize all of this
-//Outdoors main
+//To be removed and replaced
 /area/vharr/surfacebase/outside/grounds
 	name = "\The outpost grounds"
 
@@ -74,7 +88,6 @@
 /area/vharr/surfacebase/outside/grounds/exterior/explore2
 	name = "Unexplored Area"
 
-//To be removed
 /area/vharr/surfacebase/outside/grounds/exterior/explore3
 	name = "Unexplored Caves"
 
@@ -94,14 +107,6 @@
 	icon = 'icons/turf/areas.dmi'
 	icon_state = "panelsA"
 
-/*
-//Abandoned Tajaran outpost
-/area/vharr/facility/exterior //undetermined what happened to the facility
-	name = "\improper Radioactive Exclusion Zone"
-	is_outside = OUTSIDE_YES
-
-/area/vharr/facility/interior/
-*/
 
 //crew quarters-dorms
 /area/crew_quarters/showers

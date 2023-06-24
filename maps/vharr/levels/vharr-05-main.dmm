@@ -1,88 +1,88 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "aaa" = (
 /turf/unsimulated/wall/planetary/vharr,
-/area/vharr/outdoors)
+/area/vharr/surfacebase/outside/outside1)
 "aab" = (
 /turf/simulated/wall,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aac" = (
 /obj/structure/grille,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aad" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aae" = (
 /obj/structure/flora/tree/dead,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aaf" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aag" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aah" = (
 /obj/structure/railing{
 	icon_state = "railing0";
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aai" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaj" = (
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aak" = (
 /obj/effect/shuttle_landmark/premade/escape/station,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aal" = (
 /obj/effect/overlay/snow/floor,
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aam" = (
 /obj/structure/railing{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aan" = (
 /turf/simulated/wall,
 /area/storage/auxillary)
 "aao" = (
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aap" = (
 /obj/structure/fence/corner{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aaq" = (
 /obj/structure/fence/door,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aar" = (
 /turf/unsimulated/wall/planetary/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aas" = (
 /obj/structure/fence/door,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aat" = (
 /obj/structure/fence/corner,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aau" = (
 /obj/structure/lattice,
 /obj/structure/largecrate/birds,
@@ -98,7 +98,7 @@
 "aax" = (
 /obj/structure/fence,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aay" = (
 /obj/structure/largecrate,
 /turf/simulated/floor,
@@ -106,15 +106,15 @@
 "aaz" = (
 /obj/vharr_away_spawner/wilds,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aaA" = (
 /obj/structure/flora/tree/winter,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aaB" = (
 /obj/effect/shuttle_landmark/premade/specops/station,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaC" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -128,7 +128,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaD" = (
 /obj/machinery/portable_atmospherics/canister/air/airlock,
 /obj/effect/floor_decal/industrial/outline/yellow,
@@ -136,17 +136,17 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "aaE" = (
 /obj/machinery/atmospherics/pipe/simple/hidden{
 	dir = 10;
 	icon_state = "intact"
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaF" = (
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaG" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/door/airlock/glass_external,
@@ -168,7 +168,7 @@
 	},
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaI" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -177,13 +177,13 @@
 /obj/structure/window/reinforced,
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaJ" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced,
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaK" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced,
@@ -195,31 +195,31 @@
 	},
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaL" = (
 /obj/machinery/atmospherics/pipe/simple/hidden,
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaM" = (
 /obj/structure/sign/warning/radioactive,
 /turf/simulated/wall,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaN" = (
 /obj/machinery/trailblazer/red,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaO" = (
 /turf/simulated/floor/outdoors/snow/vharr,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaP" = (
 /obj/effect/shuttle_landmark/premade/skipjack/station_ne,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aaQ" = (
 /obj/structure/flora/tree/winter1,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aaR" = (
 /obj/machinery/door/airlock/external{
 	frequency = 1380;
@@ -242,7 +242,7 @@
 /obj/machinery/shield_diffuser,
 /obj/machinery/shield_diffuser,
 /turf/simulated/floor/tiled/dark,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaS" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/high_volume{
 	dir = 4;
@@ -255,7 +255,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaT" = (
 /obj/machinery/embedded_controller/radio/airlock/docking_port{
 	frequency = 1380;
@@ -283,7 +283,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaU" = (
 /obj/machinery/atmospherics/pipe/simple/hidden{
 	icon_state = "intact";
@@ -300,7 +300,7 @@
 	},
 /obj/machinery/shield_diffuser,
 /turf/simulated/floor/tiled/dark,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaV" = (
 /obj/machinery/access_button{
 	command = "cycle_interior";
@@ -319,7 +319,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaW" = (
 /obj/machinery/door/airlock/centcom{
 	locked = 0;
@@ -331,13 +331,13 @@
 /turf/unsimulated/floor{
 	icon_state = "steel"
 	},
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaX" = (
 /obj/structure/fence/door{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaY" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -346,14 +346,14 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aaZ" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aba" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
@@ -362,7 +362,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abb" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -370,11 +370,11 @@
 	},
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abc" = (
 /obj/structure/sign/warning/secure_area,
 /turf/simulated/wall,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abd" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -383,18 +383,18 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abe" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abf" = (
 /obj/structure/flora/bush,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abg" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -406,14 +406,14 @@
 	},
 /obj/structure/window/reinforced,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abh" = (
 /obj/machinery/atmospherics/pipe/simple/hidden{
 	dir = 9;
 	icon_state = "intact"
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abi" = (
 /turf/simulated/shuttle/wall,
 /area/shuttle/residential)
@@ -424,15 +424,15 @@
 /obj/effect/overlay/snow/floor,
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abk" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abl" = (
 /mob/living/simple_mob/animal/passive/gaslamp/snow,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abm" = (
 /turf/simulated/wall,
 /area/hallway/secondary/exit)
@@ -484,10 +484,10 @@
 "abp" = (
 /obj/vharr_away_spawner/vharr,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abq" = (
 /turf/unsimulated/wall/planetary/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abr" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -612,7 +612,7 @@
 	name = "carpspawn"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abA" = (
 /obj/machinery/door/airlock/external{
 	frequency = 1380;
@@ -784,11 +784,11 @@
 "abP" = (
 /obj/effect/shuttle_landmark/premade/skipjack/station_nw,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "abQ" = (
 /obj/effect/shuttle_landmark/premade/mercenary/station_n,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "abR" = (
 /obj/machinery/door/airlock/external{
 	frequency = 1380;
@@ -1132,7 +1132,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "acw" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -1446,7 +1446,7 @@
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/exit)
 "adg" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/exit)
@@ -1512,23 +1512,23 @@
 	icon_state = "D-SE"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "adn" = (
 /obj/structure/transit_tube{
 	icon_state = "E-SW"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ado" = (
 /obj/structure/transit_tube{
 	icon_state = "E-W-Pass"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "adp" = (
 /obj/structure/transit_tube,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "adq" = (
 /obj/effect/wingrille_spawn/reinforced,
 /obj/structure/transit_tube,
@@ -1669,13 +1669,13 @@
 	icon_state = "NE-SW"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "adJ" = (
 /obj/structure/transit_tube{
 	icon_state = "D-NW"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "adK" = (
 /obj/machinery/camera/network/civilian{
 	c_tag = "Monastary Entry Port";
@@ -2201,20 +2201,20 @@
 "aeG" = (
 /obj/structure/closet/cabinet,
 /turf/simulated/floor/wood,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aeH" = (
 /obj/structure/table/woodentable,
 /obj/machinery/chemical_dispenser/catering/bar_soft,
 /turf/simulated/floor/wood,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aeI" = (
 /obj/machinery/appliance/cooker/grill,
 /turf/simulated/floor/wood,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aeJ" = (
 /obj/structure/closet/crate/freezer/meat,
 /turf/simulated/floor/wood,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aeK" = (
 /obj/machinery/door/airlock/external{
 	frequency = 1380;
@@ -2544,7 +2544,7 @@
 "aff" = (
 /obj/structure/railing,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "afg" = (
 /obj/structure/railing{
 	icon_state = "railing0";
@@ -2552,7 +2552,7 @@
 	},
 /obj/structure/railing,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "afh" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 9
@@ -2604,7 +2604,7 @@
 /area/chapel/monastery)
 "afo" = (
 /turf/simulated/floor/wood,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "afp" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -2801,13 +2801,13 @@
 	dir = 7
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "afK" = (
 /obj/structure/transit_tube{
 	icon_state = "W-NE"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "afL" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 10
@@ -2908,19 +2908,19 @@
 	dir = 9
 	},
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "agb" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "agc" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 5
 	},
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "agd" = (
 /obj/structure/flora/pottedplant/large,
 /turf/simulated/floor/tiled,
@@ -3009,7 +3009,7 @@
 "agn" = (
 /obj/effect/overlay/snow/floor,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ago" = (
 /obj/machinery/door/airlock/glass_external/freezable{
 	frequency = "1379";
@@ -3132,17 +3132,17 @@
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "agG" = (
 /obj/structure/bonfire/permanent,
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "agH" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "agI" = (
 /obj/structure/bed/chair,
 /turf/simulated/floor/tiled,
@@ -3241,7 +3241,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "agT" = (
 /obj/effect/wingrille_spawn/reinforced,
 /obj/machinery/door/firedoor/glass,
@@ -3363,23 +3363,23 @@
 /area/chapel/monastery)
 "ahj" = (
 /turf/simulated/wall/wood,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ahk" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 10
 	},
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ahl" = (
 /obj/effect/floor_decal/spline/plain,
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ahm" = (
 /obj/effect/floor_decal/spline/plain{
 	dir = 6
 	},
 /turf/simulated/floor/outdoors/beach/sand/desert/indoors,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ahn" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 9
@@ -3841,15 +3841,15 @@
 	},
 /obj/machinery/door/airlock/glass_external/freezable,
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ail" = (
 /obj/structure/sign/warning/hot_exhaust,
 /turf/simulated/wall,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aim" = (
 /obj/effect/shuttle_landmark/premade/arrivals/arrivals_station,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ain" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced,
@@ -4153,7 +4153,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aiP" = (
 /obj/effect/overlay/snow/floor,
 /obj/effect/overlay/snow/floor/edges_new{
@@ -4161,20 +4161,20 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aiQ" = (
 /obj/structure/sign/warning/hot_exhaust{
 	pixel_y = 32
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aiR" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aiS" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -4184,7 +4184,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aiT" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -4502,21 +4502,21 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ajo" = (
 /obj/effect/overlay/snow/floor/surround_new{
 	dir = 1
 	},
 /obj/effect/floor_decal/industrial/warning/dust/corner,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ajp" = (
 /obj/effect/overlay/snow/floor,
 /obj/effect/overlay/snow/floor/grav_edges{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ajq" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/door/airlock/glass_external/freezable{
@@ -4619,7 +4619,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ajC" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -4742,7 +4742,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ajO" = (
 /obj/effect/wingrille_spawn/reinforced,
 /turf/simulated/floor/tiled/steel,
@@ -4814,7 +4814,7 @@
 "aka" = (
 /obj/structure/flora/tree/dead,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "akb" = (
 /turf/simulated/wall,
 /area/maintenance/medbay)
@@ -5240,7 +5240,7 @@
 "akN" = (
 /obj/structure/showcase/yw/plaque,
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "akO" = (
 /obj/structure/undies_wardrobe,
 /obj/machinery/light{
@@ -5983,7 +5983,7 @@
 /obj/effect/floor_decal/corner/lime{
 	dir = 10
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
@@ -7363,7 +7363,7 @@
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/entry/docking_lounge)
 "aoS" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/carpet/blue,
 /area/medical/psych)
 "aoT" = (
@@ -7935,7 +7935,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "apR" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -7955,7 +7955,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "apS" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable/heavyduty{
@@ -7971,7 +7971,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "apT" = (
 /obj/structure/closet/secure_closet/security,
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
@@ -8280,7 +8280,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/medbay_primary_storage)
 "aqp" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/disposalpipe/segment{
 	dir = 8;
 	icon_state = "pipe-c"
@@ -8348,7 +8348,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aqz" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -8368,7 +8368,7 @@
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/visible/supply,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aqA" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/window/reinforced,
@@ -8418,7 +8418,7 @@
 /area/construction/solars)
 "aqH" = (
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aqI" = (
 /turf/simulated/floor/tiled/white,
 /area/vharr/elevator/medbay)
@@ -8953,7 +8953,7 @@
 	},
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "arw" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -8967,7 +8967,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "arx" = (
 /obj/machinery/alarm{
 	frequency = 1441;
@@ -9232,7 +9232,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/medbay_primary_storage)
 "arX" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
@@ -9491,7 +9491,7 @@
 /turf/simulated/wall/r_wall,
 /area/janitor)
 "asu" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/hallway/secondary/entry/docking_lounge)
 "asv" = (
@@ -9518,7 +9518,7 @@
 "asx" = (
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "asy" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -9528,7 +9528,7 @@
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/visible/supply,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "asz" = (
 /obj/machinery/computer/crew{
 	dir = 4
@@ -9616,7 +9616,7 @@
 "asI" = (
 /obj/structure/flora/tree/dead,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "asJ" = (
 /turf/simulated/wall,
 /area/medical/patient_a)
@@ -10578,7 +10578,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/patient_a)
 "aur" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable/green{
 	d1 = 4;
 	d2 = 8;
@@ -11091,7 +11091,7 @@
 /obj/structure/railing,
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "avi" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -11102,7 +11102,7 @@
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/visible/supply,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "avj" = (
 /obj/machinery/computer/secure_data{
 	dir = 4
@@ -11237,11 +11237,11 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "avu" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "avv" = (
 /obj/effect/overlay/snow/floor/grav_edges{
 	dir = 4
@@ -11251,7 +11251,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "avw" = (
 /obj/effect/landmark{
 	name = "carpspawn"
@@ -11529,7 +11529,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/patient_c)
 "avU" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable/green{
 	d1 = 4;
 	d2 = 8;
@@ -11648,7 +11648,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/security/nuke_storage)
 "awf" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 6
 	},
@@ -11718,14 +11718,14 @@
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "awn" = (
 /obj/structure/catwalk,
 /obj/structure/railing{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "awo" = (
 /obj/structure/table/standard,
 /obj/item/cell/device/weapon{
@@ -11826,7 +11826,7 @@
 	},
 /obj/effect/overlay/snow/floor/surround_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aww" = (
 /obj/structure/cable/yellow{
 	d1 = 4;
@@ -12191,7 +12191,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "axb" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -12211,7 +12211,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "axc" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -12228,7 +12228,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "axd" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -12248,7 +12248,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "axe" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "2-8"
@@ -12266,7 +12266,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "axf" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
@@ -12284,7 +12284,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "axh" = (
 /obj/item/caution/cone,
 /turf/simulated/floor,
@@ -12436,7 +12436,7 @@
 /area/medical/cryo)
 "axw" = (
 /obj/machinery/atmospherics/pipe/simple/hidden,
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
@@ -12816,7 +12816,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aye" = (
 /obj/structure/railing{
 	dir = 1
@@ -12835,7 +12835,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "ayf" = (
 /obj/structure/cable/yellow{
 	d1 = 2;
@@ -12888,7 +12888,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/patient_b)
 "ayj" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable/green{
 	d1 = 4;
 	d2 = 8;
@@ -13351,7 +13351,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "ayY" = (
 /obj/effect/floor_decal/corner/pink/full,
 /obj/machinery/computer/med_data/laptop{
@@ -15781,7 +15781,7 @@
 "aDw" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aDx" = (
 /obj/structure/ladder/updown,
 /turf/simulated/floor/plating,
@@ -16239,7 +16239,7 @@
 /turf/simulated/floor/wood,
 /area/crew_quarters/captain)
 "aEr" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /turf/simulated/floor/wood,
@@ -17189,7 +17189,7 @@
 "aGi" = (
 /obj/structure/flora/tree/pine,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "aGj" = (
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -17218,7 +17218,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aGl" = (
 /obj/structure/disposalpipe/down{
 	dir = 4
@@ -17637,13 +17637,13 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aHb" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aHc" = (
 /obj/machinery/power/apc{
 	dir = 4;
@@ -17664,14 +17664,14 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aHe" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aHf" = (
 /turf/simulated/wall/r_wall,
 /area/maintenance/medbay)
@@ -17976,7 +17976,7 @@
 	req_access = list(1)
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aHO" = (
 /obj/machinery/power/tracker,
 /obj/structure/cable/yellow{
@@ -18006,7 +18006,7 @@
 "aHR" = (
 /obj/structure/sign/warning/lethal_turrets,
 /turf/simulated/wall,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aHS" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -18015,7 +18015,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aHT" = (
 /turf/simulated/wall,
 /area/security/airlock)
@@ -18206,7 +18206,7 @@
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aIp" = (
 /obj/structure/displaycase,
 /obj/machinery/light,
@@ -18370,7 +18370,7 @@
 	},
 /obj/structure/railing,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aIG" = (
 /obj/effect/floor_decal/rust,
 /obj/structure/cable/heavyduty{
@@ -18385,7 +18385,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aIH" = (
 /obj/effect/floor_decal/rust,
 /obj/structure/cable/heavyduty{
@@ -18397,7 +18397,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aII" = (
 /obj/effect/floor_decal/rust,
 /obj/structure/cable/heavyduty{
@@ -18412,13 +18412,13 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aIJ" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aIK" = (
 /turf/simulated/wall/r_wall,
 /area/security/airlock)
@@ -18808,7 +18808,7 @@
 	name_tag = "Solar Farm Output"
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aJE" = (
 /obj/item/folder/red,
 /obj/structure/table/glass,
@@ -19100,7 +19100,7 @@
 /area/maintenance/bridge)
 "aKl" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aKm" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/power/solar_control,
@@ -19188,11 +19188,11 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "aKs" = (
 /obj/structure/sign/securearea,
 /turf/simulated/wall,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aKt" = (
 /turf/simulated/wall,
 /area/security/vacantoffice)
@@ -19523,13 +19523,13 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aKW" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aKX" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
@@ -19538,7 +19538,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aKY" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/door/airlock/multi_tile/metal/mait,
@@ -19547,7 +19547,7 @@
 "aKZ" = (
 /obj/machinery/trailblazer/blue,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aLa" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 4
@@ -19904,41 +19904,41 @@
 /area/construction/solars)
 "aLK" = (
 /turf/simulated/wall,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aLL" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aLM" = (
 /obj/structure/grille/broken,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aLN" = (
 /obj/structure/grille,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aLO" = (
 /obj/structure/girder,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aLP" = (
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aLQ" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aLR" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aLS" = (
 /obj/machinery/disposal,
 /obj/structure/disposalpipe/trunk{
@@ -20262,16 +20262,16 @@
 "aMC" = (
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aMD" = (
 /obj/item/material/shard,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aME" = (
 /obj/effect/decal/cleanable/blood/drip,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aMF" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full{
@@ -20279,7 +20279,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aMG" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
@@ -20288,13 +20288,13 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aMH" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aMI" = (
 /turf/simulated/wall/r_wall,
 /area/security/warden)
@@ -20705,7 +20705,7 @@
 /area/bridge_hallway)
 "aNw" = (
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aNx" = (
 /obj/machinery/computer/security{
 	dir = 1
@@ -21013,11 +21013,11 @@
 "aOd" = (
 /obj/effect/decal/cleanable/blood/tracks/footprints,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aOe" = (
 /obj/effect/decal/remains/posi,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aOf" = (
 /obj/machinery/computer/secure_data{
 	dir = 1
@@ -21527,7 +21527,7 @@
 	d2 = 4;
 	icon_state = "2-4"
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	dir = 1
 	},
@@ -21591,7 +21591,7 @@
 /area/bridge/blueshield)
 "aPe" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aPf" = (
 /obj/structure/cable/green,
 /obj/structure/cable/green{
@@ -22179,17 +22179,17 @@
 "aQd" = (
 /obj/effect/floor_decal/rust/mono_rusted2,
 /turf/simulated/wall,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aQe" = (
 /obj/effect/floor_decal/rust/mono_rusted3,
 /turf/simulated/wall,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aQf" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aQg" = (
 /obj/machinery/door/airlock/engineering{
 	name = "Security Substation";
@@ -22440,7 +22440,7 @@
 	d2 = 4;
 	icon_state = "2-4"
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/kitchen)
 "aQG" = (
@@ -22813,18 +22813,18 @@
 "aRg" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aRh" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aRi" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aRj" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -22838,7 +22838,7 @@
 	flags = null
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aRk" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -23356,7 +23356,7 @@
 	flags = null
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aSn" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
 /turf/simulated/floor/tiled/dark,
@@ -23947,7 +23947,7 @@
 "aTx" = (
 /obj/effect/floor_decal/rust/mono_rusted1,
 /turf/simulated/wall,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aTy" = (
 /obj/structure/lattice,
 /obj/structure/grille,
@@ -24433,7 +24433,7 @@
 /obj/effect/floor_decal/rust/color_rustedfull,
 /obj/machinery/door/airlock/glass_external/public,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aUp" = (
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/security/armoury)
@@ -25085,14 +25085,14 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aVz" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aVA" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor/glass,
@@ -25283,7 +25283,7 @@
 "aVP" = (
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aVQ" = (
 /obj/effect/floor_decal/corner/red{
 	dir = 4
@@ -25801,11 +25801,11 @@
 	dir = 10
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aWI" = (
 /obj/effect/shuttle_landmark/premade/supply/station,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aWJ" = (
 /turf/simulated/floor/tiled/white,
 /area/security/security_aid_station)
@@ -26673,7 +26673,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable/green{
 	d1 = 2;
 	d2 = 8;
@@ -26975,7 +26975,7 @@
 /obj/effect/floor_decal/rust/color_rustedfull,
 /obj/machinery/door/airlock/glass_external/public,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "aYL" = (
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -27661,7 +27661,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aZQ" = (
 /obj/structure/railing{
 	dir = 1
@@ -27670,7 +27670,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "aZR" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
 /turf/simulated/floor/tiled/dark,
@@ -28240,7 +28240,7 @@
 /turf/simulated/floor/tiled,
 /area/storage/art)
 "baL" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable/green{
 	d1 = 1;
 	d2 = 4;
@@ -28436,7 +28436,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bbd" = (
 /obj/machinery/power/solar{
 	id = "starboardsolar";
@@ -28464,11 +28464,11 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bbh" = (
 /obj/effect/overmap/visitable/sector/vharr,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bbi" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -29319,7 +29319,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/security/interrogation)
 "bcD" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/dark,
 /area/security/interrogation)
 "bcE" = (
@@ -29765,7 +29765,7 @@
 	d2 = 8;
 	icon_state = "2-8"
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	dir = 1
 	},
@@ -30598,7 +30598,7 @@
 /obj/effect/floor_decal/rust/color_rustedfull,
 /obj/machinery/door/airlock/glass_external/freezable,
 /turf/simulated/floor/tiled/old_tile/gray,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "beK" = (
 /obj/structure/grille,
 /turf/simulated/floor/outdoors/snow/vharr,
@@ -31528,7 +31528,7 @@
 /area/hallway/primary/central_one)
 "bgf" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "bgg" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor,
@@ -31560,7 +31560,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgk" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/disposalpipe/junction{
@@ -31629,30 +31629,30 @@
 	dir = 10
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgr" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 6
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgs" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging{
 	dir = 10
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgt" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgu" = (
 /obj/structure/lattice,
 /obj/machinery/atmospherics/pipe/zpipe/down{
 	dir = 4
 	},
 /turf/simulated/open,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgv" = (
 /obj/machinery/atmospherics/pipe/simple/heat_exchanging,
 /obj/machinery/atmospherics/pipe/simple/visible/red{
@@ -31660,7 +31660,7 @@
 	dir = 9
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgw" = (
 /obj/structure/table/standard{
 	name = "plastic table frame"
@@ -31696,7 +31696,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgy" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/door/airlock/security{
@@ -31774,7 +31774,7 @@
 	dir = 9
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bgE" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -32096,19 +32096,19 @@
 "bhj" = (
 /obj/effect/floor_decal/corner_steel_grid,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bhk" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 10
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bhl" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bhm" = (
 /obj/structure/railing{
 	dir = 4
@@ -32117,7 +32117,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bhn" = (
 /obj/machinery/alarm{
 	dir = 1;
@@ -32726,13 +32726,13 @@
 "biq" = (
 /obj/effect/overlay/snow/floor/grav_edges,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "bir" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 6
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bis" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner,
 /obj/structure/railing{
@@ -32743,14 +32743,14 @@
 	},
 /obj/machinery/light/flamp/noshade,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bit" = (
 /obj/effect/floor_decal/industrial/warning/dust,
 /obj/structure/railing{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "biu" = (
 /obj/effect/floor_decal/rust,
 /obj/effect/floor_decal/industrial/warning/dust,
@@ -32758,25 +32758,25 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "biv" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 9
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "biw" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "bix" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "biy" = (
 /obj/effect/wingrille_spawn/reinforced,
 /obj/structure/cable/green{
@@ -32790,7 +32790,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/security/security_equiptment_storage)
 "biz" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/effect/decal/cleanable/blood/oil,
 /obj/structure/disposalpipe/segment{
 	dir = 1;
@@ -33260,7 +33260,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/rnd/lab)
 "bjm" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/dark,
 /area/rnd/lab)
 "bjn" = (
@@ -33714,7 +33714,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bjX" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 4
@@ -33723,7 +33723,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bjY" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/cable/heavyduty{
@@ -33736,7 +33736,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bjZ" = (
 /obj/structure/railing{
 	dir = 4
@@ -33745,7 +33745,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bka" = (
 /obj/machinery/status_display,
 /turf/simulated/wall,
@@ -34326,7 +34326,7 @@
 /turf/simulated/floor/tiled,
 /area/assembly/robotics)
 "bkV" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
@@ -34478,7 +34478,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/explore1)
+/area/vharr/surfacebase/outside/outside1)
 "blo" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -35168,7 +35168,7 @@
 /area/quartermaster/storage)
 "bmE" = (
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bmF" = (
 /obj/effect/floor_decal/corner/red{
 	dir = 8
@@ -35193,12 +35193,12 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bmH" = (
 /obj/structure/railing,
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bmI" = (
 /obj/structure/table/steel,
 /obj/item/module/power_control,
@@ -35443,7 +35443,7 @@
 /turf/simulated/floor/tiled,
 /area/security/hallway)
 "bne" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled,
 /area/security/hallway)
@@ -36024,7 +36024,7 @@
 /turf/simulated/floor/tiled/dark,
 /area/security/interrogation)
 "bob" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/security/security_processing)
 "boc" = (
@@ -36488,13 +36488,13 @@
 	dir = 10
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bpd" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bpe" = (
 /obj/item/flashlight{
 	pixel_x = 1;
@@ -36570,7 +36570,7 @@
 /area/engineering/engine_room)
 "bpl" = (
 /obj/structure/disposalpipe/segment,
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/effect/floor_decal/corner/red{
 	dir = 4
 	},
@@ -37159,7 +37159,7 @@
 "bqi" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/quartermaster/storage)
 "bqj" = (
@@ -37215,7 +37215,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bqn" = (
 /obj/effect/floor_decal/rust,
 /obj/effect/floor_decal/industrial/warning/dust,
@@ -37223,20 +37223,20 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bqo" = (
 /obj/effect/floor_decal/industrial/warning/dust,
 /obj/structure/railing{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bqp" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 9
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bqq" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/door/airlock/engineering{
@@ -37410,7 +37410,7 @@
 /turf/simulated/floor/tiled/white,
 /area/security/forensics)
 "bqI" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/white,
 /area/security/forensics)
 "bqJ" = (
@@ -37708,10 +37708,10 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "brn" = (
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bro" = (
 /turf/simulated/wall,
 /area/engineering/workshop)
@@ -38376,7 +38376,7 @@
 	icon_state = "pipe-c"
 	},
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bsx" = (
 /obj/structure/railing{
 	dir = 4
@@ -38385,11 +38385,11 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bsy" = (
 /obj/machinery/trailblazer/yellow,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bsz" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor/glass,
@@ -39077,7 +39077,7 @@
 "btJ" = (
 /obj/structure/disposalpipe/segment,
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "btK" = (
 /obj/structure/disposalpipe/trunk{
 	dir = 8
@@ -39086,7 +39086,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "btL" = (
 /obj/machinery/computer/shuttle_control/residential_shuttle,
 /turf/simulated/shuttle/floor/white,
@@ -39096,7 +39096,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "btN" = (
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -39125,7 +39125,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "btP" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -39139,7 +39139,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "btQ" = (
 /obj/structure/bed/chair/comfy/black{
 	dir = 4
@@ -39185,7 +39185,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/power)
+/area/vharr/surfacebase/outside/outside1/power)
 "btU" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -39798,17 +39798,17 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "buW" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 1
 	},
 /obj/structure/railing,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "buX" = (
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "buY" = (
 /obj/structure/table/standard,
 /obj/item/tape_recorder{
@@ -40802,19 +40802,19 @@
 	dir = 5
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bwv" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bww" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bwx" = (
 /obj/structure/railing,
 /obj/machinery/light/flamp/noshade,
@@ -40825,7 +40825,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bwy" = (
 /obj/structure/cable/orange{
 	icon_state = "1-2"
@@ -41000,7 +41000,7 @@
 	pixel_x = 30
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "bwO" = (
 /turf/simulated/floor/carpet,
 /area/engineering/foyer)
@@ -41313,7 +41313,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bxt" = (
 /obj/structure/lattice,
 /obj/structure/grille/broken,
@@ -41322,7 +41322,7 @@
 "bxu" = (
 /obj/structure/lattice,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bxv" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/door/firedoor/glass,
@@ -41531,7 +41531,7 @@
 /turf/simulated/floor/tiled,
 /area/crew_quarters/heads/chief)
 "bxN" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable/green{
 	d1 = 4;
 	d2 = 8;
@@ -41883,7 +41883,7 @@
 /turf/simulated/floor/tiled/white,
 /area/rnd/rdoffice)
 "byp" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/carpet/blue,
 /area/crew_quarters/heads/hop)
 "byq" = (
@@ -42067,7 +42067,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byI" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	dir = 4
@@ -42078,20 +42078,20 @@
 	},
 /obj/machinery/light/flamp/noshade,
 /turf/simulated/floor/tiled/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byJ" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byK" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 1
 	},
 /obj/structure/railing,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byL" = (
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 1
@@ -42101,14 +42101,14 @@
 	},
 /obj/structure/railing,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byM" = (
 /obj/structure/railing,
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byN" = (
 /obj/structure/railing,
 /obj/machinery/light/flamp/noshade,
@@ -42119,7 +42119,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byO" = (
 /obj/machinery/shipsensors{
 	dir = 1
@@ -42135,7 +42135,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "byQ" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/door/firedoor/glass,
@@ -42962,19 +42962,19 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bAi" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 5
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bAj" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bAk" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/door/blast/regular{
@@ -43729,21 +43729,21 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bBr" = (
 /obj/structure/disposalpipe/segment{
 	dir = 2;
 	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bBs" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bBt" = (
 /turf/simulated/wall/r_wall,
 /area/engineering/storage)
@@ -44007,7 +44007,7 @@
 /turf/simulated/floor/tiled,
 /area/engineering/engineering_monitoring)
 "bBU" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /turf/simulated/floor/tiled,
 /area/engineering/engineering_monitoring)
@@ -44377,7 +44377,7 @@
 	},
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bCG" = (
 /obj/structure/disposalpipe/segment,
 /obj/structure/railing{
@@ -44386,7 +44386,7 @@
 	},
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bCH" = (
 /turf/simulated/wall/titanium,
 /area/exploration/meeting)
@@ -45079,13 +45079,13 @@
 /obj/structure/railing,
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bDY" = (
 /obj/structure/disposalpipe/segment,
 /obj/structure/railing,
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bDZ" = (
 /turf/simulated/floor/plating,
 /area/exploration/meeting)
@@ -45623,14 +45623,14 @@
 "bFe" = (
 /obj/effect/overlay/snow/floor/grav_edges,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bFf" = (
 /obj/structure/disposalpipe/segment{
 	dir = 1;
 	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bFg" = (
 /obj/structure/cable/yellow{
 	d2 = 2;
@@ -45681,14 +45681,14 @@
 	dir = 4
 	},
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bFm" = (
 /obj/structure/disposalpipe/segment{
 	dir = 8;
 	icon_state = "pipe-c"
 	},
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bFn" = (
 /turf/simulated/floor/tiled{
 	icon_state = "techmaint"
@@ -47563,7 +47563,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bHX" = (
 /obj/structure/table/standard,
 /obj/item/reagent_containers/blood/OMinus,
@@ -48807,7 +48807,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bJM" = (
 /obj/machinery/cryopod/robot{
 	dir = 4
@@ -49044,13 +49044,13 @@
 /area/crew_quarters/locker/locker_toilet)
 "bKj" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bKk" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bKl" = (
 /obj/machinery/light{
 	dir = 8;
@@ -49444,7 +49444,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bKW" = (
 /obj/machinery/recharge_station,
 /obj/effect/floor_decal/industrial/outline/yellow,
@@ -49827,7 +49827,7 @@
 /area/exploration/meeting)
 "bLF" = (
 /turf/simulated/wall/r_wall,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bLG" = (
 /obj/structure/fans/tiny{
 	name = "Thermal Regulator Vent"
@@ -49836,7 +49836,7 @@
 	req_access = list(48)
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bLH" = (
 /obj/machinery/light{
 	dir = 8;
@@ -50041,7 +50041,7 @@
 /turf/simulated/floor/tiled,
 /area/engineering/engine_monitoring)
 "bMb" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable{
 	d1 = 4;
 	d2 = 8;
@@ -50543,19 +50543,19 @@
 /obj/structure/lattice,
 /obj/structure/grille/broken,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bMZ" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
 /obj/item/clothing/suit/storage/snowsuit,
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bNa" = (
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bNb" = (
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bNc" = (
 /obj/machinery/door/airlock/glass_engineeringatmos{
 	name = "Engineering EVA Storage";
@@ -50700,7 +50700,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bNp" = (
 /obj/machinery/embedded_controller/radio/airlock/advanced_airlock_controller{
 	id_tag = "engine_room_airlock";
@@ -50759,15 +50759,15 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bNu" = (
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "bNv" = (
 /obj/structure/lattice,
 /obj/structure/grille,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bNw" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -50777,7 +50777,7 @@
 	},
 /obj/structure/railing,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bNx" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 8
@@ -50867,7 +50867,7 @@
 /turf/simulated/floor/tiled/techfloor,
 /area/server)
 "bNG" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/cable/green{
 	d1 = 1;
 	d2 = 8;
@@ -51567,7 +51567,7 @@
 	req_one_access = list()
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "bOJ" = (
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
 	dir = 4
@@ -51908,21 +51908,21 @@
 	},
 /obj/machinery/space_heater,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bPv" = (
 /obj/machinery/atmospherics/pipe/simple/hidden{
 	icon_state = "intact";
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bPw" = (
 /obj/machinery/atmospherics/pipe/simple/visible{
 	dir = 4
 	},
 /obj/machinery/space_heater,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bPx" = (
 /obj/machinery/portable_atmospherics/canister/air/airlock,
 /obj/effect/floor_decal/industrial/outline/yellow,
@@ -51930,7 +51930,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bPy" = (
 /obj/machinery/alarm{
 	dir = 4;
@@ -52538,7 +52538,7 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bQF" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/door/airlock/glass_external{
@@ -52550,7 +52550,7 @@
 	req_access = list(13)
 	},
 /turf/simulated/floor/tiled/dark,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bQG" = (
 /obj/effect/floor_decal/corner/yellow{
 	dir = 9
@@ -52869,7 +52869,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bRl" = (
 /obj/machinery/atmospherics/pipe/tank/phoron,
 /turf/simulated/floor/tiled/techfloor/grid,
@@ -53276,7 +53276,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bSa" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 9
@@ -53289,7 +53289,7 @@
 	icon_state = "map"
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bSb" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 1
@@ -53299,7 +53299,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bSc" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 5
@@ -53320,7 +53320,7 @@
 	tag_interior_door = "trade_shuttle_dock_inner"
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bSd" = (
 /obj/item/clothing/shoes/magboots,
 /obj/item/clothing/mask/breath,
@@ -53532,7 +53532,7 @@
 /obj/structure/lattice,
 /obj/structure/grille,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bSw" = (
 /obj/structure/lattice,
 /obj/structure/grille/broken,
@@ -53540,7 +53540,7 @@
 	name = "carpspawn"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bSx" = (
 /turf/simulated/wall,
 /area/maintenance/research_port)
@@ -54033,7 +54033,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bTs" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -54044,7 +54044,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bTt" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 10
@@ -54059,11 +54059,11 @@
 	id_tag = "trade_shuttle_dock_pump"
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bTu" = (
 /obj/effect/floor_decal/industrial/warning,
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bTv" = (
 /obj/effect/floor_decal/industrial/warning{
 	dir = 6
@@ -54080,18 +54080,18 @@
 	pixel_y = 8
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bTw" = (
 /obj/structure/fence/door,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bTx" = (
 /obj/structure/fence/corner{
 	dir = 4
 	},
 /obj/structure/fence/corner,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bTy" = (
 /turf/simulated/wall/r_wall,
 /area/engineering/engine_eva)
@@ -54684,7 +54684,7 @@
 "bUA" = (
 /obj/structure/snowman/borg,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bUB" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden{
 	dir = 8;
@@ -54896,13 +54896,13 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "bUY" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bUZ" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor/border_only,
@@ -54911,7 +54911,7 @@
 	},
 /obj/structure/window/reinforced,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bVa" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -54923,7 +54923,7 @@
 	},
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bVb" = (
 /obj/machinery/door/airlock/external{
 	frequency = 1380;
@@ -54936,7 +54936,7 @@
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/shield_diffuser,
 /turf/simulated/floor/tiled/dark,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bVc" = (
 /obj/machinery/access_button{
 	command = "cycle_exterior";
@@ -54958,7 +54958,7 @@
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/shield_diffuser,
 /turf/simulated/floor/tiled/dark,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bVd" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -54970,7 +54970,7 @@
 	},
 /obj/structure/window/reinforced,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bVe" = (
 /obj/machinery/portable_atmospherics/canister/nitrogen,
 /obj/effect/floor_decal/industrial/outline/blue,
@@ -55288,7 +55288,7 @@
 "bVN" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/old_tile/blue,
 /area/bridge/blueshield)
 "bVO" = (
@@ -55418,7 +55418,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bWd" = (
 /obj/effect/overlay/snow/floor,
 /obj/effect/overlay/snow/floor/edges_new{
@@ -55428,7 +55428,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bWe" = (
 /obj/machinery/atmospherics/portables_connector,
 /obj/effect/floor_decal/industrial/outline/blue,
@@ -55556,7 +55556,7 @@
 "bWt" = (
 /obj/effect/shuttle_landmark/premade/trade/station,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bWu" = (
 /obj/structure/cable/yellow{
 	d1 = 4;
@@ -55827,7 +55827,7 @@
 "bWR" = (
 /obj/effect/shuttle_landmark/premade/mercenary/station_s,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bWS" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/door/firedoor/glass,
@@ -55841,7 +55841,7 @@
 "bWT" = (
 /obj/effect/shuttle_landmark/premade/skipjack/station_se,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bWU" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -55906,7 +55906,7 @@
 	name = "carpspawn"
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bXc" = (
 /obj/machinery/portable_atmospherics/canister/phoron,
 /obj/machinery/light{
@@ -56060,7 +56060,7 @@
 "bXs" = (
 /obj/effect/shuttle_landmark/premade/skipjack/station_sw,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bXt" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
@@ -56338,7 +56338,7 @@
 /area/crew_quarters/locker)
 "bXR" = (
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "bXS" = (
 /obj/item/storage/toolbox/emergency,
 /obj/structure/table/standard,
@@ -56930,7 +56930,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "bYT" = (
 /turf/simulated/wall/r_wall,
 /area/exploration/explorer_prep)
@@ -56985,7 +56985,7 @@
 "bZa" = (
 /obj/effect/shuttle_landmark/premade/mercenary/station_sw,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "bZb" = (
 /obj/machinery/computer/crew{
 	dir = 4
@@ -57484,7 +57484,7 @@
 "bZV" = (
 /obj/effect/shuttle_landmark/premade/mercenary/station_se,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/explore3)
+/area/vharr/surfacebase/outside/outside1)
 "bZW" = (
 /obj/structure/closet/walllocker/emerglocker/west,
 /turf/simulated/shuttle/floor/white,
@@ -57729,7 +57729,7 @@
 "cat" = (
 /obj/structure/snowman,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cau" = (
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 8
@@ -58240,25 +58240,25 @@
 "cbn" = (
 /obj/structure/lattice,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cbo" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor,
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cbp" = (
 /obj/effect/overlay/snow/floor,
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cbq" = (
 /obj/effect/overlay/snow/floor,
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cbr" = (
 /obj/structure/table/reinforced,
 /obj/item/clothing/ears/earmuffs,
@@ -58288,7 +58288,7 @@
 "cbu" = (
 /mob/living/simple_mob/animal/passive/penguin,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cbv" = (
 /obj/structure/closet/wardrobe/black,
 /obj/machinery/alarm{
@@ -58579,7 +58579,7 @@
 /obj/structure/lattice,
 /obj/structure/grille/broken,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cbW" = (
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 8
@@ -59096,11 +59096,11 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ccS" = (
 /obj/structure/flora/tree/pine,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ccT" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor/glass,
@@ -59507,7 +59507,7 @@
 "cdJ" = (
 /obj/structure/snowman/spider,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cdK" = (
 /obj/machinery/power/smes/buildable/point_of_interest,
 /obj/structure/cable/green{
@@ -59555,11 +59555,11 @@
 "cdP" = (
 /obj/effect/landmark/event_spawn/dronepod_landing,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cdQ" = (
 /obj/effect/landmark/event_spawn/dronepod_landing,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cdR" = (
 /obj/machinery/vending/wallmed1{
 	name = "NanoMed Wall";
@@ -59604,14 +59604,14 @@
 "cdW" = (
 /obj/effect/landmark/event_spawn/dronepod_landing,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cdX" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /obj/effect/landmark/event_spawn/dronepod_landing,
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cdY" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/yellow{
 	dir = 4
@@ -59645,14 +59645,14 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cea" = (
 /obj/effect/overlay/snow/floor,
 /obj/effect/overlay/snow/floor/grav_edges{
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ceb" = (
 /obj/machinery/light/small{
 	dir = 8
@@ -59667,7 +59667,7 @@
 	},
 /obj/effect/overlay/snow/floor/surround_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cec" = (
 /obj/structure/disposaloutlet{
 	dir = 4
@@ -59928,7 +59928,7 @@
 "cey" = (
 /obj/structure/showcase/sign,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cez" = (
 /obj/structure/disposalpipe/segment,
 /turf/simulated/wall,
@@ -59942,7 +59942,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ceB" = (
 /turf/simulated/wall,
 /area/exploration/excursion_dock)
@@ -59978,11 +59978,11 @@
 /area/exploration/excursion_dock)
 "ceH" = (
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "ceI" = (
 /obj/machinery/space_heater,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "ceJ" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
@@ -60021,17 +60021,17 @@
 	p_open = 0
 	},
 /turf/simulated/floor/reinforced,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ceO" = (
 /obj/structure/grille,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "ceP" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
 /obj/machinery/door/firedoor/glass,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "ceQ" = (
 /obj/structure/cable/green{
 	d2 = 4;
@@ -60044,7 +60044,7 @@
 	pixel_y = 24
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "ceR" = (
 /obj/structure/table/rack/shelf,
 /obj/item/material/knife/machete/hatchet/iceaxe,
@@ -60054,7 +60054,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "ceS" = (
 /obj/structure/table/steel,
 /obj/random/tech_supply,
@@ -60100,41 +60100,41 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "ceY" = (
 /obj/structure/flora/tree/dead,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "ceZ" = (
 /obj/structure/flora/tree/winter,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfa" = (
 /obj/vharr_away_spawner/wilds,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfb" = (
 /obj/structure/flora/tree/pine,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfc" = (
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "cfd" = (
 /obj/structure/flora/tree/winter1,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfe" = (
 /obj/structure/showcase/sign,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cff" = (
 /turf/simulated/wall/r_wall,
 /area/vharr/outpost/exploration_shed)
 "cfg" = (
 /obj/structure/bonfire,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfh" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -60143,17 +60143,17 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfi" = (
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/plating/snow/plating,
 /area/vharr/outpost/exploration_shed)
 "cfj" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfk" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfl" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -60162,14 +60162,14 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfm" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfn" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -60178,14 +60178,14 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfo" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfp" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
@@ -60194,14 +60194,14 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfq" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfr" = (
 /obj/effect/overlay/snow/floor/grav_edges,
 /obj/effect/overlay/snow/floor/edges_new,
@@ -60209,7 +60209,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfs" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
@@ -60218,13 +60218,13 @@
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cft" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfu" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
@@ -60233,7 +60233,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfv" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -60242,16 +60242,16 @@
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfw" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfx" = (
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfy" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
@@ -60260,7 +60260,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfz" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 1
@@ -60269,7 +60269,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cfA" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -60278,88 +60278,88 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfB" = (
 /obj/effect/overlay/snow/floor/surround_new{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfC" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfD" = (
 /mob/living/simple_mob/animal/sif/savik,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfE" = (
 /mob/living/simple_mob/animal/sif/shantak,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfF" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 4
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfG" = (
 /mob/living/simple_mob/animal/wolf,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfH" = (
 /obj/vharr_away_spawner/wilds,
 /mob/living/simple_mob/animal/sif/savik,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfI" = (
 /obj/effect/landmark/event_spawn/dronepod_landing,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfJ" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfK" = (
 /obj/effect/spider/eggcluster/small/frost,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior)
+/area/vharr/surfacebase/outside/outside1)
 "cfL" = (
 /obj/effect/overlay/snow/floor/surround_new{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfM" = (
 /obj/vharr_away_spawner/wilds,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfN" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfO" = (
 /obj/structure/flora/tree/winter,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfP" = (
 /turf/unsimulated/wall/planetary/vharr,
-/area/vharr/outdoors/exterior/explore3)
+/area/vharr/surfacebase/outside/outside1)
 "cfQ" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/explore3)
+/area/vharr/surfacebase/outside/outside1)
 "cfR" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/exterior/explore3)
+/area/vharr/surfacebase/outside/outside1)
 "cfS" = (
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/explore3)
+/area/vharr/surfacebase/outside/outside1)
 "cfT" = (
 /turf/unsimulated/wall/planetary/vharr,
 /area/space)
@@ -60372,10 +60372,10 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/ice,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfV" = (
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/lake)
+/area/vharr/surfacebase/outside/outside1)
 "cfW" = (
 /obj/structure/closet/secure_closet/medical_wall{
 	name = "O- Blood Locker";
@@ -60397,11 +60397,11 @@
 /area/medical/surgery2)
 "cfX" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors)
+/area/vharr/surfacebase/outside/outside1)
 "cfY" = (
 /obj/structure/flora/tree/dead,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors)
+/area/vharr/surfacebase/outside/outside1)
 "cfZ" = (
 /obj/structure/disposalpipe/segment,
 /obj/machinery/door/airlock/multi_tile/glass{
@@ -60448,11 +60448,11 @@
 "cgd" = (
 /obj/effect/spider/eggcluster/small/frost,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/explore3)
+/area/vharr/surfacebase/outside/outside1)
 "cge" = (
 /obj/vharr_away_spawner/wilds,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/exterior/explore3)
+/area/vharr/surfacebase/outside/outside1)
 "cgf" = (
 /obj/structure/bed/chair/comfy/black{
 	dir = 8
@@ -60532,9 +60532,9 @@
 	height = 4
 	},
 /turf/unsimulated/wall/planetary/vharr,
-/area/vharr/outdoors)
+/area/vharr/surfacebase/outside/outside1)
 "cgn" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/dark,
 /area/bridge)
 "cgo" = (
@@ -60542,9 +60542,9 @@
 	req_one_access = list()
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cgp" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/wood,
 /area/bridge/meeting_room)
 "cgq" = (
@@ -60553,7 +60553,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/storage/primary)
 "cgr" = (
@@ -60563,7 +60563,7 @@
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/kitchen)
 "cgs" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/quartermaster/foyer)
 "cgt" = (
@@ -60574,7 +60574,7 @@
 /area/security/brig)
 "cgu" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/quartermaster/office)
 "cgv" = (
@@ -60584,7 +60584,7 @@
 /obj/effect/floor_decal/corner_oldtile/purple/diagonal{
 	dir = 4
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /mob/living/simple_mob/slime/xenobio/rainbow/kendrick,
 /turf/simulated/floor/tiled/white,
 /area/rnd/rdoffice)
@@ -60596,7 +60596,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/medbay_emt_bay)
 "cgx" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "cgy" = (
@@ -60606,13 +60606,13 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/dark,
 /area/rnd/research/testingrange)
 "cgz" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/crew_quarters/locker)
 "cgA" = (
@@ -60627,23 +60627,23 @@
 /turf/simulated/floor,
 /area/maintenance/substation/cargo)
 "cgB" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/techfloor,
 /area/rnd/workshop)
 "cgC" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/red,
 /area/security/outpost)
 "cgD" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/wood,
 /area/crew_quarters/bar)
 "cgE" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/exploration/meeting)
 "cgF" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled,
 /area/quartermaster/miningwing)
 "cgG" = (
@@ -60654,7 +60654,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/medbay_emt_bay)
 "cgH" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/white,
 /area/rnd/phoronics)
 "cgI" = (
@@ -60886,7 +60886,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "chc" = (
 /obj/effect/overlay/snow/floor/edges_new{
 	dir = 8
@@ -60896,7 +60896,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "chd" = (
 /obj/machinery/door/window/brigdoor/southright,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
@@ -60907,7 +60907,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "chf" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
 /obj/machinery/atmospherics/pipe/tank/air,
@@ -60920,7 +60920,7 @@
 	},
 /obj/structure/railing,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "chh" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/high_volume{
 	dir = 8;
@@ -61576,7 +61576,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/scanning)
 "ciw" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /turf/simulated/floor/tiled/white,
 /area/medical/ward)
 "cix" = (
@@ -62362,7 +62362,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cjY" = (
 /obj/effect/overlay/snow/floor/edges_new,
 /obj/effect/overlay/snow/floor/edges_new{
@@ -62370,7 +62370,7 @@
 	},
 /obj/effect/overlay/snow/floor/surround_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cjZ" = (
 /obj/machinery/alarm{
 	dir = 1;
@@ -62520,7 +62520,7 @@
 /turf/simulated/wall,
 /area/crew_quarters/heads/cmo)
 "ckk" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/effect/floor_decal/corner/pink{
 	dir = 10
 	},
@@ -62617,7 +62617,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/reception)
 "cks" = (
-/obj/machinery/hologram/holopad,
+/obj/machinery/holopad,
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
@@ -62944,7 +62944,7 @@
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "ckX" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -62970,7 +62970,7 @@
 "ckZ" = (
 /obj/machinery/door/airlock/glass_external/public,
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "cla" = (
 /obj/effect/floor_decal/rust,
 /obj/structure/railing,
@@ -62985,7 +62985,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "clb" = (
 /obj/effect/overlay/snow/floor,
 /obj/structure/cable/heavyduty{
@@ -62997,7 +62997,7 @@
 	d2 = 2
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "clc" = (
 /obj/machinery/power/apc{
 	dir = 4;
@@ -63006,10 +63006,10 @@
 	},
 /obj/structure/cable,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "cld" = (
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "cle" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -63044,16 +63044,16 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "clh" = (
 /obj/structure/table/rack/shelf,
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /turf/simulated/floor/tiled,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "cli" = (
 /obj/machinery/light/small,
 /turf/simulated/floor/plating/snow/plating,
-/area/vharr/outdoors/grounds/entrance)
+/area/vharr/surfacebase/outside/outside1/entrance)
 "clj" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -63061,7 +63061,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/wall/titanium,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "clk" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -63069,7 +63069,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "cll" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/door/airlock/maintenance{
@@ -63196,7 +63196,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/outdoors/gravsnow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "mBp" = (
 /obj/structure/table/marble,
 /obj/machinery/door/firedoor/glass/hidden/steel{
@@ -63227,7 +63227,7 @@
 	req_access = list(48)
 	},
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "oRX" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
@@ -63310,7 +63310,7 @@
 "ugG" = (
 /obj/effect/shuttle_landmark/automatic,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/outdoors/grounds)
+/area/vharr/surfacebase/outside/outside1)
 "wLk" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -63318,7 +63318,7 @@
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
 /turf/simulated/floor/plating,
-/area/vharr/outdoors/grounds/traderpad)
+/area/vharr/surfacebase/outside/outside1)
 "ylY" = (
 /obj/machinery/door/airlock/glass_engineering{
 	name = "Engine Gas Storage"
