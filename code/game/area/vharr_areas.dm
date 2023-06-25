@@ -38,7 +38,7 @@
 	lift_announce_str = "Arriving at Lower Level."
 
 //Outside areas
-//TODO: Add more plains for map I want this to be like rift but better
+//TODO: Add more plains for map I want this to be like vharr but better
 /area/vharr/surfacebase/outside
 	name = "Outside - Surface"
 	ambience = AMBIENCE_LYTHIOS
@@ -54,17 +54,17 @@
 	icon_state = "green"
 
 //Trade Pad/Shop
-/area/rift/trade_shop
+/area/vharr/trade_shop
 	name = "\improper Trade Shop"
 	icon_state = "green"
 
-/area/rift/trade_shop/landing_pad
+/area/vharr/trade_shop/landing_pad
 	name = "\improper Trade Shop Landing Pad"
 
-/area/rift/trade_shop/loading
+/area/vharr/trade_shop/loading
 	name = "\improper Trade Shop Loading Corridor"
 
-/area/rift/trade_shop/debugger
+/area/vharr/trade_shop/debugger
 	name = "\improper Trade Shop Debugger"
 
 /area/crew_quarters/meeting
