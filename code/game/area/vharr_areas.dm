@@ -267,14 +267,14 @@
 	name = "\improper Exploration Vessel"
 	icon_state = "shuttle2"
 	requires_power = 1
-	//base_turf = /turf/space
+
 
 // Bad guys!!
 /area/shuttle/mercenary
 	name = "\improper Mercenary Vessel"
 
-/area/shuttle/skipjack
-	name = "\improper Vox Vessel"
+
+//Remove this stuff?
 
 //Exploration area locations.
 
@@ -386,6 +386,9 @@
 	name = "Medical Diagnostics Center"
 	icon_state = "medbay"
 
+/area/medical/medbaymain
+	name = "Medbay Main Hallway"
+	icon_state = "medbay"
 
 //Science outpost
 /area/rnd/xenobiology/xenoflora/lab_atmos
