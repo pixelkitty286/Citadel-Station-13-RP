@@ -5124,7 +5124,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/medbay)
 "akB" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/random/trash_pile,
 /turf/simulated/floor,
 /area/maintenance/medbay)
@@ -7442,7 +7442,7 @@
 /turf/simulated/wall,
 /area/security/outpost)
 "apb" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/red,
 /obj/structure/cable{
@@ -7686,7 +7686,7 @@
 /turf/simulated/floor/tiled/white,
 /area/crew_quarters/heads/cmo)
 "apu" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/machinery/atmospherics/pipe/simple/hidden/red,
 /obj/structure/cable{
@@ -7918,7 +7918,7 @@
 /turf/simulated/floor/tiled,
 /area/hallway/primary/central_one)
 "apQ" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/heavyduty{
 	icon_state = "2-4"
 	},
@@ -7935,7 +7935,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "apR" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -7955,9 +7955,9 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "apS" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/heavyduty{
 	icon_state = "1-8"
 	},
@@ -7971,7 +7971,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "apT" = (
 /obj/structure/closet/secure_closet/security,
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
@@ -8368,7 +8368,7 @@
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/visible/supply,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aqA" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/window/reinforced,
@@ -8953,7 +8953,7 @@
 	},
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "arw" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -8967,7 +8967,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "arx" = (
 /obj/machinery/alarm{
 	frequency = 1441;
@@ -9518,7 +9518,7 @@
 "asx" = (
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "asy" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -9528,7 +9528,7 @@
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/visible/supply,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "asz" = (
 /obj/machinery/computer/crew{
 	dir = 4
@@ -10912,7 +10912,7 @@
 "auQ" = (
 /obj/machinery/suit_cycler/security,
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "auR" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -11091,7 +11091,7 @@
 /obj/structure/railing,
 /obj/structure/catwalk,
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "avi" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "1-2"
@@ -11102,7 +11102,7 @@
 /obj/machinery/atmospherics/pipe/simple/visible/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/visible/supply,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "avj" = (
 /obj/machinery/computer/secure_data{
 	dir = 4
@@ -11718,14 +11718,14 @@
 	dir = 8
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "awn" = (
 /obj/structure/catwalk,
 /obj/structure/railing{
 	dir = 4
 	},
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "awo" = (
 /obj/structure/table/standard,
 /obj/item/cell/device/weapon{
@@ -12173,7 +12173,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/bridge)
 "axa" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/heavyduty{
 	icon_state = "2-4"
 	},
@@ -12191,7 +12191,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "axb" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -12211,7 +12211,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "axc" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -12228,7 +12228,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "axd" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -12248,7 +12248,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "axe" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "2-8"
@@ -12266,7 +12266,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "axf" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
@@ -12677,7 +12677,7 @@
 	d2 = 4;
 	icon_state = "1-4"
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/central_one)
 "axS" = (
@@ -12816,7 +12816,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aye" = (
 /obj/structure/railing{
 	dir = 1
@@ -12835,7 +12835,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "ayf" = (
 /obj/structure/cable/yellow{
 	d1 = 2;
@@ -12862,7 +12862,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/medbay)
 "ayh" = (
-/obj/effect/decal/cleanable/blood/oil{
+/obj/effect/debris/cleanable/blood/oil{
 	name = "oil"
 	},
 /turf/simulated/floor/plating,
@@ -13351,7 +13351,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "ayY" = (
 /obj/effect/floor_decal/corner/pink/full,
 /obj/machinery/computer/med_data/laptop{
@@ -13591,11 +13591,11 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/scanning)
 "azv" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/plating,
 /area/constructionsite/medical)
 "azw" = (
-/obj/effect/decal/cleanable/liquid_fuel,
+/obj/effect/debris/cleanable/liquid_fuel,
 /turf/simulated/floor/plating,
 /area/constructionsite/medical)
 "azx" = (
@@ -13693,7 +13693,7 @@
 	locked = 1
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/security/airlock)
+/area/security/eva)
 "azF" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /turf/simulated/floor/carpet/blue,
@@ -14446,7 +14446,7 @@
 /turf/simulated/floor/tiled/white,
 /area/medical/sleeper)
 "aAY" = (
-/obj/effect/decal/cleanable/blood/oil/streak{
+/obj/effect/debris/cleanable/blood/oil/streak{
 	amount = 0
 	},
 /turf/simulated/floor/plating,
@@ -14500,7 +14500,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/hallway/primary/central_one)
 "aBe" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/central_one)
 "aBf" = (
@@ -14975,8 +14975,8 @@
 /turf/simulated/floor/carpet/blue,
 /area/crew_quarters/heads/hop)
 "aCa" = (
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/liquid_fuel,
+/obj/effect/debris/cleanable/dirt,
+/obj/effect/debris/cleanable/liquid_fuel,
 /turf/simulated/floor/plating,
 /area/constructionsite/medical)
 "aCb" = (
@@ -15659,7 +15659,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/camera/autoname,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/central_one)
@@ -15779,7 +15779,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/construction/solars)
 "aDw" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/surfacebase/outside/outside1)
 "aDx" = (
@@ -16809,7 +16809,7 @@
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled/steel,
 /area/hallway/primary/aft)
 "aFz" = (
@@ -17283,7 +17283,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/security)
 "aGr" = (
-/obj/effect/decal/cleanable/blood/oil{
+/obj/effect/debris/cleanable/blood/oil{
 	name = "oil"
 	},
 /turf/simulated/floor/plating,
@@ -18018,7 +18018,7 @@
 /area/vharr/surfacebase/outside/outside1)
 "aHT" = (
 /turf/simulated/wall,
-/area/security/airlock)
+/area/security/eva)
 "aHU" = (
 /obj/machinery/light/small{
 	dir = 1
@@ -18031,7 +18031,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "aHV" = (
 /turf/simulated/wall/r_wall,
 /area/security/armoury)
@@ -18093,7 +18093,7 @@
 /area/crew_quarters/meeting)
 "aId" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable{
 	d1 = 1;
 	d2 = 2;
@@ -18279,7 +18279,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/yellow{
 	d1 = 2;
 	d2 = 8;
@@ -18289,7 +18289,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aIx" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/yellow{
 	d1 = 4;
 	d2 = 8;
@@ -18299,7 +18299,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aIy" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/table/standard,
 /obj/item/clothing/gloves/yellow,
 /obj/structure/cable/yellow{
@@ -18310,7 +18310,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aIz" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/item/stack/cable_coil/lime,
 /obj/structure/table/standard,
 /obj/structure/cable/yellow{
@@ -18321,7 +18321,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aIA" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/yellow{
 	d1 = 4;
 	d2 = 8;
@@ -18333,18 +18333,18 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aIB" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aIC" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/heavyduty{
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aID" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/heavyduty{
 	icon_state = "2-8"
 	},
@@ -18370,7 +18370,7 @@
 	},
 /obj/structure/railing,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aIG" = (
 /obj/effect/floor_decal/rust,
 /obj/structure/cable/heavyduty{
@@ -18385,7 +18385,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aIH" = (
 /obj/effect/floor_decal/rust,
 /obj/structure/cable/heavyduty{
@@ -18397,7 +18397,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aII" = (
 /obj/effect/floor_decal/rust,
 /obj/structure/cable/heavyduty{
@@ -18412,16 +18412,16 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aIJ" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aIK" = (
 /turf/simulated/wall/r_wall,
-/area/security/airlock)
+/area/security/eva)
 "aIL" = (
 /obj/machinery/recharge_station,
 /turf/simulated/floor/tiled,
@@ -18765,7 +18765,7 @@
 /turf/simulated/floor/wood,
 /area/crew_quarters/captain)
 "aJz" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/item/stool,
 /obj/structure/cable/yellow{
 	d1 = 1;
@@ -18791,7 +18791,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aJC" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/power/smes/buildable{
 	charge = 0;
 	RCon_tag = "Solar Farm - SMES 3"
@@ -18808,7 +18808,7 @@
 	name_tag = "Solar Farm Output"
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aJE" = (
 /obj/item/folder/red,
 /obj/structure/table/glass,
@@ -19102,7 +19102,7 @@
 /turf/simulated/floor/outdoors/snow/vharr,
 /area/vharr/surfacebase/outside/outside1)
 "aKm" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/power/solar_control,
 /obj/structure/cable/yellow{
 	d2 = 4;
@@ -19120,7 +19120,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aKn" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/power/apc{
 	dir = 2;
 	name = "south bump";
@@ -19133,7 +19133,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aKo" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/camera/network/engineering{
 	dir = 1
 	},
@@ -19144,7 +19144,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aKp" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/power/terminal{
 	icon_state = "term";
 	dir = 1
@@ -19160,7 +19160,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "aKq" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/power/terminal{
 	icon_state = "term";
 	dir = 1
@@ -19188,7 +19188,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "aKs" = (
 /obj/structure/sign/securearea,
 /turf/simulated/wall,
@@ -19540,7 +19540,7 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/surfacebase/outside/outside1)
 "aKY" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/door/airlock/multi_tile/metal/mait,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/construction/solars)
@@ -19899,7 +19899,7 @@
 /turf/simulated/floor/plating,
 /area/maintenance/bridge)
 "aLJ" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/construction/solars)
 "aLK" = (
@@ -20011,7 +20011,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aMb" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -20268,7 +20268,7 @@
 /turf/simulated/floor/tiled/old_tile/gray,
 /area/vharr/surfacebase/outside/outside1)
 "aME" = (
-/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/debris/cleanable/blood/drip,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/old_tile/gray,
 /area/vharr/surfacebase/outside/outside1)
@@ -20372,7 +20372,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "aMP" = (
 /turf/simulated/wall/r_wall,
 /area/lawoffice)
@@ -20655,7 +20655,7 @@
 /area/maintenance/bridge)
 "aNq" = (
 /obj/structure/reagent_dispensers/fueltank,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor,
 /area/maintenance/bridge)
 "aNr" = (
@@ -20665,7 +20665,7 @@
 	pixel_y = 0
 	},
 /obj/structure/reagent_dispensers/watertank,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor,
 /area/maintenance/bridge)
 "aNs" = (
@@ -20714,7 +20714,7 @@
 /area/crew_quarters/heads/hos)
 "aNy" = (
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "aNz" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/door/blast/regular{
@@ -20734,7 +20734,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor,
-/area/security/airlock)
+/area/security/eva)
 "aNA" = (
 /obj/structure/cable/green{
 	d1 = 2;
@@ -20742,7 +20742,7 @@
 	icon_state = "2-8"
 	},
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "aNB" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -21011,7 +21011,7 @@
 /turf/simulated/floor/tiled/old_tile/blue,
 /area/bridge/blueshield)
 "aOd" = (
-/obj/effect/decal/cleanable/blood/tracks/footprints,
+/obj/effect/debris/cleanable/blood/tracks/footprints,
 /turf/simulated/floor/tiled/old_tile/gray,
 /area/vharr/surfacebase/outside/outside1)
 "aOe" = (
@@ -21051,7 +21051,7 @@
 	req_one_access = list(1)
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aOi" = (
 /obj/structure/table/rack,
 /obj/item/clothing/mask/breath,
@@ -21066,7 +21066,7 @@
 	req_one_access = list(1)
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aOj" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor/border_only,
@@ -21088,7 +21088,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aOl" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor/border_only,
@@ -21286,7 +21286,7 @@
 /area/security/brig)
 "aOw" = (
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aOx" = (
 /obj/machinery/power/breakerbox/activated{
 	RCon_tag = "Security Substation Bypass"
@@ -21948,7 +21948,7 @@
 /area/hallway/primary/central_one)
 "aPK" = (
 /obj/machinery/door/firedoor/glass/hidden,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/central_one)
 "aPL" = (
@@ -22210,7 +22210,7 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "aQi" = (
 /turf/simulated/floor/plating,
 /area/security/briefing_room)
@@ -22866,7 +22866,7 @@
 	pixel_x = 26
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aRn" = (
 /obj/item/stool/padded,
 /obj/effect/floor_decal/spline/plain{
@@ -22884,7 +22884,7 @@
 	req_access = list(1)
 	},
 /turf/simulated/floor/tiled,
-/area/security/airlock)
+/area/security/eva)
 "aRp" = (
 /obj/machinery/light/small{
 	dir = 8
@@ -22911,7 +22911,7 @@
 	},
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "aRs" = (
 /obj/effect/floor_decal/rust,
 /obj/effect/floor_decal/industrial/warning/dust{
@@ -22926,14 +22926,14 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "aRt" = (
 /obj/effect/floor_decal/rust,
 /obj/effect/floor_decal/industrial/warning/dust{
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "aRu" = (
 /obj/machinery/power/thermoregulator/vharr{
 	pixel_y = 30
@@ -22950,7 +22950,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "aRv" = (
 /obj/machinery/door/airlock/maintenance{
 	req_access = list(12)
@@ -22981,7 +22981,7 @@
 	icon_state = "0-2"
 	},
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "aRy" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -22989,7 +22989,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "aRz" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/table/rack/shelf,
@@ -23005,7 +23005,7 @@
 	},
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /turf/simulated/floor/tiled,
-/area/security/airlock)
+/area/security/eva)
 "aRA" = (
 /obj/machinery/door/airlock{
 	name = "Bar Backroom";
@@ -23360,7 +23360,7 @@
 "aSn" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aSo" = (
 /obj/structure/table/standard,
 /obj/item/storage/box/cups,
@@ -23384,13 +23384,13 @@
 	pixel_y = 26
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "aSq" = (
 /obj/structure/table/standard{
 	name = "plastic table frame"
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aSr" = (
 /turf/simulated/floor/tiled/steel,
 /area/security/brig)
@@ -23500,7 +23500,7 @@
 /area/security/detectives_office)
 "aSC" = (
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "aSD" = (
 /obj/effect/floor_decal/industrial/hatch/yellow,
 /obj/machinery/door/airlock/glass_external/freezable{
@@ -23514,7 +23514,7 @@
 	pixel_y = 25
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/security/airlock)
+/area/security/eva)
 "aSE" = (
 /obj/effect/floor_decal/rust,
 /obj/effect/floor_decal/industrial/warning/dust{
@@ -23526,7 +23526,7 @@
 	icon_state = "1-4"
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "aSF" = (
 /obj/item/storage/box/donkpockets,
 /obj/structure/extinguisher_cabinet{
@@ -23542,7 +23542,7 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aSH" = (
 /obj/machinery/door/airlock{
 	name = "Unit 2"
@@ -23606,7 +23606,7 @@
 /turf/simulated/floor/lino,
 /area/crew_quarters/bar)
 "aSQ" = (
-/obj/machinery/chemical_dispenser/bar_alc{
+/obj/machinery/chemical_dispenser/catering/bar_alc{
 	pixel_y = 32
 	},
 /obj/structure/table/reinforced,
@@ -23907,7 +23907,7 @@
 	},
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "aTt" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -24527,7 +24527,7 @@
 	},
 /obj/machinery/light,
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aUw" = (
 /obj/structure/bed/chair{
 	dir = 1
@@ -25270,7 +25270,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "aVO" = (
 /obj/machinery/status_display{
 	density = 0;
@@ -25565,7 +25565,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/central_one)
 "aWm" = (
@@ -25824,7 +25824,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled,
-/area/security/airlock)
+/area/security/eva)
 "aWL" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor,
@@ -25977,7 +25977,7 @@
 	pixel_y = -25
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aWW" = (
 /obj/structure/table/rack,
 /obj/item/clothing/gloves/arm_guard/laserproof,
@@ -26441,7 +26441,7 @@
 	},
 /obj/machinery/light,
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "aXK" = (
 /obj/machinery/light{
 	dir = 8
@@ -26476,7 +26476,7 @@
 	},
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
 /turf/simulated/floor/tiled,
-/area/security/airlock)
+/area/security/eva)
 "aXN" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -26488,7 +26488,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aXO" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -26502,7 +26502,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aXP" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 8
@@ -26549,7 +26549,7 @@
 	icon_state = "2-4"
 	},
 /turf/simulated/floor/tiled,
-/area/security/airlock)
+/area/security/eva)
 "aXS" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -26557,7 +26557,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "aXT" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -26572,7 +26572,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "aXU" = (
 /obj/machinery/light/small{
 	dir = 8;
@@ -26643,7 +26643,7 @@
 	pixel_x = 26
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "aYb" = (
 /obj/structure/bed/chair/comfy/black{
 	dir = 4
@@ -27752,7 +27752,7 @@
 	},
 /obj/machinery/atmospherics/component/unary/vent_pump/on,
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "aZW" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -28371,7 +28371,7 @@
 	dir = 8;
 	layer = 2.9
 	},
-/obj/effect/decal/cleanable/cobweb,
+/obj/effect/debris/cleanable/cobweb,
 /turf/simulated/floor/tiled,
 /area/quartermaster/warehouse)
 "baY" = (
@@ -28513,7 +28513,7 @@
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/effect/floor_decal/corner/red{
 	dir = 9
 	},
@@ -28687,7 +28687,7 @@
 /area/security/warden)
 "bbD" = (
 /obj/structure/closet/crate,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/random/maintenance/clean,
 /obj/random/maintenance/clean,
 /obj/random/maintenance/engineering,
@@ -29108,7 +29108,7 @@
 /obj/effect/floor_decal/corner/brown{
 	dir = 5
 	},
-/obj/effect/decal/cleanable/ash,
+/obj/effect/debris/cleanable/ash,
 /turf/simulated/floor/tiled,
 /area/quartermaster/foyer)
 "bci" = (
@@ -29799,7 +29799,7 @@
 	pixel_y = 7
 	},
 /obj/item/pen,
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/quartermaster/foyer)
 "bdn" = (
@@ -30373,7 +30373,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bef" = (
 /obj/machinery/door/firedoor,
 /obj/machinery/door/airlock/medical{
@@ -30543,7 +30543,7 @@
 /turf/simulated/floor/tiled,
 /area/quartermaster/delivery)
 "beD" = (
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/quartermaster/delivery)
 "beE" = (
@@ -30956,7 +30956,7 @@
 /turf/simulated/floor/plating,
 /area/engineering/workshop)
 "bfn" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/effect/floor_decal/corner/red{
 	dir = 10
 	},
@@ -31171,7 +31171,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/starboard)
 "bfC" = (
@@ -31528,7 +31528,7 @@
 /area/hallway/primary/central_one)
 "bgf" = (
 /turf/simulated/floor/outdoors/snow/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "bgg" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor,
@@ -31549,7 +31549,7 @@
 /turf/simulated/floor/plating,
 /area/security/lobby)
 "bgi" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
@@ -31562,7 +31562,7 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/surfacebase/outside/outside1)
 "bgk" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/disposalpipe/junction{
 	dir = 8;
 	icon_state = "pipe-j2"
@@ -31596,7 +31596,7 @@
 	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bgn" = (
 /obj/item/stool,
 /obj/structure/cable{
@@ -32156,7 +32156,7 @@
 	icon_state = "32-4"
 	},
 /turf/simulated/open,
-/area/security/airlock)
+/area/security/eva)
 "bhq" = (
 /obj/structure/table/rack/shelf,
 /obj/item/clothing/suit/storage/snowsuit/security,
@@ -32172,7 +32172,7 @@
 	pixel_y = -25
 	},
 /turf/simulated/floor/tiled,
-/area/security/airlock)
+/area/security/eva)
 "bhr" = (
 /obj/structure/closet/crate,
 /turf/simulated/floor/plating,
@@ -32245,7 +32245,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bhA" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -32451,7 +32451,7 @@
 	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bhN" = (
 /obj/structure/disposalpipe/segment,
 /obj/item/geiger_counter/wall{
@@ -32653,7 +32653,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/starboard)
 "bii" = (
@@ -32791,7 +32791,7 @@
 /area/security/security_equiptment_storage)
 "biz" = (
 /obj/machinery/holopad,
-/obj/effect/decal/cleanable/blood/oil,
+/obj/effect/debris/cleanable/blood/oil,
 /obj/structure/disposalpipe/segment{
 	dir = 1;
 	icon_state = "pipe-c"
@@ -32823,7 +32823,7 @@
 	pixel_y = -4
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/cable{
@@ -32990,7 +32990,7 @@
 	pixel_x = -30
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "biU" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor,
@@ -33725,7 +33725,7 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/vharr/surfacebase/outside/outside1)
 "bjY" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/heavyduty{
 	icon_state = "2-4"
 	},
@@ -33775,11 +33775,11 @@
 	pixel_x = 6;
 	pixel_y = -3
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/plating,
 /area/storage/tech)
 "bkd" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/plating,
 /area/storage/tech)
 "bke" = (
@@ -33812,7 +33812,7 @@
 /turf/simulated/floor/plating,
 /area/storage/tech)
 "bkf" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor,
 /area/storage/tech)
 "bkg" = (
@@ -34049,7 +34049,7 @@
 /obj/effect/floor_decal/industrial/warning/dust,
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "bkx" = (
 /obj/machinery/camera/network/research_outpost{
 	c_tag = "OPR - Expedition Airlock";
@@ -34062,7 +34062,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "bky" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced,
@@ -34078,7 +34078,7 @@
 /obj/machinery/door/firedoor/border_only,
 /obj/structure/cable/green,
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "bkz" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -34124,7 +34124,7 @@
 /obj/item/clothing/shoes/boots/winter/security,
 /obj/item/gps/security,
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bkC" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -34136,7 +34136,7 @@
 	},
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bkD" = (
 /obj/machinery/door/firedoor/glass,
 /obj/structure/cable/green{
@@ -34145,7 +34145,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bkE" = (
 /obj/structure/table/rack/shelf,
 /obj/item/clothing/suit/storage/snowsuit/security,
@@ -34159,7 +34159,7 @@
 	icon_state = "1-8"
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bkF" = (
 /obj/structure/table/rack/shelf,
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
@@ -34171,7 +34171,7 @@
 /obj/item/clothing/shoes/boots/winter/security,
 /obj/item/gps/security,
 /turf/simulated/floor/tiled,
-/area/security/airlock)
+/area/security/eva)
 "bkG" = (
 /obj/structure/grille,
 /obj/machinery/door/firedoor,
@@ -34545,7 +34545,7 @@
 	pixel_x = 4;
 	pixel_y = -3
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/plating,
 /area/storage/tech)
 "blt" = (
@@ -34592,7 +34592,7 @@
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /obj/structure/cable/green{
 	d1 = 4;
 	d2 = 8;
@@ -34732,7 +34732,7 @@
 	icon_state = "0-4"
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "blJ" = (
 /obj/machinery/light{
 	dir = 4;
@@ -34762,7 +34762,7 @@
 /turf/snow/drift{
 	dir = 4
 	},
-/area/security/airlock)
+/area/security/eva)
 "blN" = (
 /turf/simulated/wall,
 /area/security/detectives_office)
@@ -34784,7 +34784,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "blQ" = (
 /obj/effect/floor_decal/corner/red{
 	dir = 4
@@ -34822,7 +34822,7 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "blT" = (
 /obj/machinery/power/apc{
 	dir = 2;
@@ -34831,7 +34831,7 @@
 	},
 /obj/structure/cable/green,
 /turf/simulated/floor/tiled/dark,
-/area/security/airlock)
+/area/security/eva)
 "blU" = (
 /obj/effect/floor_decal/corner_oldtile/purple,
 /obj/effect/floor_decal/corner_oldtile/purple{
@@ -36441,7 +36441,7 @@
 "boW" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
 /obj/structure/disposalpipe/segment,
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/quartermaster/storage)
 "boX" = (
@@ -36514,7 +36514,7 @@
 /turf/simulated/floor/plating,
 /area/storage/tech)
 "bpf" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable{
 	d1 = 1;
 	d2 = 2;
@@ -36599,12 +36599,12 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bpo" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/effect/floor_decal/corner/red{
 	dir = 1
 	},
@@ -36847,7 +36847,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bpD" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -36867,7 +36867,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bpE" = (
 /obj/machinery/door/firedoor/glass,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -36878,7 +36878,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/steel,
-/area/security/airlock)
+/area/security/eva)
 "bpF" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -38110,7 +38110,7 @@
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/cobweb2{
+/obj/effect/debris/cleanable/cobweb2{
 	icon_state = "cobweb1"
 	},
 /turf/simulated/floor/tiled/white,
@@ -38331,7 +38331,7 @@
 /area/quartermaster/storage)
 "bsr" = (
 /obj/effect/floor_decal/industrial/outline/yellow,
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/quartermaster/storage)
 "bss" = (
@@ -38589,7 +38589,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/security/lobby)
 "bsL" = (
-/obj/effect/decal/cleanable/blood/oil,
+/obj/effect/debris/cleanable/blood/oil,
 /turf/simulated/floor/tiled/steel_grid,
 /area/engineering/workshop)
 "bsM" = (
@@ -39125,7 +39125,7 @@
 	},
 /obj/effect/overlay/snow/floor/edges_new,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "btP" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -39139,7 +39139,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "btQ" = (
 /obj/structure/bed/chair/comfy/black{
 	dir = 4
@@ -39185,7 +39185,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/vharr/surfacebase/outside/outside1/power)
+/area/vharr/surfacebase/outside/outside1)
 "btU" = (
 /obj/structure/cable/heavyduty{
 	icon_state = "4-8"
@@ -39293,7 +39293,7 @@
 /turf/simulated/floor/tiled/steel_grid,
 /area/engineering/workshop)
 "buh" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled/steel_grid,
 /area/engineering/workshop)
 "bui" = (
@@ -40214,7 +40214,7 @@
 	pixel_y = -30
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/security/airlock)
+/area/security/eva)
 "bvF" = (
 /obj/machinery/conveyor{
 	dir = 4;
@@ -40584,7 +40584,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/disposalpipe/segment,
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/starboard)
 "bwf" = (
@@ -40856,7 +40856,7 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled{
 	icon_state = "monotile"
 	},
@@ -41089,7 +41089,7 @@
 /turf/simulated/floor/tiled/steel,
 /area/security/lobby)
 "bwV" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/aft)
 "bwW" = (
@@ -41440,7 +41440,7 @@
 	pixel_x = -24;
 	pixel_y = 0
 	},
-/obj/effect/decal/cleanable/liquid_fuel,
+/obj/effect/debris/cleanable/liquid_fuel,
 /turf/simulated/floor/tiled/steel_grid,
 /area/engineering/workshop)
 "bxF" = (
@@ -41451,7 +41451,7 @@
 /area/engineering/workshop)
 "bxG" = (
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on,
-/obj/effect/decal/cleanable/liquid_fuel,
+/obj/effect/debris/cleanable/liquid_fuel,
 /turf/simulated/floor/tiled{
 	icon_state = "monotile"
 	},
@@ -42014,7 +42014,7 @@
 /area/quartermaster)
 "byC" = (
 /turf/simulated/wall,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "byD" = (
 /obj/machinery/door/airlock/glass_mining{
 	name = "Mining Operations"
@@ -42032,14 +42032,14 @@
 	},
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled/steel_grid,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "byE" = (
 /obj/machinery/mineral/equipment_vendor,
 /obj/effect/floor_decal/corner/brown/full{
 	dir = 8
 	},
 /turf/simulated/floor,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "byF" = (
 /obj/machinery/mech_recharger,
 /obj/machinery/light{
@@ -42049,7 +42049,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/plating,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "byG" = (
 /obj/machinery/alarm{
 	dir = 8;
@@ -42061,7 +42061,7 @@
 	dir = 1
 	},
 /turf/simulated/floor,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "byH" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 6
@@ -42545,7 +42545,7 @@
 	pixel_x = -24;
 	pixel_y = 0
 	},
-/obj/effect/decal/cleanable/cobweb2{
+/obj/effect/debris/cleanable/cobweb2{
 	icon_state = "cobweb1"
 	},
 /turf/simulated/floor/tiled,
@@ -42673,7 +42673,7 @@
 /turf/simulated/floor/tiled,
 /area/engineering/foyer)
 "bzD" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor,
 /area/maintenance/research_port)
 "bzE" = (
@@ -42881,7 +42881,7 @@
 	dir = 9
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bzZ" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -42890,7 +42890,7 @@
 	},
 /obj/structure/disposalpipe/segment,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAa" = (
 /obj/structure/table/steel,
 /obj/item/paper_bin{
@@ -42907,7 +42907,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAb" = (
 /obj/structure/table/steel,
 /obj/item/folder/yellow,
@@ -42925,23 +42925,23 @@
 	pixel_y = 26
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAc" = (
 /obj/effect/floor_decal/corner/brown{
 	dir = 1
 	},
 /turf/simulated/floor/tiled/steel,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAd" = (
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/steel,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAe" = (
 /obj/effect/floor_decal/corner/brown{
 	dir = 4
 	},
 /turf/simulated/floor/tiled/steel,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAf" = (
 /obj/structure/table/steel,
 /obj/item/suit_cooling_unit,
@@ -42950,13 +42950,13 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/dark,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAg" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
 /obj/machinery/door/firedoor/glass,
 /turf/simulated/floor/plating,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bAh" = (
 /obj/effect/floor_decal/corner_steel_grid{
 	dir = 4
@@ -43647,7 +43647,7 @@
 /obj/effect/floor_decal/corner/brown{
 	dir = 5
 	},
-/obj/effect/decal/cleanable/cobweb2,
+/obj/effect/debris/cleanable/cobweb2,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/starboard)
 "bBj" = (
@@ -43658,7 +43658,7 @@
 	dir = 4
 	},
 /turf/simulated/wall,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bBk" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -43671,7 +43671,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bBl" = (
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 8
@@ -43686,7 +43686,7 @@
 	icon_state = "pipe-c"
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bBm" = (
 /obj/structure/cable/green{
 	d1 = 2;
@@ -43698,13 +43698,13 @@
 	},
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bBn" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bBo" = (
 /obj/structure/dispenser/oxygen,
 /obj/structure/disposalpipe/segment{
@@ -43714,7 +43714,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bBp" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
@@ -43723,7 +43723,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/plating,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bBq" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -44012,7 +44012,7 @@
 /turf/simulated/floor/tiled,
 /area/engineering/engineering_monitoring)
 "bBV" = (
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/engineering/engineering_monitoring)
 "bBW" = (
@@ -44277,7 +44277,7 @@
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/hallway/primary/starboard)
 "bCv" = (
@@ -44313,7 +44313,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bCz" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -44324,7 +44324,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bCA" = (
 /obj/structure/table/rack,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -44334,7 +44334,7 @@
 /obj/item/clothing/shoes/boots/winter/mining,
 /obj/item/gps/mining,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bCB" = (
 /obj/structure/table/rack,
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
@@ -44344,17 +44344,17 @@
 /obj/item/clothing/shoes/boots/winter/mining,
 /obj/item/gps/mining,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bCC" = (
 /obj/structure/table/rack,
 /obj/item/clothing/suit/storage/snowsuit/cargo,
 /obj/item/clothing/shoes/boots/winter/mining,
 /obj/item/gps/mining,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bCD" = (
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bCE" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /obj/item/radio/intercom{
@@ -44369,7 +44369,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bCF" = (
 /obj/structure/railing{
 	icon_state = "railing0";
@@ -44438,7 +44438,7 @@
 /turf/simulated/floor,
 /area/engineering/storage)
 "bCO" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/random/junk,
 /turf/simulated/floor,
 /area/maintenance/research_port)
@@ -44576,7 +44576,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bDb" = (
@@ -44624,14 +44624,14 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bDg" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bDh" = (
@@ -44789,7 +44789,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/engineering/foyer)
 "bDu" = (
@@ -45025,14 +45025,14 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bDS" = (
 /obj/effect/landmark/start{
 	name = "Shaft Miner"
 	},
 /obj/structure/table/bench/padded,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bDT" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -45040,20 +45040,20 @@
 	icon_state = "1-2"
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bDU" = (
 /obj/structure/closet/lumber{
 	anchored = 1
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bDV" = (
 /obj/structure/closet/lumber{
 	anchored = 1
 	},
 /obj/item/clothing/suit/tajaran/furs,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bDW" = (
 /obj/structure/table/rack{
 	dir = 1
@@ -45074,7 +45074,7 @@
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /obj/item/material/knife/machete/hatchet/iceaxe,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bDX" = (
 /obj/structure/railing,
 /obj/structure/catwalk,
@@ -45189,12 +45189,12 @@
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bEk" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bEl" = (
 /obj/item/stool/padded,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bEm" = (
@@ -45457,7 +45457,7 @@
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/cobweb2{
+/obj/effect/debris/cleanable/cobweb2{
 	icon_state = "spiderling";
 	name = "dead spider"
 	},
@@ -45549,21 +45549,21 @@
 	dir = 9
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bEX" = (
 /obj/structure/table/bench/padded,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bEY" = (
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bEZ" = (
 /obj/effect/floor_decal/corner/brown{
 	dir = 4
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bFa" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced,
@@ -45578,7 +45578,7 @@
 	},
 /obj/machinery/door/firedoor/border_only,
 /turf/simulated/floor/plating,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bFb" = (
 /obj/structure/cable/green{
 	d2 = 2;
@@ -45592,7 +45592,7 @@
 	},
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/techmaint,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bFc" = (
 /obj/machinery/camera/network/research_outpost{
 	c_tag = "OPR - Expedition Airlock";
@@ -45604,7 +45604,7 @@
 	dir = 5
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bFd" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced,
@@ -45619,7 +45619,7 @@
 	dir = 1
 	},
 /turf/simulated/floor/plating,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bFe" = (
 /obj/effect/overlay/snow/floor/grav_edges,
 /turf/simulated/floor/plating/snow/plating/vharr,
@@ -46029,7 +46029,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bFF" = (
@@ -46111,7 +46111,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bFJ" = (
@@ -46569,7 +46569,7 @@
 /obj/structure/closet/secure_closet/miner,
 /obj/effect/floor_decal/corner/brown/full,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGo" = (
 /obj/effect/landmark/start{
 	name = "Shaft Miner"
@@ -46579,7 +46579,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGp" = (
 /obj/structure/cable/green{
 	d1 = 2;
@@ -46595,7 +46595,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGq" = (
 /obj/structure/cable/green{
 	icon_state = "0-8"
@@ -46614,7 +46614,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGr" = (
 /obj/effect/floor_decal/corner/brown{
 	dir = 8
@@ -46625,16 +46625,16 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGs" = (
 /obj/structure/cable/green{
 	d1 = 4;
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGt" = (
 /obj/structure/cable/green{
 	d1 = 4;
@@ -46642,7 +46642,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGu" = (
 /obj/machinery/door/airlock/glass_external/public{
 	frequency = 1379;
@@ -46662,7 +46662,7 @@
 	icon_state = "4-8"
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGv" = (
 /obj/structure/cable/green{
 	d1 = 1;
@@ -46674,7 +46674,7 @@
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGw" = (
 /obj/effect/floor_decal/rust,
 /obj/effect/floor_decal/rust,
@@ -46682,7 +46682,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGx" = (
 /obj/machinery/door/airlock/glass_external/freezable{
 	frequency = 1379;
@@ -46697,7 +46697,7 @@
 	req_one_access = newlist()
 	},
 /turf/simulated/floor/plating/snow/plating,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bGy" = (
 /turf/simulated/wall/r_wall,
 /area/exploration/meeting)
@@ -46863,7 +46863,7 @@
 	icon_state = "1-8"
 	},
 /obj/effect/floor_decal/corner/yellow,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bGO" = (
@@ -46874,7 +46874,7 @@
 /obj/effect/floor_decal/corner/yellow{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/hallway)
 "bGP" = (
@@ -47340,14 +47340,14 @@
 /obj/effect/floor_decal/corner/blue{
 	dir = 5
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "bHB" = (
 /obj/effect/floor_decal/corner/blue{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "bHC" = (
@@ -47485,7 +47485,7 @@
 /obj/machinery/suit_cycler/mining,
 /obj/effect/floor_decal/corner/brown/full,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bHR" = (
 /obj/structure/table/rack,
 /obj/item/clothing/suit/space/void/mining,
@@ -47496,7 +47496,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bHS" = (
 /obj/structure/table/rack,
 /obj/item/clothing/suit/space/void/mining,
@@ -47511,7 +47511,7 @@
 	dir = 10
 	},
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bHT" = (
 /obj/machinery/light/small,
 /obj/effect/floor_decal/industrial/warning/dust{
@@ -47519,7 +47519,7 @@
 	},
 /obj/effect/floor_decal/rust,
 /turf/simulated/floor/tiled/techmaint,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bHU" = (
 /obj/machinery/embedded_controller/radio/airlock/access_controller{
 	id_tag = "Mining_exit_control";
@@ -47535,7 +47535,7 @@
 	dir = 6
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bHV" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced{
@@ -47550,7 +47550,7 @@
 /obj/machinery/door/firedoor/border_only,
 /obj/structure/window/reinforced,
 /turf/simulated/floor/plating,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bHW" = (
 /obj/effect/floor_decal/industrial/warning/dust/corner{
 	icon_state = "warningcorner_dust";
@@ -47757,7 +47757,7 @@
 	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/orange{
 	icon_state = "4-8"
 	},
@@ -47782,7 +47782,7 @@
 	icon_state = "1-2"
 	},
 /obj/effect/floor_decal/corner/yellow,
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /obj/structure/cable/orange{
 	icon_state = "4-8"
 	},
@@ -47998,7 +47998,7 @@
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/effect/floor_decal/corner/yellow{
 	dir = 1
 	},
@@ -48143,7 +48143,7 @@
 	dir = 4
 	},
 /turf/simulated/floor/tiled/steel_grid,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "bIR" = (
 /obj/effect/floor_decal/corner_oldtile/purple,
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
@@ -48159,7 +48159,7 @@
 /obj/effect/floor_decal/corner_oldtile/purple{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "bIS" = (
@@ -48880,7 +48880,7 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 10
 	},
-/obj/effect/decal/cleanable/ash,
+/obj/effect/debris/cleanable/ash,
 /obj/effect/floor_decal/corner/yellow{
 	dir = 5
 	},
@@ -49379,7 +49379,7 @@
 /obj/machinery/atmospherics/component/unary/vent_scrubber/on{
 	dir = 4
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/engineering/engine_airlock)
 "bKQ" = (
@@ -49572,7 +49572,7 @@
 	pixel_x = 6;
 	pixel_y = -3
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/machinery/light{
 	icon_state = "tube1";
 	dir = 8
@@ -49988,7 +49988,7 @@
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/engineering/engine_smes)
 "bLX" = (
@@ -51953,7 +51953,7 @@
 /obj/machinery/atmospherics/component/unary/vent_pump/on{
 	dir = 1
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/engine_eva)
 "bPC" = (
@@ -52265,7 +52265,7 @@
 /area/crew_quarters/locker)
 "bQh" = (
 /obj/item/stool/padded,
-/obj/effect/decal/cleanable/ash,
+/obj/effect/debris/cleanable/ash,
 /turf/simulated/floor/tiled,
 /area/crew_quarters/locker)
 "bQi" = (
@@ -52558,7 +52558,7 @@
 /turf/simulated/floor/tiled,
 /area/engineering/engine_eva)
 "bQH" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/engineering/engine_eva)
 "bQI" = (
@@ -52796,7 +52796,7 @@
 /turf/simulated/floor,
 /area/engineering/engine_room)
 "bRb" = (
-/obj/effect/decal/cleanable/cobweb2,
+/obj/effect/debris/cleanable/cobweb2,
 /obj/structure/frame,
 /turf/simulated/floor,
 /area/engineering/engine_room)
@@ -53423,7 +53423,7 @@
 /area/engineering/engine_eva)
 "bSi" = (
 /obj/machinery/atmospherics/pipe/simple/visible/black,
-/obj/effect/decal/cleanable/blood/oil,
+/obj/effect/debris/cleanable/blood/oil,
 /turf/simulated/floor,
 /area/engineering/engine_room)
 "bSj" = (
@@ -53510,7 +53510,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/plating,
 /area/engineering/engine_room)
 "bSs" = (
@@ -54204,12 +54204,12 @@
 /turf/simulated/floor/plating,
 /area/engineering/engine_room)
 "bTN" = (
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /obj/machinery/atmospherics/pipe/simple/visible/green,
 /turf/simulated/floor,
 /area/engineering/engine_room)
 "bTO" = (
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /obj/machinery/atmospherics/pipe/manifold/visible/black{
 	dir = 8
 	},
@@ -55221,7 +55221,7 @@
 	name = "east bump";
 	pixel_x = 28
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/crew_quarters/locker)
 "bVH" = (
@@ -55445,7 +55445,7 @@
 /area/engineering/engine_room)
 "bWh" = (
 /obj/effect/floor_decal/industrial/warning/corner,
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/plating,
 /area/engineering/engine_room)
 "bWi" = (
@@ -55683,7 +55683,7 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled,
 /area/crew_quarters/locker)
 "bWE" = (
@@ -55886,8 +55886,8 @@
 /area/shuttle/excursion)
 "bWZ" = (
 /obj/structure/closet/crate/freezer/rations,
-/obj/item/storage/mre/menu11,
-/obj/item/storage/mre/menu10,
+/obj/item/storage/single_use/mre/menu11,
+/obj/item/storage/single_use/mre/menu10,
 /turf/simulated/floor/tiled/techmaint,
 /area/shuttle/excursion)
 "bXa" = (
@@ -56229,7 +56229,7 @@
 	dir = 8;
 	icon_state = "pipe-c"
 	},
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/tiled,
 /area/crew_quarters/locker)
 "bXI" = (
@@ -56534,7 +56534,7 @@
 /obj/effect/floor_decal/industrial/warning{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/blood/oil,
+/obj/effect/debris/cleanable/blood/oil,
 /turf/simulated/floor,
 /area/engineering/engine_room)
 "bYj" = (
@@ -56672,7 +56672,7 @@
 	dir = 4
 	},
 /obj/machinery/atmospherics/pipe/simple/visible/black,
-/obj/effect/decal/cleanable/generic,
+/obj/effect/debris/cleanable/generic,
 /turf/simulated/floor/plating,
 /area/engineering/engine_room)
 "bYv" = (
@@ -60645,7 +60645,7 @@
 "cgF" = (
 /obj/machinery/holopad,
 /turf/simulated/floor/tiled,
-/area/quartermaster/miningwing)
+/area/quartermaster/belterdock/gear)
 "cgG" = (
 /obj/structure/table/glass,
 /obj/item/storage/toolbox/emergency,
@@ -60689,7 +60689,7 @@
 	dir = 1;
 	network = list("Research","Miscellaneous Reseach")
 	},
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /turf/simulated/floor/tiled/white,
 /area/rnd/research)
 "cgK" = (
@@ -62929,7 +62929,7 @@
 /turf/simulated/floor/plating/snow/plating,
 /area/construction/solars)
 "ckU" = (
-/obj/effect/decal/cleanable/dirt,
+/obj/effect/debris/cleanable/dirt,
 /obj/structure/cable/heavyduty{
 	icon_state = "2-8"
 	},
@@ -63148,7 +63148,7 @@
 	name = "Office Shutters"
 	},
 /turf/simulated/floor/plating,
-/area/security/airlock)
+/area/security/eva)
 "iGb" = (
 /obj/structure/grille,
 /obj/structure/window/reinforced/full,
