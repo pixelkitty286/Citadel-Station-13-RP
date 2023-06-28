@@ -38,7 +38,7 @@
 	lift_announce_str = "Arriving at Lower Level."
 
 //Outside areas
-//TODO: Add more plains for map I want this to be like vharr but better
+//TODO: Add more plains for map I want this to be like YW's map but better
 /area/vharr/surfacebase/outside
 	name = "Outside - Surface"
 	ambience = AMBIENCE_LYTHIOS
@@ -52,6 +52,16 @@
 //East plains
 /area/vharr/surfacebase/outside/east
 	icon_state = "green"
+
+//Other Lythios outdoor areas
+/area/vharr/exterior
+	is_outside = OUTSIDE_YES
+
+/area/vharr/exterior/stormshelter
+	name = "\improper A place to take shelter in blizzards"
+
+/area/vharr/exterior/checkpoint/east
+	name = "\improper Eastern Abandoned Checkpoint"
 
 //Trade Pad/Shop
 /area/vharr/trade_shop
@@ -70,6 +80,14 @@
 /area/crew_quarters/meeting
 	name = "\improper Public Conference"
 	icon_state = "courtroom"
+
+//Airlock areas
+/area/vharr/surfaceeva
+	name = "\improper Primary Surface EVA"
+	sound_env = SMALL_ENCLOSED
+
+/area/vharr/surfaceeva/airlock/arivals
+	name = "\improper Arrivals Airlock One"
 
 //TODO: reorganize all of this
 //To be removed and replaced
