@@ -18,7 +18,7 @@ var/datum/planet/vharr/planet_vharr = null
 /datum/planet/vharr
 	name = "Lythios-43c"
 	desc = "A Icey-frozen tundra, this planet has an atmosphere mainly comprised of frigid oxygen, with trace \
-	amounts of both carbon dioxide and nitrogen. Originally owned by the People's Republic of Ahdomai but was sold to NanoTrasen in 2563"
+	amounts of nitrogen. Originally owned by the People's Republic of Ahdomai but planetary rights were sold to NanoTrasen in 2563"
 	current_time = new /datum/time/vharr()
 	planetary_wall_type = /turf/unsimulated/wall/planetary/vharr
 
