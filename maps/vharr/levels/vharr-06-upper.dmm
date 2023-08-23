@@ -70,13 +70,6 @@
 	},
 /turf/simulated/open/vharr,
 /area/space)
-"iu" = (
-/obj/structure/catwalk,
-/obj/structure/railing/grey{
-	dir = 1
-	},
-/turf/simulated/floor/outdoors/safeice/vharr/indoors,
-/area/space)
 "jJ" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -9714,7 +9707,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 oL
 Do
 Do
@@ -9908,7 +9901,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 oL
 Do
 Do
@@ -10102,7 +10095,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 oL
 Do
 Do
@@ -10296,7 +10289,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Do
 Do
@@ -10490,7 +10483,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Do
 Do
@@ -10684,7 +10677,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Do
 Do
@@ -10878,7 +10871,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Do
@@ -11072,7 +11065,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Do
@@ -11266,7 +11259,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -11460,7 +11453,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -11654,7 +11647,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -11848,7 +11841,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -12042,7 +12035,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -12236,7 +12229,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -12430,7 +12423,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -12624,7 +12617,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -12818,7 +12811,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -13012,7 +13005,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -13206,7 +13199,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -13400,7 +13393,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -13594,7 +13587,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -13788,7 +13781,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -13982,7 +13975,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -14176,7 +14169,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -14370,7 +14363,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -14564,7 +14557,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -14758,7 +14751,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -14952,7 +14945,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -15146,7 +15139,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -15340,7 +15333,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -15534,7 +15527,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -15728,7 +15721,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -15922,7 +15915,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -16116,7 +16109,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -16310,7 +16303,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -16504,7 +16497,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -16698,7 +16691,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -16892,7 +16885,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -17086,7 +17079,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -17280,7 +17273,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -17474,7 +17467,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -17668,7 +17661,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -17862,7 +17855,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -18056,7 +18049,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -18250,7 +18243,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -18444,7 +18437,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -18638,7 +18631,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -18832,7 +18825,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -19026,7 +19019,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -19220,7 +19213,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -19414,7 +19407,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -19608,7 +19601,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -19802,7 +19795,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -19996,7 +19989,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -20190,7 +20183,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -20384,7 +20377,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -20578,7 +20571,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -20772,7 +20765,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -20966,7 +20959,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -21160,7 +21153,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -21354,7 +21347,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -21548,7 +21541,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -21742,7 +21735,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -21936,7 +21929,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -22130,7 +22123,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -22324,7 +22317,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -22518,7 +22511,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -22712,7 +22705,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -22906,7 +22899,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -23100,7 +23093,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -23294,7 +23287,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -23488,7 +23481,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -23682,7 +23675,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -23876,7 +23869,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -24070,7 +24063,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -24264,7 +24257,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -24458,7 +24451,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -24652,7 +24645,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -24846,7 +24839,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -25040,7 +25033,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -25234,7 +25227,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -25428,7 +25421,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -25622,7 +25615,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -25816,7 +25809,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -26010,7 +26003,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -26204,7 +26197,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -26398,7 +26391,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -26592,7 +26585,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -26786,7 +26779,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -26980,7 +26973,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -27174,7 +27167,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -27368,7 +27361,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -27562,7 +27555,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -27756,7 +27749,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -27950,7 +27943,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -28144,7 +28137,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -28338,7 +28331,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -28532,7 +28525,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -28726,7 +28719,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -28920,7 +28913,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -29114,7 +29107,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -29308,7 +29301,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -29502,7 +29495,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -29696,7 +29689,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 sl
 Ik
 Ik
@@ -29890,7 +29883,7 @@ Ik
 Ik
 Ik
 Ik
-iu
+Xl
 oL
 Ik
 Do
@@ -30083,8 +30076,8 @@ Ik
 Ik
 Ik
 Ik
-Ik
-iu
+Do
+Xl
 oL
 Do
 Do
@@ -30277,7 +30270,7 @@ Ik
 Ik
 Ik
 Ik
-Ik
+Do
 af
 oL
 Do
