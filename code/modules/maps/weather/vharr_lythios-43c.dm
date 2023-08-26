@@ -1,14 +1,13 @@
 //This file handels NTB Prometheus weather's since it is located in a diffrent location than NTS Atlas
 /datum/atmosphere/planet/vharr
-	base_gases = list(
-	/datum/gas/nitrogen = 0.66,
-	/datum/gas/oxygen = 0.34
+	base = list(
+		/datum/gas/nitrogen = 0.66,
+		/datum/gas/oxygen = 0.34,
 	)
-	base_target_pressure = 76.9
-	minimum_pressure = 76.9
-	maximum_pressure = 76.9
-	minimum_temp = 220.14
-	maximum_temp = 241.72
+	pressure_low = 76.9
+	pressure_high = 76.9
+	temperature_low = 220.14
+	temperature_high = 241.72
 
 var/datum/planet/vharr/planet_vharr = null
 //Dev note: This entire file handles weather and planetary effects. File name subject to change pending planet name finalization.

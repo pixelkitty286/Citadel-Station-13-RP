@@ -1,3 +1,5 @@
+//this is bad redo this
+
 #if !defined(USING_MAP_DATUM)
 
 	#include "vharr_defines.dm"
