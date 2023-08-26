@@ -11,7 +11,15 @@
 	req_one_access = list()
 	},
 /turf/simulated/floor/plating,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"aI" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
 "aK" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey,
@@ -19,47 +27,150 @@
 	dir = 4
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
 "bd" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /turf/simulated/open/vharr,
-/area/space)
-"bU" = (
-/turf/simulated/floor/tiled/techmaint,
-/area/space)
-"di" = (
-/obj/structure/catwalk,
-/obj/structure/railing/grey{
-	dir = 8
+/area/vharr/compound_tower/southwest)
+"bI" = (
+/obj/item/radio/intercom{
+	pixel_y = 24;
+	dir = 1
 	},
-/turf/simulated/open/vharr,
-/area/space)
-"dm" = (
-/obj/structure/catwalk,
-/turf/simulated/open/vharr,
-/area/space)
-"dn" = (
-/obj/structure/railing/grey,
 /obj/machinery/light{
 	icon_state = "tube1";
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/west)
+"bU" = (
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
+"cG" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"di" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southwest)
+"dm" = (
+/obj/structure/catwalk,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
+"dr" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"dC" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
 "dK" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey,
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"dW" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
+"eF" = (
+/obj/structure/bed/chair{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southwest)
+"fH" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
+"fS" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
+"fU" = (
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
+"gJ" = (
+/obj/effect/wingrille_spawn/reinforced,
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/northeast)
+"gR" = (
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northwest)
+"hn" = (
+/obj/machinery/camera/network/security,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/west)
+"hq" = (
+/obj/machinery/space_heater,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/west)
+"hN" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southwest)
 "ij" = (
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"io" = (
+/obj/machinery/door/airlock/glass_external/freezable{
+	req_one_access = list()
+	},
+/turf/simulated/wall/titanium,
+/area/vharr/compound_tower/southernentrance)
 "it" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -69,7 +180,19 @@
 	dir = 1
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southwest)
+"iu" = (
+/turf/simulated/wall/titanium,
+/area/vharr/compound_tower/northwest)
+"jB" = (
+/obj/machinery/camera/network/security{
+	dir = 2
+	},
+/obj/machinery/firealarm{
+	pixel_y = 24
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southeast)
 "jJ" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -77,34 +200,73 @@
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/space)
-"kF" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
+"jS" = (
+/obj/structure/railing/grey,
+/obj/machinery/camera/network/security{
+	dir = 2
 	},
-/turf/simulated/wall/titanium,
-/area/space)
+/obj/machinery/firealarm{
+	dir = 8;
+	pixel_x = -24
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/east)
+"kk" = (
+/obj/machinery/camera/network/security{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southwest)
+"kv" = (
+/obj/effect/wingrille_spawn/reinforced,
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/southwest)
+"kD" = (
+/obj/effect/wingrille_spawn/reinforced,
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/east)
 "kR" = (
 /obj/machinery/light{
 	icon_state = "tube1";
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"ls" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
+"lx" = (
+/obj/machinery/door/airlock/glass_external/freezable{
+	req_one_access = list()
+	},
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/west)
 "mB" = (
 /obj/structure/railing/grey,
 /obj/structure/catwalk,
+/obj/machinery/camera/network/security{
+	dir = 2
+	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"mL" = (
+/obj/structure/catwalk,
+/turf/simulated/floor/plating/snow/plating/vharr,
+/area/vharr/compound_tower/northeast)
 "na" = (
 /obj/machinery/space_heater,
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
 "nx" = (
 /obj/structure/railing/grey{
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southwest)
 "nz" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey,
@@ -112,15 +274,32 @@
 	dir = 8
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
 "nX" = (
 /turf/simulated/open/vharr/indoors,
-/area/space)
+/area/vharr/compound_tower/southwest)
+"nY" = (
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/machinery/firealarm{
+	pixel_y = -24;
+	dir = 1
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/west)
 "oL" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey,
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/space)
+"oW" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
 "pn" = (
 /obj/landmark/map_data/lythios43c,
 /turf/unsimulated/wall/planetary/vharr{
@@ -128,6 +307,21 @@
 	desc = "Glacial permafrost, compacted harder than stone."
 	},
 /area/space)
+"pS" = (
+/obj/structure/table/steel,
+/obj/machinery/recharger,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southwest)
+"pX" = (
+/obj/structure/table/steel,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northeast)
+"qa" = (
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northwest)
 "qe" = (
 /obj/item/radio/intercom{
 	dir = 8;
@@ -135,11 +329,15 @@
 	pixel_x = -24
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"qS" = (
+/obj/structure/table/steel,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southeast)
 "qY" = (
-/obj/effect/wingrille_spawn/reinforced,
+/obj/spawner/window/low_wall/reinforced/full/firelocks,
 /turf/simulated/floor/plating,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
 "rm" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey,
@@ -148,12 +346,43 @@
 	dir = 1
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"rA" = (
+/obj/structure/catwalk,
+/turf/simulated/floor/plating/snow/plating/vharr,
+/area/vharr/compound_tower/east)
+"rS" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
+"rU" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
+"si" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
 "sl" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey,
 /turf/simulated/floor/outdoors/safeice/vharr/indoors,
 /area/space)
+"sE" = (
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southwest)
 "sH" = (
 /obj/structure/railing/grey{
 	dir = 1
@@ -162,17 +391,52 @@
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/northeast)
+"tc" = (
+/turf/simulated/open/vharr/indoors,
+/area/vharr/compound_tower/west)
 "th" = (
 /obj/structure/catwalk,
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/space)
+/area/vharr/compound_tower/southwest)
+"tG" = (
+/obj/machinery/camera/network/security{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
+"tH" = (
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northeast)
 "tR" = (
 /obj/machinery/light{
 	icon_state = "tube1"
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"uk" = (
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/west)
+"uX" = (
+/turf/simulated/open/vharr/indoors,
+/area/vharr/compound_tower/northwest)
+"uZ" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/machinery/light{
+	icon_state = "tube1"
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
+"vh" = (
+/obj/effect/wingrille_spawn/reinforced,
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/southeast)
 "vq" = (
 /obj/machinery/door/airlock/glass_external/freezable{
 	req_one_access = list()
@@ -181,26 +445,182 @@
 	req_one_access = list()
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
-/area/space)
-"yp" = (
+/area/vharr/compound_tower/northeast)
+"vu" = (
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northeast)
+"vM" = (
+/obj/machinery/light{
+	icon_state = "tube1"
+	},
+/obj/structure/bed/chair{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northwest)
+"vU" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
+"wn" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
+"wu" = (
+/obj/structure/catwalk,
 /obj/structure/railing/grey{
 	dir = 1
 	},
 /obj/machinery/light{
 	icon_state = "tube1"
 	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"xb" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"xd" = (
+/obj/structure/bed/chair{
+	dir = 8
+	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/west)
+"xi" = (
+/turf/simulated/open/vharr/indoors,
+/area/vharr/compound_tower/southeast)
+"xz" = (
+/obj/machinery/holopad,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/east)
+"xH" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
+"yc" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"yl" = (
+/obj/item/binoculars,
+/obj/structure/table/reinforced,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
+"yD" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"yP" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
+"yX" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"zA" = (
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southeast)
+"Aa" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
+"AC" = (
+/obj/machinery/holopad,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northwest)
+"AF" = (
+/turf/simulated/wall/titanium,
+/area/vharr/compound_tower/southwest)
 "AG" = (
 /turf/unsimulated/wall/planetary/vharr{
 	icon_state = "icerock-dark";
 	desc = "Glacial permafrost, compacted harder than stone."
 	},
 /area/space)
+"AH" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southwest)
+"AP" = (
+/turf/simulated/open/vharr/indoors,
+/area/vharr/compound_tower/southernentrance)
+"AW" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
 "Bl" = (
 /obj/machinery/holopad,
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"BN" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
 "BU" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -211,19 +631,59 @@
 	dir = 4
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
 "Ch" = (
 /turf/simulated/wall/titanium,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"Ct" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"CE" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"Da" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
+"Dl" = (
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 4
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northwest)
 "Do" = (
 /turf/simulated/open/vharr,
 /area/space)
+"Dx" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southwest)
+"DR" = (
+/obj/structure/catwalk,
+/turf/simulated/floor/plating/snow/plating/vharr,
+/area/vharr/compound_tower/southernentrance)
 "Fi" = (
 /obj/structure/railing/grey{
 	dir = 1
 	},
+/obj/machinery/space_heater,
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southwest)
 "Fr" = (
 /obj/overmap/entity/visitable/sector/lythios43c,
 /turf/unsimulated/wall/planetary/vharr{
@@ -238,33 +698,139 @@
 	},
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/space)
-"Gn" = (
-/obj/structure/bed/chair{
-	dir = 2
-	},
-/turf/simulated/floor/tiled/techmaint,
-/area/space)
-"GV" = (
+"Gd" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
-	dir = 4
-	},
-/obj/machinery/light{
-	icon_state = "tube1";
 	dir = 8
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southwest)
+"Gg" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
+"Gi" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/machinery/camera/network/security{
+	dir = 2
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
+"Gn" = (
+/obj/structure/bed/chair/office/light,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
+"Gv" = (
+/obj/structure/table/steel,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/east)
+"GE" = (
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southeast)
+"GP" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
+"GQ" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southwest)
+"Ha" = (
+/obj/item/radio/intercom{
+	pixel_y = 24;
+	dir = 1
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 1
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/east)
+"He" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
 "Hk" = (
 /obj/machinery/holopad,
 /obj/structure/railing/grey{
 	dir = 8
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southwest)
+"Hq" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
+"HG" = (
+/obj/machinery/firealarm{
+	pixel_y = 24
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
 "Ik" = (
 /turf/simulated/mineral/icerock/floor/ignore_cavegen/vharr,
 /area/space)
+"Im" = (
+/obj/structure/catwalk,
+/turf/simulated/floor/plating/snow/plating/vharr,
+/area/vharr/compound_tower/northwest)
+"Ip" = (
+/obj/structure/railing/grey,
+/obj/structure/catwalk,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
+"Iu" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"IA" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southwest)
+"IP" = (
+/obj/machinery/camera/network/security{
+	dir = 1
+	},
+/obj/machinery/firealarm{
+	pixel_y = -24;
+	dir = 1
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northeast)
+"JI" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
 "JQ" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -274,7 +840,34 @@
 	dir = 8
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"JR" = (
+/obj/machinery/light{
+	icon_state = "tube1"
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/west)
+"JV" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"Km" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"Kr" = (
+/turf/simulated/wall/titanium,
+/area/vharr/compound_tower/east)
 "KP" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -284,14 +877,84 @@
 	icon_state = "tube1"
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"Lf" = (
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
+"Lm" = (
+/obj/structure/catwalk,
+/turf/simulated/floor/plating/snow/plating/vharr,
+/area/vharr/compound_tower/southeast)
+"Lv" = (
+/turf/simulated/wall/titanium,
+/area/vharr/compound_tower/west)
+"LJ" = (
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 8
+	},
+/obj/structure/bed/chair{
+	dir = 2
+	},
+/obj/item/radio/intercom{
+	dir = 8;
+	pixel_x = -24
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southeast)
+"LT" = (
+/turf/simulated/wall/titanium,
+/area/vharr/compound_tower/northeast)
+"Mb" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"Mw" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"MN" = (
+/obj/machinery/camera/network/security{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
 "MW" = (
 /obj/machinery/holopad,
 /obj/structure/railing/grey{
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/northeast)
+"Nd" = (
+/obj/machinery/door/airlock/glass_external/freezable{
+	req_one_access = list()
+	},
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/northeast)
+"No" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
 "Nx" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -301,7 +964,16 @@
 	dir = 4
 	},
 /turf/simulated/open/vharr,
-/area/space)
+/area/vharr/compound_tower/southwest)
+"NL" = (
+/turf/simulated/wall/titanium,
+/area/vharr/compound_tower/southeast)
+"NM" = (
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/east)
+"NZ" = (
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/west)
 "Od" = (
 /obj/machinery/door/airlock/glass_external/freezable{
 	req_one_access = list()
@@ -310,64 +982,219 @@
 	req_one_access = list()
 	},
 /turf/simulated/floor/plating,
-/area/space)
+/area/vharr/compound_tower/southwest)
 "Oh" = (
 /obj/machinery/holopad,
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southeast)
 "OC" = (
 /obj/item/radio/intercom{
 	pixel_y = -24
 	},
+/obj/machinery/light{
+	icon_state = "tube1"
+	},
+/obj/structure/bed/chair{
+	dir = 4
+	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/northeast)
+"OE" = (
+/obj/structure/bed/chair{
+	dir = 4
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/east)
+"Px" = (
+/obj/machinery/firealarm{
+	pixel_y = 24;
+	dir = 2
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southwest)
+"Pz" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
 "PF" = (
 /obj/item/radio/intercom{
 	pixel_y = 24;
 	dir = 1
 	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 1
+	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southwest)
 "PL" = (
 /obj/machinery/light{
 	icon_state = "tube1";
 	dir = 1
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"Qa" = (
+/obj/machinery/door/airlock/glass_external/freezable{
+	req_one_access = list()
+	},
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/southeast)
+"Qp" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
+"Qz" = (
+/obj/machinery/door/airlock/glass_external/freezable{
+	req_one_access = list()
+	},
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/northwest)
+"QF" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"QY" = (
+/obj/effect/wingrille_spawn/reinforced,
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/west)
 "Rh" = (
 /obj/machinery/light{
 	icon_state = "tube1";
 	dir = 4
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
-"TW" = (
-/obj/structure/bed/chair{
-	dir = 2
+/area/vharr/compound_tower/southernentrance)
+"Rt" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 1
 	},
-/obj/structure/bed/chair{
-	dir = 2
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
+"St" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/obj/structure/railing/grey{
+	dir = 4
 	},
-/turf/simulated/floor/tiled/techmaint,
-/area/space)
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
+"SY" = (
+/obj/machinery/door/airlock/glass_external/freezable{
+	req_one_access = list()
+	},
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/east)
+"Tg" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northwest)
+"Tn" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
+"Ty" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
+"TH" = (
+/obj/effect/wingrille_spawn/reinforced,
+/turf/simulated/floor/plating,
+/area/vharr/compound_tower/northwest)
+"TQ" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey,
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"Uk" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/east)
+"Uq" = (
+/turf/simulated/open/vharr/indoors,
+/area/vharr/compound_tower/northeast)
+"UM" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/northeast)
 "UW" = (
+/obj/structure/table/reinforced,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/southernentrance)
+"Vo" = (
+/turf/simulated/open/vharr/indoors,
+/area/vharr/compound_tower/east)
+"VE" = (
 /obj/structure/table/steel,
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/west)
 "VV" = (
 /obj/structure/railing/grey{
 	dir = 2
 	},
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southeast)
+"Wb" = (
+/obj/structure/catwalk,
+/turf/simulated/floor/plating/snow/plating/vharr,
+/area/vharr/compound_tower/west)
+"Wo" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southernentrance)
 "WW" = (
 /obj/structure/railing/grey,
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/southernentrance)
+"Xb" = (
+/obj/machinery/camera/network/security{
+	dir = 1
+	},
+/obj/machinery/firealarm{
+	pixel_y = -24;
+	dir = 1
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northwest)
 "Xl" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -375,13 +1202,51 @@
 	},
 /turf/simulated/open/vharr,
 /area/space)
+"Xs" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 8
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/southeast)
+"Yh" = (
+/obj/machinery/light{
+	icon_state = "tube1";
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northeast)
+"Zt" = (
+/obj/structure/catwalk,
+/obj/structure/railing/grey{
+	dir = 4
+	},
+/turf/simulated/open/vharr,
+/area/vharr/compound_tower/west)
+"Zz" = (
+/obj/structure/railing/grey{
+	dir = 8
+	},
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/east)
 "ZH" = (
 /obj/structure/railing/grey{
 	dir = 4
 	},
 /obj/machinery/holopad,
 /turf/simulated/floor/tiled/techmaint,
-/area/space)
+/area/vharr/compound_tower/west)
+"ZI" = (
+/obj/structure/railing/grey{
+	dir = 1
+	},
+/obj/structure/table/steel,
+/turf/simulated/floor/tiled/techmaint,
+/area/vharr/compound_tower/northwest)
 
 (1,1,1) = {"
 AG
@@ -3690,159 +4555,159 @@ Do
 Do
 Do
 Do
+dr
+Mb
+Ct
+Ct
+Ct
+Ct
+Mb
+JV
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+BN
+dC
+dW
+dW
+dW
+dW
+dC
+yP
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
 it
 di
+Gd
+Gd
+Gd
+Gd
 di
-di
-di
-di
-di
-nz
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-it
-di
-di
-di
-di
-di
-di
-nz
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-it
-di
-di
-di
-di
-di
-di
-nz
+Dx
 Do
 Do
 Do
@@ -3884,14 +4749,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+wu
+iu
+TH
+TH
+TH
+TH
+iu
+Tg
 Do
 Do
 Do
@@ -3957,14 +4822,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+Hq
+Lv
+QY
+QY
+QY
+QY
+Lv
+Da
 Do
 Do
 Do
@@ -4029,14 +4894,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+hN
+AF
+kv
+kv
+kv
+kv
+AF
+AH
 Do
 Do
 Do
@@ -4078,159 +4943,159 @@ Do
 Do
 Do
 Do
-Xl
-qY
-bU
+yX
+TH
+gR
+uX
+uX
+ZI
+TH
+Tg
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Hq
+QY
+NZ
+VE
+VE
+hq
+QY
+Da
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+hN
+AF
+Px
 nX
 nX
 Fi
-qY
-dK
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Xl
-qY
-bU
-bU
-bU
-bU
-qY
-dK
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Xl
-Ch
-bU
-nX
-nX
-Fi
-qY
-dK
+kv
+GQ
 Do
 Do
 Do
@@ -4272,14 +5137,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-bU
-nx
-Hk
-bU
-Ch
-th
+yX
+TH
+gR
+qa
+AC
+vM
+iu
+Im
 FO
 FO
 FO
@@ -4345,14 +5210,14 @@ FO
 FO
 FO
 FO
-th
-Ch
-PF
-bU
-bU
-bU
-az
-th
+Wb
+Lv
+bI
+xd
+NZ
+NZ
+lx
+Wb
 FO
 FO
 FO
@@ -4419,12 +5284,12 @@ FO
 FO
 th
 Od
-bU
+sE
 nx
 Hk
-bU
-qY
-dK
+sE
+kv
+GQ
 Do
 Do
 Do
@@ -4466,14 +5331,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-bU
-bU
-bU
-bU
-az
-th
+yX
+TH
+gR
+gR
+gR
+gR
+Qz
+Im
 jJ
 jJ
 jJ
@@ -4539,14 +5404,14 @@ jJ
 jJ
 jJ
 jJ
-th
-az
-bU
-ij
+Wb
+lx
+NZ
+uk
 ZH
-bU
-Ch
-th
+JR
+Lv
+Wb
 jJ
 jJ
 jJ
@@ -4612,13 +5477,13 @@ jJ
 jJ
 jJ
 th
-Ch
+AF
 PF
-bU
-bU
-bU
-qY
-dK
+sE
+sE
+eF
+kv
+GQ
 Do
 Do
 Do
@@ -4660,14 +5525,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-bU
-bU
-bU
-bU
-Ch
-dK
+yX
+TH
+gR
+Dl
+gR
+Xb
+iu
+Tg
 Do
 Do
 Do
@@ -4733,14 +5598,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-bU
-nX
-nX
-Fi
-Ch
-dK
+Hq
+Lv
+hn
+tc
+tc
+nY
+Lv
+Da
 Do
 Do
 Do
@@ -4805,14 +5670,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-bU
-bU
-bU
-bU
-qY
-dK
+hN
+kv
+sE
+kk
+sE
+pS
+kv
+GQ
 Do
 Do
 Do
@@ -4854,14 +5719,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-Ch
-az
-qY
-Ch
-dK
+wu
+iu
+TH
+iu
+Qz
+TH
+iu
+Tg
 Do
 Do
 Do
@@ -4927,14 +5792,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+Hq
+Lv
+QY
+QY
+QY
+QY
+Lv
+Da
 Do
 Do
 Do
@@ -4999,14 +5864,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-Ch
+hN
+AF
+kv
+AF
 Od
-qY
-Ch
-dK
+kv
+AF
+AH
 Do
 Do
 Do
@@ -5048,6 +5913,151 @@ Do
 Do
 Do
 Do
+Km
+AW
+AW
+Im
+Im
+AW
+AW
+yc
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Qp
+Zt
+Zt
+Zt
+Zt
+Zt
+Zt
+St
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
+Do
 Nx
 bd
 bd
@@ -5055,152 +6065,7 @@ th
 th
 bd
 bd
-aK
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Nx
-bd
-bd
-bd
-bd
-bd
-bd
-aK
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Do
-Nx
-bd
-bd
-th
-th
-bd
-bd
-aK
+IA
 Do
 Do
 Do
@@ -16447,10 +17312,10 @@ Do
 Do
 JQ
 BU
-di
-th
-th
-di
+Wo
+DR
+DR
+Wo
 BU
 nz
 Do
@@ -16639,7 +17504,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
 Ch
 az
@@ -17026,7 +17891,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 Ch
 PL
@@ -17220,13 +18085,13 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 bU
 WW
-nX
-nX
-Fi
+AP
+AP
+fU
 UW
 qY
 dK
@@ -17414,13 +18279,13 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 bU
 WW
-nX
-nX
-Fi
+AP
+AP
+fU
 Gn
 qY
 dK
@@ -17608,7 +18473,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
 bU
 bU
@@ -17802,16 +18667,16 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
+HG
 bU
 bU
-bU
-bU
+MN
 bU
 bU
 Ch
-mB
+Ip
 Do
 Do
 Do
@@ -18190,7 +19055,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
 bU
 bU
@@ -18384,7 +19249,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
 bU
 bU
@@ -18578,7 +19443,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 bU
 bU
@@ -18772,7 +19637,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 na
 bU
@@ -18966,14 +19831,14 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 na
 bU
 bU
 Bl
-TW
-UW
+Gn
+yl
 qY
 dK
 Do
@@ -19160,7 +20025,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 na
 bU
@@ -19354,7 +20219,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 bU
 bU
@@ -19548,7 +20413,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
 bU
 bU
@@ -19742,7 +20607,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
 bU
 bU
@@ -20130,12 +20995,12 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
+HG
 bU
 bU
-bU
-bU
+tG
 bU
 bU
 Ch
@@ -20324,7 +21189,7 @@ Do
 Do
 Do
 Do
-Xl
+ls
 Ch
 bU
 bU
@@ -20333,7 +21198,7 @@ bU
 bU
 bU
 Ch
-dK
+Gi
 Do
 Do
 Do
@@ -20518,13 +21383,13 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 bU
-bU
-bU
-bU
-bU
+WW
+AP
+AP
+fU
 Gn
 qY
 dK
@@ -20712,13 +21577,13 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 bU
 WW
-nX
-nX
-Fi
+AP
+AP
+fU
 UW
 qY
 dK
@@ -20906,13 +21771,13 @@ Do
 Do
 Do
 Do
-Xl
+ls
 qY
 Ch
-dn
-nX
-nX
-yp
+PL
+Lf
+Lf
+tR
 Ch
 qY
 dK
@@ -21100,15 +21965,15 @@ Do
 Do
 Do
 Do
-Nx
-dm
+No
+ls
 qY
 bU
-nx
-nx
+bU
+bU
 bU
 qY
-dm
+dK
 aK
 Do
 Do
@@ -21295,13 +22160,13 @@ Do
 Do
 Do
 Do
-Xl
+ls
+Ch
 qY
-bU
-bU
-bU
-bU
+io
+az
 qY
+Ch
 dK
 Do
 Do
@@ -21489,14 +22354,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-kF
-az
-qY
-Ch
-dK
+No
+fS
+rU
+DR
+DR
+rU
+fS
+aK
 Do
 Do
 Do
@@ -21683,14 +22548,14 @@ Do
 Do
 Do
 Do
-Nx
-GV
-bd
-th
-th
-bd
-GV
-aK
+Do
+Do
+Do
+af
+oL
+Do
+Do
+Do
 Do
 Do
 Do
@@ -32790,14 +33655,14 @@ Do
 Do
 Do
 Do
-it
-di
-di
-th
-th
-di
-di
-nz
+vU
+Tn
+Tn
+mL
+mL
+Tn
+Tn
+He
 Do
 Do
 Do
@@ -32863,14 +33728,14 @@ Do
 Do
 Do
 Do
-it
-di
-di
-di
-di
-di
-di
-nz
+xb
+cG
+cG
+cG
+cG
+cG
+cG
+CE
 Do
 Do
 Do
@@ -32935,14 +33800,14 @@ Do
 Do
 Do
 Do
-it
-di
-di
-th
-th
-di
-di
-nz
+fH
+wn
+wn
+Lm
+Lm
+wn
+wn
+aI
 Do
 Do
 Do
@@ -32984,14 +33849,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-Ch
-az
-qY
-Ch
-dK
+uZ
+LT
+gJ
+LT
+Nd
+gJ
+LT
+Ty
 Do
 Do
 Do
@@ -33057,14 +33922,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+QF
+Kr
+Kr
+kD
+kD
+Kr
+Kr
+TQ
 Do
 Do
 Do
@@ -33129,14 +33994,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-az
-Ch
-qY
-Ch
-dK
+GP
+NL
+vh
+Qa
+NL
+vh
+NL
+Rt
 Do
 Do
 Do
@@ -33178,14 +34043,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-ij
-bU
-bU
-bU
-qY
-dK
+rS
+gJ
+vu
+Yh
+tH
+IP
+LT
+Ty
 Do
 Do
 Do
@@ -33251,14 +34116,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-WW
-nX
-nX
-bU
-Ch
-dK
+QF
+Kr
+jS
+Vo
+Vo
+NM
+Kr
+TQ
 Do
 Do
 Do
@@ -33323,14 +34188,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-bU
-bU
-bU
-bU
-qY
-dK
+GP
+NL
+zA
+zA
+LJ
+qS
+vh
+Gg
 Do
 Do
 Do
@@ -33372,14 +34237,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-nX
+rS
+gJ
+Uq
 MW
-bU
-bU
+tH
+tH
 vq
-th
+mL
 FO
 FO
 FO
@@ -33445,14 +34310,14 @@ FO
 FO
 FO
 FO
-th
-az
-bU
-nx
-Hk
-bU
-az
-th
+rA
+SY
+NM
+Zz
+xz
+NM
+SY
+rA
 FO
 FO
 FO
@@ -33517,14 +34382,14 @@ FO
 FO
 FO
 FO
-th
-az
-bU
-bU
-bU
-bU
-qY
-dK
+Lm
+Qa
+zA
+zA
+zA
+zA
+vh
+Gg
 Do
 Do
 Do
@@ -33566,14 +34431,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-nX
+rS
+gJ
+Uq
 sH
-bU
+tH
 OC
-Ch
-th
+LT
+mL
 jJ
 jJ
 jJ
@@ -33639,14 +34504,14 @@ jJ
 jJ
 jJ
 jJ
-th
-Ch
-PF
-bU
-bU
-bU
-Ch
-th
+rA
+Kr
+Ha
+NM
+NM
+NM
+Kr
+rA
 jJ
 jJ
 jJ
@@ -33711,14 +34576,14 @@ jJ
 jJ
 jJ
 jJ
-th
-Ch
-PF
-ij
+Lm
+NL
+jB
+GE
 Oh
-bU
-qY
-dK
+zA
+vh
+Gg
 Do
 Do
 Do
@@ -33760,14 +34625,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-bU
-bU
-bU
-bU
-qY
-dK
+rS
+gJ
+tH
+tH
+tH
+pX
+gJ
+Ty
 Do
 Do
 Do
@@ -33833,14 +34698,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
-bU
-bU
-bU
-bU
-qY
-dK
+QF
+kD
+NM
+OE
+Gv
+Gv
+kD
+TQ
 Do
 Do
 Do
@@ -33905,14 +34770,14 @@ Do
 Do
 Do
 Do
-Xl
-qY
+GP
+vh
 VV
-nX
-nX
-bU
-qY
-dK
+xi
+xi
+zA
+vh
+Gg
 Do
 Do
 Do
@@ -33954,14 +34819,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+uZ
+LT
+gJ
+gJ
+gJ
+gJ
+LT
+Ty
 Do
 Do
 Do
@@ -34027,14 +34892,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+QF
+Kr
+kD
+kD
+kD
+kD
+Kr
+TQ
 Do
 Do
 Do
@@ -34099,14 +34964,14 @@ Do
 Do
 Do
 Do
-Xl
-Ch
-qY
-qY
-qY
-qY
-Ch
-dK
+GP
+NL
+vh
+vh
+vh
+vh
+NL
+Rt
 Do
 Do
 Do
@@ -34148,14 +35013,14 @@ Do
 Do
 Do
 Do
-Nx
-bd
-bd
-bd
-bd
-bd
-bd
-aK
+Pz
+xH
+UM
+UM
+UM
+UM
+xH
+Aa
 Do
 Do
 Do
@@ -34221,14 +35086,14 @@ Do
 Do
 Do
 Do
-Nx
-bd
-bd
-bd
-bd
-bd
-bd
-aK
+Iu
+Uk
+Mw
+Mw
+Mw
+Mw
+Uk
+yD
 Do
 Do
 Do
@@ -34293,14 +35158,14 @@ Do
 Do
 Do
 Do
-Nx
-bd
-bd
-bd
-bd
-bd
-bd
-aK
+si
+Xs
+oW
+oW
+oW
+oW
+Xs
+JI
 Do
 Do
 Do
