@@ -1,14 +1,14 @@
 //Ported from YW
 
 //Freezable Airlock Door
-/obj/machinery/door/airlock/glass_external/freezable
+/obj/machinery/door/airlock/glass_external/vharr/freezable
 	maxhealth = 600
 	var/frozen = 0
 	var/freezing = 0 //see process().
 	var/deiceTools[0]
 	var/nextWeatherCheck
 
-/obj/machinery/door/airlock/glass_external/freezable/New()
+/obj/machinery/door/airlock/glass_external/vharr/freezable/New()
 	//Associate objects with the number of seconds it would take to de-ice a door.
 	//Most items are either more or less effecient at it.
 	//For items with very specific cases (like welders using fuel, or needing to be on) see attackby().
@@ -23,7 +23,7 @@
 	deiceTools[/obj/item] = 12
 	..()
 
-/obj/machinery/door/airlock/glass_external/freezable/attackby(obj/item/I, mob/user as mob)
+/obj/machinery/door/airlock/glass_external/vharr/freezable/attackby(obj/item/I, mob/user as mob)
 	//Special cases for tools that need more then just a type check.
 	var/welderTime = 5 //Welder
 
@@ -60,29 +60,29 @@
 		return
 	..()
 
-/obj/machinery/door/airlock/glass_external/freezable/proc/handleRemoveIce(obj/item/weapon/W as obj, mob/user as mob, var/time = 15 as num)
+/obj/machinery/door/airlock/glass_external/vharr/freezable/proc/handleRemoveIce(obj/item/weapon/W as obj, mob/user as mob, var/time = 15 as num)
 	to_chat(user, "<span class='notice'>You start to chip at the ice covering \the [src]</span>")
 	if(do_after(user, text2num(time SECONDS)))
 		unFreeze()
 		to_chat(user, "<span class='notice'>You finish chipping the ice off \the [src]</span>")
 
-/obj/machinery/door/airlock/glass_external/freezable/proc/unFreeze()
+/obj/machinery/door/airlock/glass_external/vharr/freezable/proc/unFreeze()
 	frozen = 0
 	update_icon()
 	return
 
-/obj/machinery/door/airlock/glass_external/freezable/proc/freeze()
+/obj/machinery/door/airlock/glass_external/vharr/freezable/proc/freeze()
 	frozen = 1
 	update_icon()
 	return
 
-/obj/machinery/door/airlock/glass_external/freezable/update_icon()
+/obj/machinery/door/airlock/glass_external/vharr/freezable/update_icon()
 	..()
 	if(frozen)
 		overlays += image(icon = 'icons/turf/overlays.dmi', icon_state = "snowairlock")
 	return
 
-/obj/machinery/door/airlock/glass_external/freezable/proc/handleFreezeUnfreeze()
+/obj/machinery/door/airlock/glass_external/vharr/freezable/proc/handleFreezeUnfreeze()
 
 	for(var/datum/planet/vharr/P in SSplanets.planets)
 		if(istype(P.weather_holder.current_weather, /datum/weather/vharr/blizzard))
@@ -92,7 +92,7 @@
 			if(frozen && prob(50))
 				unFreeze()
 	return
-/obj/machinery/door/airlock/glass_external/freezable/process()
+/obj/machinery/door/airlock/glass_external/vharr/freezable/process()
 	if(world.time >= nextWeatherCheck && !freezing)  //don't do the thing if i'm already doing it.
 		freezing = 1
 		var/random = rand(2,7)
@@ -101,12 +101,12 @@
 		freezing = 0
 	..()
 
-/obj/machinery/door/airlock/glass_external/freezable/examine(mob/user)
+/obj/machinery/door/airlock/glass_external/vharr/freezable/examine(mob/user)
 	. = ..()
 	if(frozen)
 		to_chat(user, "it's frozen shut!")
 
-/obj/machinery/door/airlock/glass_external/freezable/open(var/forced = 0)
+/obj/machinery/door/airlock/glass_external/vharr/freezable/open(var/forced = 0)
 	//Frozen airlocks can't open.
 	if(frozen && !forced)
 		return
@@ -116,7 +116,7 @@
 	else
 		..()
 
-/obj/machinery/door/airlock/glass_external/freezable/close(var/forced = 0)
+/obj/machinery/door/airlock/glass_external/vharr/freezable/close(var/forced = 0)
 	//Frozen airlocks can't shut either. (Though they shouldn't be able to freeze open)
 	if(frozen && !forced)
 		return
