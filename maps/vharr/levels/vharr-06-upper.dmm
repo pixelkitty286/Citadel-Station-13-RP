@@ -7,9 +7,7 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/space)
 "az" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
+/obj/machinery/door/airlock/glass_external/vharr/freezable,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southernentrance)
 "aI" = (
@@ -165,12 +163,6 @@
 	},
 /turf/simulated/floor/tiled/techmaint,
 /area/vharr/compound_tower/southernentrance)
-"io" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
-/turf/simulated/wall/titanium,
-/area/vharr/compound_tower/southernentrance)
 "it" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -240,9 +232,7 @@
 /turf/simulated/open/vharr,
 /area/vharr/compound_tower/southernentrance)
 "lx" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
+/obj/machinery/door/airlock/glass_external/vharr/freezable,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/west)
 "mB" = (
@@ -438,13 +428,8 @@
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southeast)
 "vq" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
-/turf/simulated/floor/plating/snow/plating/vharr,
+/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/turf/simulated/floor/plating,
 /area/vharr/compound_tower/northeast)
 "vu" = (
 /obj/structure/railing/grey{
@@ -939,12 +924,6 @@
 	},
 /turf/simulated/floor/tiled/techmaint,
 /area/vharr/compound_tower/northeast)
-"Nd" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
-/turf/simulated/floor/plating,
-/area/vharr/compound_tower/northeast)
 "No" = (
 /obj/structure/catwalk,
 /obj/structure/railing/grey{
@@ -975,12 +954,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/vharr/compound_tower/west)
 "Od" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
+/obj/machinery/door/airlock/glass_external/vharr/freezable,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southwest)
 "Oh" = (
@@ -1044,9 +1018,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/vharr/compound_tower/southernentrance)
 "Qa" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
+/obj/machinery/door/airlock/glass_external/vharr/freezable,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southeast)
 "Qp" = (
@@ -1060,9 +1032,7 @@
 /turf/simulated/open/vharr,
 /area/vharr/compound_tower/west)
 "Qz" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
+/obj/machinery/door/airlock/glass_external/vharr/freezable,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/northwest)
 "QF" = (
@@ -1101,9 +1071,7 @@
 /turf/simulated/open/vharr,
 /area/vharr/compound_tower/west)
 "SY" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
+/obj/machinery/door/airlock/glass_external/vharr/freezable,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/east)
 "Tg" = (
@@ -22163,7 +22131,7 @@ Do
 ls
 Ch
 qY
-io
+az
 az
 qY
 Ch
@@ -33853,7 +33821,7 @@ uZ
 LT
 gJ
 LT
-Nd
+vq
 gJ
 LT
 Ty

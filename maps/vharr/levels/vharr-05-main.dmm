@@ -1,28 +1,5 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"az" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
-/turf/simulated/floor/plating,
-/area/space)
 "bU" = (
-/turf/simulated/floor/tiled/techmaint,
-/area/space)
-"kF" = (
-/obj/machinery/door/airlock/glass_external/freezable{
-	req_one_access = list()
-	},
-/turf/simulated/wall/titanium,
-/area/space)
-"kR" = (
-/obj/machinery/light{
-	icon_state = "tube1";
-	dir = 8
-	},
-/turf/simulated/floor/tiled/techmaint,
-/area/space)
-"na" = (
-/obj/machinery/space_heater,
 /turf/simulated/floor/tiled/techmaint,
 /area/space)
 "nX" = (
@@ -43,7 +20,6 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/space)
 "qY" = (
-/obj/effect/wingrille_spawn/reinforced,
 /turf/simulated/floor/plating,
 /area/space)
 "re" = (
@@ -141,27 +117,11 @@
 	},
 /turf/simulated/floor/tiled/techmaint,
 /area/space)
-"Rh" = (
-/obj/machinery/light{
-	icon_state = "tube1";
-	dir = 4
-	},
-/turf/simulated/floor/tiled/techmaint,
-/area/space)
 "TL" = (
 /obj/structure/fence/door/locked{
 	dir = 1
 	},
 /turf/simulated/floor/outdoors/safeice/vharr/indoors,
-/area/space)
-"TW" = (
-/obj/structure/bed/chair{
-	dir = 2
-	},
-/obj/structure/bed/chair{
-	dir = 2
-	},
-/turf/simulated/floor/tiled/techmaint,
 /area/space)
 "UW" = (
 /obj/structure/table/steel,
@@ -16427,9 +16387,9 @@ Do
 Do
 Ch
 Ch
-az
-az
-qY
+Ch
+Ch
+Ch
 Ch
 Do
 Do
@@ -16619,12 +16579,12 @@ Do
 Do
 Do
 Do
-qY
+Ch
 qe
 bU
 bU
 bU
-qY
+Ch
 Do
 Do
 Do
@@ -16812,14 +16772,14 @@ Do
 Do
 Do
 Do
-qY
+Ch
 Ch
 PL
 bU
 bU
 tR
 Ch
-qY
+Ch
 Do
 Do
 Do
@@ -17006,14 +16966,14 @@ Do
 Do
 Do
 Do
-qY
+Ch
 bU
 bU
 nX
 nX
 bU
 UW
-qY
+Ch
 Do
 Do
 Do
@@ -17200,14 +17160,14 @@ Do
 Do
 Do
 Do
-qY
+Ch
 bU
 bU
 nX
 nX
 bU
 Gn
-qY
+Ch
 Do
 Do
 Do
@@ -17979,8 +17939,8 @@ Do
 Ch
 bU
 bU
-kR
-kR
+bU
+bU
 bU
 bU
 Ch
@@ -18559,12 +18519,12 @@ Do
 Do
 Do
 qY
-na
 bU
 bU
 bU
-Gn
-UW
+bU
+bU
+bU
 qY
 Do
 Do
@@ -18753,12 +18713,12 @@ Do
 Do
 Do
 qY
-na
+bU
 bU
 bU
 Bl
-TW
-UW
+bU
+bU
 qY
 Do
 Do
@@ -18947,12 +18907,12 @@ Do
 Do
 Do
 qY
-na
 bU
 bU
 bU
-Gn
-UW
+bU
+bU
+bU
 qY
 Do
 Do
@@ -19531,8 +19491,8 @@ Do
 Ch
 bU
 bU
-Rh
-Rh
+bU
+bU
 bU
 bU
 Ch
@@ -20304,14 +20264,14 @@ Do
 Do
 Do
 Do
-qY
+Ch
 bU
 bU
 bU
 bU
 bU
-Gn
-qY
+bU
+Ch
 Do
 Do
 Do
@@ -20498,14 +20458,14 @@ Do
 Do
 Do
 Do
-qY
+Ch
 bU
 bU
-nX
-nX
 bU
-UW
-qY
+bU
+bU
+bU
+Ch
 Do
 Do
 Do
@@ -20692,14 +20652,14 @@ Do
 Do
 Do
 Do
-qY
+Ch
 Ch
 PL
-nX
-nX
+bU
+bU
 tR
 Ch
-qY
+Ch
 Do
 Do
 Do
@@ -20887,12 +20847,12 @@ Do
 Do
 Do
 Do
-qY
+Ch
 bU
 bU
 bU
 bU
-qY
+Ch
 Do
 Do
 Do
@@ -21081,12 +21041,12 @@ Do
 Do
 Do
 Do
-qY
+Ch
 bU
 bU
 bU
 bU
-qY
+Ch
 Do
 Do
 Do
@@ -21276,10 +21236,10 @@ Do
 Do
 Do
 Ch
-qY
-kF
-az
-qY
+Ch
+Ch
+Ch
+Ch
 Ch
 Do
 Do
