@@ -7,7 +7,7 @@
 /turf/simulated/floor/plating/snow/plating/vharr,
 /area/space)
 "az" = (
-/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/obj/machinery/door/airlock/glass_external,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southernentrance)
 "aI" = (
@@ -232,7 +232,7 @@
 /turf/simulated/open/vharr,
 /area/vharr/compound_tower/southernentrance)
 "lx" = (
-/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/obj/machinery/door/airlock/glass_external,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/west)
 "mB" = (
@@ -428,7 +428,7 @@
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southeast)
 "vq" = (
-/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/obj/machinery/door/airlock/glass_external,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/northeast)
 "vu" = (
@@ -954,7 +954,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/vharr/compound_tower/west)
 "Od" = (
-/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/obj/machinery/door/airlock/glass_external,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southwest)
 "Oh" = (
@@ -1018,7 +1018,7 @@
 /turf/simulated/floor/tiled/techmaint,
 /area/vharr/compound_tower/southernentrance)
 "Qa" = (
-/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/obj/machinery/door/airlock/glass_external,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/southeast)
 "Qp" = (
@@ -1032,7 +1032,7 @@
 /turf/simulated/open/vharr,
 /area/vharr/compound_tower/west)
 "Qz" = (
-/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/obj/machinery/door/airlock/glass_external,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/northwest)
 "QF" = (
@@ -1071,7 +1071,7 @@
 /turf/simulated/open/vharr,
 /area/vharr/compound_tower/west)
 "SY" = (
-/obj/machinery/door/airlock/glass_external/vharr/freezable,
+/obj/machinery/door/airlock/glass_external,
 /turf/simulated/floor/plating,
 /area/vharr/compound_tower/east)
 "Tg" = (
