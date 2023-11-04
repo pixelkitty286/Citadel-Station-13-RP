@@ -270,6 +270,16 @@
 "genre": "Arcade"
 },
 {
+	"url": "https://files.catbox.moe/u2k333.mp3",
+	"title": "Endless Fantasy",
+	"duration": 3570,
+	"artist": "Anamanaguchi",
+	"secret": false,
+	"lobby": false,
+	"jukebox": true,
+	"genre": "Arcade"
+},
+{
 "url": "https://files.catbox.moe/khculm.mp3",
 "title": "Handel This",
 "duration": 900,
