@@ -131,7 +131,7 @@
 	name = "knuckle dusters"
 	desc = "A pair of brass knuckles. Generally used to enhance the user's punches."
 	icon_state = "knuckledusters"
-	materials = list(MAT_STEEL = 500)
+	materials_base = list(MAT_STEEL = 500)
 	attack_verb = list("punched", "beaten", "struck")
 	siemens_coefficient = 1
 	fingerprint_chance = 100
@@ -665,3 +665,9 @@
 	icon_state = "armsleeves_color"
 	worn_render_flags = WORN_RENDER_SLOT_ONE_FOR_ALL
 
+/obj/item/clothing/gloves/ante_gloves
+	name = "Antediluvian Gloves"
+	desc = "Silky, soft black material emphasised by metalic outlines and claws, all with a gold-colored sheen. Fashionably niche."
+	icon = 'icons/clothing/gloves/ante_gloves.dmi'
+	icon_state = "ante_gloves"
+	worn_render_flags = WORN_RENDER_SLOT_ONE_FOR_ALL
