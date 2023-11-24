@@ -263,13 +263,6 @@
 "aS" = (
 /turf/simulated/floor/plating,
 /area/tradeport/atmospherics)
-"aT" = (
-/obj/spawner/window/low_wall/reinforced/full/firelocks,
-/obj/structure/cable/yellow{
-	icon_state = "4-8"
-	},
-/turf/simulated/floor/plating,
-/area/tradeport/pads)
 "aU" = (
 /obj/item/radio/intercom/trader{
 	pixel_y = -25
@@ -1896,8 +1889,12 @@
 /turf/simulated/floor/bmarble,
 /area/tradeport/cafeteria)
 "gP" = (
-/obj/structure/cable/yellow{
-	icon_state = "4-8"
+/obj/effect/shuttle_landmark{
+	base_area = /area/tradeport/pads;
+	base_turf = /turf/simulated/floor/reinforced;
+	docking_controller = "nebula_pump3b";
+	landmark_tag = "nebula_pad_3b";
+	name = "Nebula Pad 3b"
 	},
 /turf/simulated/floor/reinforced,
 /area/tradeport/pads)
@@ -2003,9 +2000,12 @@
 /turf/simulated/shuttle/floor/white,
 /area/shuttle/trade_ship/cockpit)
 "hi" = (
-/obj/machinery/light,
-/obj/structure/cable/yellow{
-	icon_state = "4-8"
+/obj/effect/shuttle_landmark{
+	base_area = /area/tradeport/pads;
+	base_turf = /turf/simulated/floor/reinforced;
+	docking_controller = "nebula_pump3a";
+	landmark_tag = "nebula_pad_3a";
+	name = "Nebula Pad 3"
 	},
 /turf/simulated/floor/reinforced,
 /area/tradeport/pads)
@@ -4772,16 +4772,6 @@
 /obj/machinery/atmospherics/pipe/simple/hidden/supply,
 /obj/structure/catwalk,
 /turf/simulated/floor,
-/area/tradeport/pads)
-"rp" = (
-/obj/effect/shuttle_landmark{
-	base_area = /area/tradeport/pads;
-	base_turf = /turf/simulated/floor/reinforced;
-	docking_controller = "nebula_pump3";
-	landmark_tag = "nebula_pad_3";
-	name = "Nebula Pad 3"
-	},
-/turf/simulated/floor/reinforced,
 /area/tradeport/pads)
 "rq" = (
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
@@ -8703,19 +8693,6 @@
 /obj/machinery/vending/loadout/accessory,
 /turf/simulated/floor/tiled/steel,
 /area/tradeport)
-"FN" = (
-/obj/structure/cable/yellow{
-	icon_state = "1-2"
-	},
-/obj/machinery/atmospherics/pipe/simple/hidden,
-/obj/machinery/atmospherics/pipe/simple/hidden/scrubbers,
-/obj/machinery/atmospherics/pipe/simple/hidden/supply,
-/obj/structure/catwalk,
-/obj/structure/cable/yellow{
-	icon_state = "1-8"
-	},
-/turf/simulated/floor,
-/area/tradeport/pads)
 "FO" = (
 /obj/machinery/atmospherics/pipe/simple/hidden/supply{
 	dir = 4
@@ -9466,8 +9443,12 @@
 /turf/simulated/floor/tiled/dark,
 /area/tradeport/facility)
 "IF" = (
-/obj/structure/cable/yellow{
-	icon_state = "1-4"
+/obj/effect/shuttle_landmark{
+	base_area = /area/tradeport/pads;
+	base_turf = /turf/simulated/floor/reinforced;
+	docking_controller = "nebula_pump3c";
+	landmark_tag = "nebula_pad_3c";
+	name = "Nebula Pad 3b"
 	},
 /turf/simulated/floor/reinforced,
 /area/tradeport/pads)
@@ -37737,7 +37718,7 @@ kf
 kf
 kf
 kf
-rp
+kf
 kf
 Zl
 ia
@@ -37933,7 +37914,7 @@ kf
 kf
 kf
 kf
-IF
+kf
 Yn
 kf
 kf
@@ -38111,23 +38092,23 @@ kf
 Yn
 kf
 kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
-kf
 gP
+kf
+kf
+kf
+kf
+kf
+kf
+kf
+kf
+kf
+kf
+kf
+kf
+IF
+kf
+kf
+kf
 Yn
 kf
 kf
@@ -38321,7 +38302,7 @@ kf
 kf
 kf
 kf
-gP
+kf
 Yn
 kf
 kf
@@ -38515,7 +38496,7 @@ kf
 kf
 kf
 kf
-gP
+kf
 Yn
 kf
 kf
@@ -38709,7 +38690,7 @@ kf
 kf
 kf
 kf
-gP
+kf
 Yn
 kf
 kf
@@ -38903,7 +38884,7 @@ kf
 kf
 kf
 kf
-gP
+kf
 Yn
 kf
 kf
@@ -39097,7 +39078,7 @@ kf
 kf
 kf
 kf
-gP
+kf
 Yn
 kf
 kf
@@ -39291,7 +39272,7 @@ kf
 kf
 kf
 kf
-gP
+kf
 Yn
 kf
 kf
@@ -39485,7 +39466,7 @@ kf
 kf
 kf
 kf
-hi
+Zl
 ia
 gp
 kf
@@ -39670,6 +39651,7 @@ kf
 kf
 kf
 kf
+hi
 kf
 kf
 kf
@@ -39679,7 +39661,6 @@ kf
 kf
 kf
 kf
-gP
 ia
 kf
 kf
@@ -39873,7 +39854,7 @@ kf
 kf
 kf
 kf
-gP
+kf
 ia
 kf
 kf
@@ -40067,7 +40048,7 @@ Ef
 kf
 kf
 kf
-gP
+kf
 ia
 kf
 kf
@@ -40261,7 +40242,7 @@ Cx
 Yn
 ia
 Yn
-aT
+Yn
 ia
 Yn
 Yn
@@ -40455,7 +40436,7 @@ ro
 Rm
 Rm
 Rm
-FN
+Rm
 wB
 Rm
 Rm
@@ -43166,9 +43147,9 @@ kf
 kf
 kf
 kf
+kf
+kf
 rh
-kf
-kf
 kf
 kf
 kf
